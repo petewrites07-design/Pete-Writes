@@ -1,6 +1,7 @@
 let currentCategory = '';
 let currentSubCategory = '';
 let currentStoryTitle = '';
+let currentFontSize = 16; // Default font size sa reader (in pixels)
 
 function getStoryKey(titleName) {
     if (window.storyDatabase) {
@@ -31,6 +32,20 @@ function navigateTo(pageId) {
 
 function setThemeColor(colorName) {
     document.documentElement.setAttribute('data-theme', colorName);
+}
+
+// Function para sa pagpapalaki at pagpapaliit ng font size sa reader
+function adjustFontSize(amount) {
+    const readerContent = document.getElementById('readerContent');
+    if (!readerContent) return;
+
+    currentFontSize += amount;
+    
+    // Limitahan ang laki para hindi sumobra liit o sumobra laki (mula 12px hanggang 32px)
+    if (currentFontSize < 12) currentFontSize = 12;
+    if (currentFontSize > 32) currentFontSize = 32;
+
+    readerContent.style.fontSize = currentFontSize + 'px';
 }
 
 function selectCategory(catId) {
@@ -188,11 +203,14 @@ function openOneShotReader(title, content) {
     document.getElementById('readerTitle').innerText = title;
     document.getElementById('readerBreadcrumb').innerText = currentCategory + ' > ' + title;
     
+    // I-reset ang font size sa default kapag nagbukas ng bagong kwento
+    const readerContent = document.getElementById('readerContent');
+    currentFontSize = 16;
+    readerContent.style.fontSize = currentFontSize + 'px';
+
     const readerHtml = `
-        <div class="text-sm sm:text-base leading-relaxed text-slate-700 dark:text-slate-300 whitespace-pre-line font-sans select-none mb-8">
-            ${content}
-        </div>
-        <div class="border-t border-slate-200 dark:border-slate-800 pt-6 text-center space-y-4">
+        ${content}
+        <div class="border-t border-slate-200 dark:border-slate-800 pt-6 mt-8 text-center space-y-4">
             <p class="text-sm font-bold text-orange-600">✨ You've reached the end ✨</p>
             <div>
                 <button onclick="navigateTo('categoryDisplayPage')" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
@@ -201,7 +219,7 @@ function openOneShotReader(title, content) {
             </div>
         </div>
     `;
-    document.getElementById('readerContent').innerHTML = readerHtml;
+    readerContent.innerHTML = readerHtml;
     navigateTo('readerPage');
 }
 
@@ -216,10 +234,15 @@ function openPartReader(partNum, titleName) {
     document.getElementById('readerTitle').innerText = `${titleName} - Part ${partNum}`;
     document.getElementById('readerBreadcrumb').innerText = `${currentCategory} > Part ${partNum}`;
 
+    // I-reset ang font size sa default kapag nagbukas ng bagong part
+    const readerContent = document.getElementById('readerContent');
+    currentFontSize = 16;
+    readerContent.style.fontSize = currentFontSize + 'px';
+
     let navigationHtml = '';
     if (partNum < totalParts) {
         navigationHtml = `
-            <div class="flex justify-end pt-6">
+            <div class="flex justify-end pt-6 mt-8 border-t border-slate-200 dark:border-slate-800">
                 <button onclick="openPartReader(${partNum + 1}, \`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
                     Next Part →
                 </button>
@@ -227,7 +250,7 @@ function openPartReader(partNum, titleName) {
         `;
     } else {
         navigationHtml = `
-            <div class="border-t border-slate-200 dark:border-slate-800 pt-6 text-center space-y-4">
+            <div class="border-t border-slate-200 dark:border-slate-800 pt-6 mt-8 text-center space-y-4">
                 <p class="text-sm font-bold text-orange-600">✨ You've reached the end of this series ✨</p>
                 <div>
                     <button onclick="showPartsList(\`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
@@ -239,12 +262,10 @@ function openPartReader(partNum, titleName) {
     }
 
     const readerHtml = `
-        <div class="text-sm sm:text-base leading-relaxed text-slate-700 dark:text-slate-300 whitespace-pre-line font-sans select-none mb-6">
-            ${content}
-        </div>
+        ${content}
         ${navigationHtml}
     `;
-    document.getElementById('readerContent').innerHTML = readerHtml;
+    readerContent.innerHTML = readerHtml;
     navigateTo('readerPage');
 }
 
