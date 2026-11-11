@@ -17,9 +17,16 @@ function getStoryKey(titleName) {
 }
 
 function navigateTo(pageId) {
-    document.querySelectorAll('.page-view').forEach(page => page.classList.add('page-hidden'));
+    document.querySelectorAll('.page-view').forEach(page => {
+        page.classList.add('page-hidden');
+        page.style.display = 'none';
+    });
     const targetPage = document.getElementById(pageId);
-    if (targetPage) targetPage.classList.remove('page-hidden');
+    if (targetPage) {
+        targetPage.classList.remove('page-hidden');
+        targetPage.style.display = 'flex';
+    }
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
 function setThemeColor(colorName) {
@@ -44,7 +51,7 @@ function proceedToCategory() {
     if (currentCategory === 'petesarap') {
         area.innerHTML = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                     ← Back to Categories
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">🍷 petesarap's random stories (18+)</span>
@@ -52,12 +59,12 @@ function proceedToCategory() {
             <div class="space-y-4">
                 <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white pb-1">Choose Format:</h3>
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                    <button onclick="showSubCategory('by_parts')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-theme bg-orange-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
+                    <button onclick="showSubCategory('by_parts')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-orange-500 bg-orange-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
                         <div class="text-xl mb-1">📚</div>
-                        <h4 class="font-bold text-sm text-theme-text">By Parts (Series)</h4>
+                        <h4 class="font-bold text-sm text-orange-600">By Parts (Series)</h4>
                         <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Multi-chapter stories split into parts.</p>
                     </button>
-                    <button onclick="showSubCategory('by_oneshot')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-theme bg-indigo-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
+                    <button onclick="showSubCategory('by_oneshot')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-indigo-500 bg-indigo-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
                         <div class="text-xl mb-1">⚡</div>
                         <h4 class="font-bold text-sm text-indigo-600 dark:text-indigo-400">By One-Shot</h4>
                         <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">Complete standalone stories.</p>
@@ -68,7 +75,7 @@ function proceedToCategory() {
     } else if (currentCategory === 'petewrites_random') {
         let html = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                     ← Back to Categories
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">✍️ petewrites' random stories</span>
@@ -77,14 +84,14 @@ function proceedToCategory() {
             <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-2 max-h-[400px] overflow-y-auto p-1">
         `;
         for (let i = 1; i <= 50; i++) {
-            html += `<button onclick="openOneShotReader('Random Story ${i}', 'Buong kwento at ending ng Random Story ${i} na natapos na basahin ng reader...')" class="p-2.5 rounded-lg bg-slate-100 dark:bg-slate-800/60 hover:bg-theme hover:text-white transition-all text-center font-bold text-xs border border-slate-200 dark:border-slate-700 cursor-pointer shadow-sm">Story ${i}</button>`;
+            html += `<button onclick="openOneShotReader('Random Story ${i}', 'Buong kwento at ending ng Random Story ${i} na natapos na basahin ng reader...')" class="p-2.5 rounded-lg bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white transition-all text-center font-bold text-xs border border-slate-200 dark:border-slate-700 cursor-pointer shadow-sm">Story ${i}</button>`;
         }
         html += `</div>`;
         area.innerHTML = html;
     } else if (currentCategory === 'petewrites_novel') {
         area.innerHTML = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+                <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                     ← Back to Categories
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">📖 petewrites' novel stories</span>
@@ -108,7 +115,7 @@ function showSubCategory(subCat) {
     if (subCat === 'by_parts') {
         let html = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                     ← Back to Formats
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">🍷 petesarap's series</span>
@@ -117,20 +124,14 @@ function showSubCategory(subCat) {
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
         `;
         
-        // Awtomatikong kukunin lahat ng nakarehistro sa window.storyDatabase
-        let seriesKeys = [];
-        if (window.storyDatabase) {
-            seriesKeys = Object.keys(window.storyDatabase);
-        } else {
-            seriesKeys = ["petesarapstories_byparts1", "petesarapstories_byparts2", "petesarapstories_byparts3"];
-        }
+        let seriesKeys = window.storyDatabase ? Object.keys(window.storyDatabase) : ["petesarapstories_byparts1", "petesarapstories_byparts2", "petesarapstories_byparts3"];
 
         seriesKeys.forEach((sKey) => {
             const sData = window.storyDatabase[sKey];
             const storyTitle = sData ? sData.title : "Series";
 
-            html += `<button onclick="showPartsList(\`${storyTitle}\`)" class="p-4 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-theme bg-white dark:bg-slate-900 transition-all text-left cursor-pointer shadow-sm">
-                <div class="font-bold text-sm text-theme-text">📖 ${storyTitle}</div>
+            html += `<button onclick="showPartsList(\`${storyTitle}\`)" class="p-4 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-orange-500 bg-white dark:bg-slate-900 transition-all text-left cursor-pointer shadow-sm">
+                <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
             </button>`;
         });
 
@@ -139,7 +140,7 @@ function showSubCategory(subCat) {
     } else {
         let html = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                     ← Back to Formats
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">petesarap's one-shots</span>
@@ -166,17 +167,17 @@ function showPartsList(titleName) {
 
     let html = `
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-            <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-theme hover:text-white transition-all text-xs font-bold text-theme-text cursor-pointer shadow-sm">
+            <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ← Back to Titles
             </button>
             <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right truncate max-w-[220px]">${titleName}</span>
         </div>
-        <h3 class="text-xs sm:text-sm font-bold text-theme-text mb-3">Select Part (1 to ${totalParts}):</h3>
+        <h3 class="text-xs sm:text-sm font-bold text-orange-600 mb-3">Select Part (1 to ${totalParts}):</h3>
         <div class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-7 gap-2">
     `;
     
     for (let part = 1; part <= totalParts; part++) {
-        html += `<button onclick="openPartReader(${part}, \`${titleName}\`)" class="py-3 px-1 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-theme hover:text-white transition-all font-bold text-xs flex flex-col justify-center items-center cursor-pointer shadow-sm">Part ${part}</button>`;
+        html += `<button onclick="openPartReader(${part}, \`${titleName}\`)" class="py-3 px-1 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs flex flex-col justify-center items-center cursor-pointer shadow-sm">Part ${part}</button>`;
     }
     html += `</div>`;
     area.innerHTML = html;
@@ -192,9 +193,9 @@ function openOneShotReader(title, content) {
             ${content}
         </div>
         <div class="border-t border-slate-200 dark:border-slate-800 pt-6 text-center space-y-4">
-            <p class="text-sm font-bold text-theme">✨ You've reached the end ✨</p>
+            <p class="text-sm font-bold text-orange-600">✨ You've reached the end ✨</p>
             <div>
-                <button onclick="navigateTo('categoryDisplayPage')" class="px-5 py-2.5 rounded-xl bg-theme text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
+                <button onclick="navigateTo('categoryDisplayPage')" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
                     ← Back to List
                 </button>
             </div>
@@ -219,7 +220,7 @@ function openPartReader(partNum, titleName) {
     if (partNum < totalParts) {
         navigationHtml = `
             <div class="flex justify-end pt-6">
-                <button onclick="openPartReader(${partNum + 1}, \`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-theme text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
+                <button onclick="openPartReader(${partNum + 1}, \`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
                     Next Part →
                 </button>
             </div>
@@ -227,9 +228,9 @@ function openPartReader(partNum, titleName) {
     } else {
         navigationHtml = `
             <div class="border-t border-slate-200 dark:border-slate-800 pt-6 text-center space-y-4">
-                <p class="text-sm font-bold text-theme">✨ You've reached the end of this series ✨</p>
+                <p class="text-sm font-bold text-orange-600">✨ You've reached the end of this series ✨</p>
                 <div>
-                    <button onclick="showPartsList(\`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-theme text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
+                    <button onclick="showPartsList(\`${titleName}\`)" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
                         ← Back to Parts List
                     </button>
                 </div>
@@ -249,28 +250,6 @@ function openPartReader(partNum, titleName) {
 
 function goBackFromReader() {
     navigateTo('categoryDisplayPage');
-}
-
-function setDeviceView(mode) {
-    const wrapper = document.getElementById('deviceWrapper');
-    const container = document.getElementById('screenContainer');
-    const statusBar = document.getElementById('phoneStatusBar');
-    const btnDesktop = document.getElementById('btnDesktop');
-    const btnMobile = document.getElementById('btnMobile');
-
-    if (mode === 'mobile') {
-        wrapper.className = "w-full flex-grow flex flex-col items-center justify-center p-3";
-        container.className = "w-full max-w-[380px] h-[750px] flex flex-col relative transition-all duration-300 rounded-[32px] border-[8px] border-slate-900 shadow-2xl overflow-y-auto bg-white dark:bg-slate-900";
-        if(statusBar) statusBar.classList.remove('hidden');
-        if(btnMobile) btnMobile.className = "px-3 py-1.5 rounded-full bg-theme text-white transition-all cursor-pointer";
-        if(btnDesktop) btnDesktop.className = "px-3 py-1.5 rounded-full text-slate-600 dark:text-slate-300 transition-all cursor-pointer";
-    } else {
-        wrapper.className = "w-full flex-grow flex flex-col items-center justify-start transition-all duration-300 py-0 md:py-4";
-        container.className = "w-full flex-grow flex flex-col relative transition-all duration-300";
-        if(statusBar) statusBar.classList.add('hidden');
-        if(btnDesktop) btnDesktop.className = "px-3 py-1.5 rounded-full bg-theme text-white transition-all cursor-pointer";
-        if(btnMobile) btnMobile.className = "px-3 py-1.5 rounded-full text-slate-600 dark:text-slate-300 transition-all cursor-pointer";
-    }
 }
 
 function openAboutModal() { document.getElementById('aboutModal').classList.remove('hidden'); }
