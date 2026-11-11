@@ -1,5 +1,16 @@
-.page-hidden { display: none !important; }
-body { font-family: Verdana, sans-serif; transition: background-color 0.3s ease; }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page-hidden { 
+    display: none !important; 
+}
+
+body { 
+    font-family: Verdana, sans-serif; 
+    transition: background-color 0.3s ease;
+    -webkit-text-size-adjust: 100%;
+}
 
 /* 🎨 Literal na Kulay ng Screen para sa Light at Dark Modes */
 html[data-theme="orange"] { --bg-light: #fff7ed; --bg-dark: #1e1b4b; --accent: #f97316; --accent-hover: #ea580c; }
