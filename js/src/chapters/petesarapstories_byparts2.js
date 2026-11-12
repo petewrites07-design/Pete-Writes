@@ -9,5 +9,6 @@ window.storyDatabase["petesarapstories_byparts2"] = {
         4: "Kwento para sa Title 2, Part 4...",
         5: "Kwento para sa Title 2, Part 5...",
         6: "Kwento para sa Title 2, Part 6...",
+        7: "Kwento para sa Title 2, Part 7...",
     }
 };

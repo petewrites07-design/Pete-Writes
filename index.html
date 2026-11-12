@@ -30,6 +30,12 @@
             </div>
 
             <div class="flex flex-wrap items-center gap-2">
+                <!-- Language Selector (BAGO) -->
+                <div class="bg-white/80 dark:bg-slate-900/80 backdrop-blur border border-slate-300 dark:border-slate-800 rounded-full px-2.5 py-1 flex items-center gap-1 shadow-sm">
+                    <button onclick="setLanguage('en')" id="langEnBtn" class="text-xs font-bold px-2 py-0.5 rounded-full bg-orange-600 text-white transition-all cursor-pointer">EN</button>
+                    <button onclick="setLanguage('ph')" id="langPhBtn" class="text-xs font-bold px-2 py-0.5 rounded-full text-slate-500 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer">PH</button>
+                </div>
+
                 <!-- Color Theme Selector Dots -->
                 <div class="bg-white/80 dark:bg-slate-900/80 backdrop-blur border border-slate-300 dark:border-slate-800 rounded-full px-2.5 py-1 flex items-center gap-1.5 shadow-sm">
                     <span class="text-[10px] font-bold text-slate-400 mr-0.5 hidden sm:inline">Color:</span>
@@ -59,25 +65,25 @@
                 <!-- PAGE 1: HOME PAGE -->
                 <main id="homePage" class="page-view w-full max-w-4xl mx-auto px-4 sm:px-6 pt-12 pb-8 flex-grow flex flex-col justify-center items-center text-center">
                     <div class="mb-8 space-y-2 max-w-xl">
-                        <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white">
+                        <h1 id="homeTitle" class="text-3xl sm:text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white">
                             Welcome to my stories!
                         </h1>
-                        <p class="text-sm sm:text-base text-slate-600 dark:text-slate-400">
+                        <p id="homeSubtitle" class="text-sm sm:text-base text-slate-600 dark:text-slate-400">
                             Discover tales, snippets, and novels crafted by Pete.
                         </p>
                     </div>
 
                     <div class="relative my-6">
-                        <button onclick="navigateTo('storiesPage')" class="relative z-50 text-xl sm:text-2xl font-bold text-orange-600 border-b-2 border-orange-500 pb-1 transition-all cursor-pointer">
+                        <button onclick="navigateTo('storiesPage')" id="storiesButtonText" class="relative z-50 text-xl sm:text-2xl font-bold text-orange-600 border-b-2 border-orange-500 pb-1 transition-all cursor-pointer">
                             Stories by Pete Writes
                         </button>
                     </div>
 
                     <div class="mt-8 flex flex-wrap justify-center gap-4">
-                        <button onclick="openAboutModal()" class="px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 font-bold text-sm rounded-xl shadow-sm cursor-pointer z-50">
+                        <button onclick="openAboutModal()" id="aboutBtnText" class="px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 font-bold text-sm rounded-xl shadow-sm cursor-pointer z-50">
                             About Pete
                         </button>
-                        <button onclick="openLinksModal()" class="px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 font-bold text-sm rounded-xl shadow-sm cursor-pointer z-50">
+                        <button onclick="openLinksModal()" id="linksBtnText" class="px-5 py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 font-bold text-sm rounded-xl shadow-sm cursor-pointer z-50">
                             Account Links
                         </button>
                     </div>
@@ -86,7 +92,7 @@
                 <!-- PAGE 2: STORIES PAGE -->
                 <main id="storiesPage" class="page-view page-hidden w-full max-w-5xl mx-auto px-4 py-4 flex-grow flex flex-col justify-start">
                     <div class="mb-4 flex justify-between items-center relative z-50">
-                        <button onclick="navigateTo('homePage')" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 shadow-sm text-xs font-bold cursor-pointer">
+                        <button onclick="navigateTo('homePage')" id="backHomeBtn" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 shadow-sm text-xs font-bold cursor-pointer">
                             ← Back to Home
                         </button>
                     </div>
@@ -95,27 +101,36 @@
                         
                         <!-- Sidebar Area -->
                         <aside class="w-full md:w-72 bg-slate-50 dark:bg-slate-950/60 border-b md:border-b-0 md:border-r border-slate-200 dark:border-slate-800 flex-shrink-0">
-                            <div class="bg-orange-600 p-4 text-white font-bold text-sm shadow-sm">
+                            <div id="selectCategoryHeader" class="bg-orange-600 p-4 text-white font-bold text-sm shadow-sm">
                                 📚 Select Category
                             </div>
 
                             <nav class="p-3 space-y-2 relative z-50">
+                                <!-- Category 1: Petesarap -->
                                 <button onclick="selectCategory('petesarap')" class="w-full text-left p-3 rounded-xl border border-transparent hover:border-red-900/30 cursor-pointer bg-amber-900/10 dark:bg-red-950/20">
                                     <div class="font-bold text-sm text-red-800 dark:text-red-400 flex items-center justify-between">
                                         <span>petesarap's random stories</span>
                                         <span class="text-[10px] bg-red-800 text-white px-1.5 py-0.5 rounded font-mono">18+</span>
                                     </div>
-                                    <div class="text-xs text-red-600/80 dark:text-red-400/70 mt-0.5">Mature Content Available</div>
+                                    <div id="cat1Desc" class="text-xs text-red-600/80 dark:text-red-400/70 mt-0.5">Series & One-Shots (Mature)</div>
                                 </button>
 
+                                <!-- Category 2: BL Stories -->
+                                <button onclick="selectCategory('petewrites_bl')" class="w-full text-left p-3 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-all cursor-pointer">
+                                    <div class="font-bold text-sm text-sky-600 dark:text-sky-400">petewrites' bl stories</div>
+                                    <div id="cat2Desc" class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Boys' Love Series & One-Shots</div>
+                                </button>
+
+                                <!-- Category 3: Petewrites Random -->
                                 <button onclick="selectCategory('petewrites_random')" class="w-full text-left p-3 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-all cursor-pointer">
                                     <div class="font-bold text-sm text-slate-800 dark:text-white">petewrites' random stories</div>
-                                    <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">One-Shots (50 Stories)</div>
+                                    <div id="cat3Desc" class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Series & One-Shots</div>
                                 </button>
 
+                                <!-- Category 4: Novel Stories -->
                                 <button onclick="selectCategory('petewrites_novel')" class="w-full text-left p-3 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-all cursor-pointer">
                                     <div class="font-bold text-sm text-indigo-600 dark:text-indigo-400">petewrites' novel stories</div>
-                                    <div class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Wattpad Link Only</div>
+                                    <div id="cat4Desc" class="text-xs text-slate-500 dark:text-slate-400 mt-0.5">Wattpad Link Only</div>
                                 </button>
                             </nav>
                         </aside>
@@ -123,8 +138,8 @@
                         <!-- Welcome Display Area -->
                         <section class="flex-grow p-6 flex flex-col justify-center items-center relative min-h-[300px]">
                             <div class="w-full max-w-md bg-white dark:bg-slate-950 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-md text-left">
-                                <h2 class="text-xl sm:text-2xl font-bold mb-2 text-slate-900 dark:text-white">Welcome! 👋</h2>
-                                <p class="text-sm text-slate-600 dark:text-slate-400">Select a category from the menu to browse stories.</p>
+                                <h2 id="welcomeHeader" class="text-xl sm:text-2xl font-bold mb-2 text-slate-900 dark:text-white">Welcome! 👋</h2>
+                                <p id="welcomeDesc" class="text-sm text-slate-600 dark:text-slate-400">Select a category from the menu to browse stories.</p>
                             </div>
                         </section>
                     </div>
@@ -137,12 +152,12 @@
                     </div>
                 </main>
 
-                <!-- PAGE 4: STORY READER (May kasamang Font Size Buttons na A- at A+) -->
+                <!-- PAGE 4: STORY READER -->
                 <main id="readerPage" class="page-view page-hidden w-full max-w-4xl mx-auto px-4 py-6 flex-grow flex flex-col justify-start">
                     <div class="w-full bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-lg p-6 sm:p-10 space-y-6 relative z-40 flex flex-col">
                         
                         <div class="flex flex-wrap items-center justify-between gap-3 pb-4 border-b border-slate-200 dark:border-slate-800 relative z-50">
-                            <button onclick="goBackFromReader()" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
+                            <button onclick="goBackFromReader()" id="readerBackBtn" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                                 ← Back
                             </button>
 
@@ -158,7 +173,6 @@
 
                         <h2 id="readerTitle" class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white pt-2">Story Title</h2>
                         
-                        <!-- Ang reader content na may adjustable font size -->
                         <div id="readerContent" class="text-base sm:text-lg leading-relaxed text-slate-700 dark:text-slate-300 whitespace-pre-line font-sans select-none pt-2 transition-all">
                             Story text content...
                         </div>
@@ -178,26 +192,26 @@
     <!-- MODALS -->
     <div id="aboutModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
         <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50">
-            <h3 class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">✍️ About Pete</h3>
-            <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+            <h3 id="aboutModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">✍️ About Pete</h3>
+            <p id="aboutModalText" class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
                 Welcome! I am Pete, a passionate story writer who creates fiction, snippets, and novels across different genres. Thank you for visiting my portal!
             </p>
             <div class="pt-2 flex justify-end">
-                <button onclick="closeModal('aboutModal')" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
+                <button onclick="closeModal('aboutModal')" id="aboutBackBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
             </div>
         </div>
     </div>
 
     <div id="linksModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
         <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50">
-            <h3 class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">🔗 Account Links</h3>
+            <h3 id="linksModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">🔗 Account Links</h3>
             <div class="space-y-2 text-sm">
                 <a href="https://wattpad.com" target="_blank" class="block p-3 rounded-xl bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white font-bold transition-colors">📖 Wattpad Account (@petewrites)</a>
                 <a href="#" class="block p-3 rounded-xl bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white font-bold transition-colors">📘 Facebook Page (Pete Writes)</a>
                 <a href="#" class="block p-3 rounded-xl bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white font-bold transition-colors">📸 Instagram (@petewrites2026)</a>
             </div>
             <div class="pt-2 flex justify-end">
-                <button onclick="closeModal('linksModal')" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
+                <button onclick="closeModal('linksModal')" id="linksBackBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
             </div>
         </div>
     </div>
@@ -205,17 +219,33 @@
     <div id="warningModal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-md z-50 flex justify-center items-center p-4 hidden">
         <div class="bg-white dark:bg-slate-900 border-2 border-red-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 text-center relative z-50">
             <div class="text-3xl">⚠️</div>
-            <h3 class="text-lg font-bold text-red-800 dark:text-red-400">Mature Content Warning (R-18)</h3>
-            <p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+            <h3 id="warningTitle" class="text-lg font-bold text-red-800 dark:text-red-400">Mature Content Warning (R-18)</h3>
+            <p id="warningText" class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
                 This section (petesarap's random stories) contains mature themes intended strictly for readers aged 18 and above.
             </p>
             <div class="pt-2 flex justify-center gap-3">
-                <button onclick="closeModal('warningModal')" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Cancel</button>
-                <button onclick="proceedToCategory()" class="px-4 py-2 bg-red-800 hover:bg-red-700 text-white text-xs font-bold rounded-xl cursor-pointer">I am 18+ (Proceed)</button>
+                <button onclick="closeModal('warningModal')" id="warningCancelBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Cancel</button>
+                <button onclick="proceedToCategory()" id="warningProceedBtn" class="px-4 py-2 bg-red-800 hover:bg-red-700 text-white text-xs font-bold rounded-xl cursor-pointer">I am 18+ (Proceed)</button>
             </div>
         </div>
     </div>
 
+    <!-- RESUME READING POPUP MODAL -->
+    <div id="resumeModal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-md z-50 flex justify-center items-center p-4 hidden">
+        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-sm w-full p-6 shadow-2xl space-y-4 text-center relative z-50">
+            <div class="text-3xl">📖</div>
+            <h3 id="resumeTitle" class="text-lg font-bold text-slate-900 dark:text-white">Continue Reading?</h3>
+            <p id="resumeModalText" class="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
+                We found your last read story. Do you want to continue where you left off?
+            </p>
+            <div class="pt-2 flex justify-center gap-3">
+                <button onclick="dismissResumeModal()" id="resumeCancelBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer hover:bg-slate-300">Cancel</button>
+                <button onclick="confirmResumeReading()" id="resumeYesBtn" class="px-4 py-2 bg-orange-600 hover:bg-orange-500 text-white text-xs font-bold rounded-xl cursor-pointer shadow-md">Yes</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Story Chapter Scripts -->
     <script src="js/src/chapters/petesarapstories_byparts1.js"></script>
     <script src="js/src/chapters/petesarapstories_byparts2.js"></script>
     <script src="js/src/chapters/petesarapstories_byparts3.js"></script>
