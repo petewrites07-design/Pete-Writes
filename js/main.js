@@ -373,7 +373,7 @@ function renderFormatSelectionDirect() {
         return;
     }
 
-    area.innerHTML = `
+area.innerHTML = `
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
             <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ${t.backBtn}
@@ -384,13 +384,11 @@ function renderFormatSelectionDirect() {
             <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white pb-1">${t.chooseFormat}</h3>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <button onclick="showSubCategory('by_parts')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-orange-500 bg-orange-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
-                    <div class="text-xl mb-1">📚</div>
-                    <h4 class="font-bold text-sm text-orange-600">${t.byPartsTitle}</h4>
+                    <h4 class="font-bold text-sm text-orange-600">📖 ❤️ ${t.byPartsTitle}</h4>
                     <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">${t.byPartsDesc}</p>
                 </button>
                 <button onclick="showSubCategory('by_oneshot')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-indigo-500 bg-indigo-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
-                    <div class="text-xl mb-1">⚡</div>
-                    <h4 class="font-bold text-sm text-indigo-600 dark:text-indigo-400">${t.byOneshotTitle}</h4>
+                    <h4 class="font-bold text-sm text-indigo-600 dark:text-indigo-400">📄 ❤️ ${t.byOneshotTitle}</h4>
                     <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">${t.byOneshotDesc}</p>
                 </button>
             </div>
@@ -479,7 +477,7 @@ function renderSubCategoryDirect() {
                 const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2">${t.lastReadBadge}</span>` : '';
 
                 html += `<button onclick="openOneShotReader(\`${safeTitle}\`, \`${safeContent}\`)" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between">
-                    <span>⚡ ${title}</span>
+                    <span>${title}</span>
                     ${mark}
                 </button>`;
             });
