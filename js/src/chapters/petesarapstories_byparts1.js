@@ -1,7 +1,10 @@
 window.storyDatabase = window.storyDatabase || {};
 
 window.storyDatabase["petesarapstories_byparts1"] = {
-    title: "Cleo and Patra Story",
+    title: "Cleo and Patra Story (BL)",
+    category: "petesarap",
+    genre: "Fiction • Romance • Mature • Drama", // <-- Dito mo ilalagay ang genre
+    description: "Ang kuwento nina Cleo at Patra na mag-dormmates na nauwi sa... basahin ang kuwento!", // <-- Dito ang synopsis
     parts: {
         "Part 1": `Ako si Cleo at may bet ako, si Patra. Lalaki siya at feminine ang mukha niya and I don't know if he is gay too or bisexual kasi hindi naman kami gaanong close. Dormmates lang din naman kami rito sa dorm ng university.
 
@@ -115,7 +118,7 @@ Solve na solve ako. Ang sarap talaga! Ugh!`,
 
 Isang taon na ang nakalipas mula nang mangyari sa amin ni Patra 'yon and we are still dormmates pa rin. Skip na natin 'yung mga scenes na dapat ay amin lang dahil ilang beses namin ginagawa naman 'yon.
 
-Wala na rin akong naka-ano na iba dahil sa kanya na lang ako gumanoon at hindi na sa iba. Hindi ko na rin hinanap ba, ganoon. Safe din naman ang ginagawa naming dalawa ni Patra kaya no worries. Negative naman palagi kapag nagpapa-test kami kaya chill and happy lang kami.
+Wala na rin akong naka-sex na iba dahil sa kanya na lang ako gumanoon at hindi na sa iba. Hindi ko na rin hinanap ba, ganoon. Safe din naman ang ginagawa naming dalawa ni Patra kaya no worries. Negative naman palagi kapag nagpapa-test kami kaya chill and happy lang kami.
 
 We're still doing that thing subalit hindi na madalas. Parang nahihiya na akong mag-aya kasi hindi ko ma-explain 'yung feeling eh... Kahit din naman siya ay hindi na nag-aaya sa akin kaya ayon, hinahayaan ko na lang.
 
@@ -201,7 +204,7 @@ Nanlaki ang mata ko sa sinabi niya. Not sure pa ako sa react ko. "Huh? Wait, sin
 
 Nalito ako. "Tingin mo ba, mag-boyfriend na tayo sa lagay nating 'yon?"
 
-"Oo! Ang dami mong motibo! Iniisip kong totoo ang lahat ng iyon kasi iyon ang mga pinapakita mo sa akin! Kasi ako, gusto kita. Gusto kong kausap ka at lahat-lahat gusto ko sa 'yo hindi lang 'yung s*x nating dalawa."
+"Oo! Ang dami mong motibo! Iniisip kong totoo ang lahat ng iyon kasi iyon ang mga pinapakita mo sa akin! Kasi ako, gusto kita. Gusto kong kausap ka at lahat-lahat gusto ko sa 'yo hindi lang 'yung sex nating dalawa."
 
 Hindi ko alam ang magiging reaksyon ko sa sinasabi niya. Ganoon na pala 'yon?
 
@@ -291,11 +294,11 @@ Napakunot-noo siya ngunit mukhang nakuha niya 'yung sinabi ko. "Ah! Alam ko na '
 
 "Pwede ba? Ito lang ang alam ko, 'yung pagsubo lang."
 
-"Pero handa ka ngang magpa-bottom sa akin? Gusto kitang i-f*ck sa totoo lang."
+"Pero handa ka ngang magpa-bottom sa akin? Gusto kitang i-fuck sa totoo lang."
 
 Nang-init nga ako bigla at kinabahan. Kakayanin ko ba 'yan? Ang laki kaya ng ano niya! Alam n'yo na kung ano 'yung tinutukoy kong ano!
 
-So ayon, tinuruan niya nga ako at nag-search ako kung ano'ng proseso no'n. Wala nga lang ako kakaining pagkain para talagang malinis itong pw*t ko tapos bidet 'yung ginamit kong pang-linis. Itinapat ko 'yon sa butas ng pw*t ko at hinayaan ko ang pressure ng tubig para mapuno ang loob ko upang maging malinis talaga ako.
+So ayon, tinuruan niya nga ako at nag-search ako kung ano'ng proseso no'n. Wala nga lang ako kakaining pagkain para talagang malinis itong pwet ko tapos bidet 'yung ginamit kong pang-linis. Itinapat ko 'yon sa butas ng pwet ko at hinayaan ko ang pressure ng tubig para mapuno ang loob ko upang maging malinis talaga ako.
 
 At ayon! Tanggal ang dumi!
 
@@ -311,11 +314,11 @@ Hinalikan naman niya ako sa pisngi ko. "Sorry. Aalagaan naman kita kapag after n
 
 Niyakap ko na lamang siya at nagtago ako sa balikat niya.
 
-Playboy ito si Cleo kaya alam na alam niya ang mga iyon na akin lang ding natutuhan, pero dati lang siya ganoon kasi sinabi na lang niya sa akin na fubus na lang daw kami at ako na lang daw ang makaka-s*x niya na dapat lang naman kasi siya ang una kong naka-ano at siya 'tong nakauna sa akin kaya hindi na siya puwedeng mapunta sa iba, ano!
+Playboy ito si Cleo kaya alam na alam niya ang mga iyon na akin lang ding natutuhan, pero dati lang siya ganoon kasi sinabi na lang niya sa akin na fubus na lang daw kami at ako na lang daw ang makaka-sex niya na dapat lang naman kasi siya ang una kong naka-ano at siya 'tong nakauna sa akin kaya hindi na siya puwedeng mapunta sa iba, ano!
 
-Kaya sa paglipas ng isang taon ay kami lang talagang dalawa ang naggaganoon kaso napansin ko, hindi na siya nag-aaya no'n habang ako naman ay nag-o-overthink na baka ayaw na niya nung s*x or ayaw na niya sa akin kaya hindi na rin ako makapag-aya.
+Kaya sa paglipas ng isang taon ay kami lang talagang dalawa ang naggaganoon kaso napansin ko, hindi na siya nag-aaya no'n habang ako naman ay nag-o-overthink na baka ayaw na niya nung sex or ayaw na niya sa akin kaya hindi na rin ako makapag-aya.
 
-Na-attach na rin yata ako sa kanya nang tuluyan hindi lang dahil sa s*x at napapansin ko 'yon sa sarili ko but sinasabi ko naman sa sarili ko na lilimitahan ko na lang ito kasi magga-graduate na ako after ng OJT ko now, baka magkawalay na kami.
+Na-attach na rin yata ako sa kanya nang tuluyan hindi lang dahil sa sex at napapansin ko 'yon sa sarili ko but sinasabi ko naman sa sarili ko na lilimitahan ko na lang ito kasi magga-graduate na ako after ng OJT ko now, baka magkawalay na kami.
 
 Subalit kapag tuwing katabi ko si Cleo o hindi kaya'y nag-uusap kami o nagkakalandian, tila ba rumurupok ako sa kanya.
 
@@ -324,8 +327,6 @@ Parang ayaw ko na siyang mawala. Pero paano? Aamin ba ako sa nararamdaman ko? Ba
 Wala akong mapagsabihan nito hanggang isang araw ay may nakausap ako, isa siyang bagong trabahador na pinag-o-OJT-an ko sa company na ito; ang publishing company. Pareho kami ng trainor nito kaya nakausap ko siya nung makita ko ang lock screen niya sa cellphone niya.
 
 "Hello, gay ka po pala?" tanong ko sa kanya at Servo ang pangalan niya. "Boyfriend mo po ba 'yang nasa lock screen mo, Kuya Servo?"
-
-@petewrites2025
 
 "Ah... Nakita mo pala," aniya at saka niya tinago ang cellphone niya. "Oo, may boyfriend ako. May tampuhan nga kami niyan eh! Pero love ko 'yun!"
 
@@ -357,9 +358,7 @@ Kaya kinabukasan, day off ko 'yon ng araw na 'yon ay ikinagulat ko na umamin si 
 
 Edi ayon, naging kami na... Hehe! Ang bilis, ano? Ganoon nararamdaman namin eh! Nakakakilig, hays!
 
-Okay naman kami, walang bago sa amin at okay lang talaga kami... Naging mag-boyfriends lang naman kami at hindi naman magbabago ang turingan naming dalawa sa isa't isa. Kung ano ang turingan namin nung after niya ako i-mouthf*ck nang todo, ganoon pa rin kami until now. Level nga lang kasi boyfriend ko na siya.
-
-@petewrites2025
+Okay naman kami, walang bago sa amin at okay lang talaga kami... Naging mag-boyfriends lang naman kami at hindi naman magbabago ang turingan naming dalawa sa isa't isa. Kung ano ang turingan namin nung after niya ako i-mouthfuck nang todo, ganoon pa rin kami until now. Level nga lang kasi boyfriend ko na siya.
 
 "Happy second monthsary, babe!" pagbati sa akin ni Cleo.
 
@@ -431,7 +430,39 @@ Hindi rin naman nagtagal ay lumipat na kami sa isang maliit pero maayos na apart
 
 Sa bawat umaga na sabay kaming nagigising at sa bawat gabing magkasama kaming natutulog, alam kong tama ang desisyon naming manatili sa isa't isa. Sa una nga'y pinipigilan ko ang sarili ko. Pero ngayon, buo na ako bilang ako at ito na ang pinipili kong kapalaran ko. Sa bawat araw na kasama ko si Cleo, mas lalo kong napapatunayan na ang pagmamahal ay hindi kailangang itago o ikahiya kahit pa pareho kami ng kasarian.
 
-- - - WAKAS - - -`,
+WAKAS`,
+
+     "Bonus Funny Part": `(natapos ang seggs)
+
+Cleo: (Niyakap si Patra) Na-realize ko kapag pinag-connect pala name natin, it will formed as the queen of the Ptolemaic Kingdom of Egypt.
+
+Patra: So, it is CleoPatra pala? Oo nga, ano! What a coincidence!
+
+Cleo: Yeah ang galing ano? (Kissed Patra on cheeks)
+
+Patra: Ngayon ko lang na-realize.
+
+Cleo: Ako rin, but my name is Cleonner and your name is Patreon... Is it Pa-tre-yon? Hindi ko alam paano i-pronounce.
+
+Patra: Hindi mo pa rin alam i-pronounce ang name ko? Sa tagal nating magkakilala at nagse-sex?
+
+Cleo: Sorry, nakakalito kasi but your nickname is Patra, 'di ba?
+
+Patra: Yeah, nickname ko nga 'yan kasi hirap ibigkas ng Papa ko raw 'yung name na naisip ni Mama ko sa akin. Pay-tree-on ang pronunciation.
+
+Cleo: Ah okay! Patreon pala. (laugh)
+
+Patra: Arte, ano?
+
+Cleo: Mahirap nga i-pronounce, parang may mas madali akong naisip na i-pronounce diyan.
+
+Patra: Ano?
+
+Cleo: Babe
+
+Patra: (napangiti)
+
+[at nagtuloy na sila sa 2nd round ng seggs]`,
 
     }
 };

@@ -40,6 +40,13 @@ html.dark body {
 .hover\:border-theme:hover { border-color: var(--accent) !important; }
 .hover\:bg-theme:hover { background-color: var(--accent-hover) !important; }
 
+/* 🔄 Override sa hardcoded Tailwind orange classes para sumunod sa Theme Dots */
+.bg-orange-600, .bg-orange-500 { background-color: var(--accent) !important; }
+.text-orange-600, .text-orange-500 { color: var(--accent) !important; }
+.border-orange-500, .border-orange-600 { border-color: var(--accent) !important; }
+.hover\:bg-orange-600:hover, .hover\:bg-orange-700:hover { background-color: var(--accent-hover) !important; }
+.hover\:text-orange-600:hover { color: var(--accent-hover) !important; }
+
 /* Plain background na walang gradient/glow */
 .glow-bg { 
     background: transparent !important; 

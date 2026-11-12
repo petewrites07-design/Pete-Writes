@@ -1,9 +1,10 @@
-window.storyDatabase = window.storyDatabase || {};
-
-window.storyDatabase["petesarapstories_byparts3"] = {
-    title: "Title 3 (Series Name)",
+window.storyDatabase['cleo_and_patra'] = {
+    title: "Cleo and Patra Story",
+    category: "petesarap",
+    genre: "Romance • Mature • Drama", // <-- Dito mo ilalagay ang genre
+    description: "Isang maikling kwento tungkol sa dalawang pusong pinagtagpo sa maling pagkakataon.", // <-- Dito ang synopsis
     parts: {
-        1: "Kwento para sa Title 2, Part 1...",
-        2: "Kwento para sa Title 2, Part 2...",
+        "Part 1": "Nilalaman ng unang bahagi...",
+        "Part 2": "Nilalaman ng ikalawang bahagi..."
     }
 };

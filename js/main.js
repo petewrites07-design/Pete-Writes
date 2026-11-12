@@ -510,6 +510,8 @@ function renderPartsListDirect() {
 
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
     const titleName = storyData ? storyData.title : "Story Series";
+    const storyGenre = (storyData && storyData.genre) ? storyData.genre : "";
+    const storyDesc = (storyData && storyData.description) ? storyData.description : "";
     const partNames = (storyData && storyData.parts) ? Object.keys(storyData.parts) : [];
 
     const progress = getSavedProgress();
@@ -517,12 +519,25 @@ function renderPartsListDirect() {
     const lastPartName = savedEntry ? savedEntry.partName : '';
 
     let html = `
-        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-4 border-b border-slate-200 dark:border-slate-800">
             <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ${t.backTitles}
             </button>
             <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right truncate max-w-[220px]">${titleName}</span>
         </div>
+    `;
+
+    // Kung may nilagay kang Genre o Description, lalabas siya dito sa itaas ng mga parts box!
+    if (storyGenre || storyDesc) {
+        html += `
+            <div class="mb-5 p-4 rounded-xl bg-orange-50/50 dark:bg-slate-950/50 border border-orange-200 dark:border-orange-950/40 space-y-2 text-left">
+                ${storyGenre ? `<div class="inline-block px-2.5 py-0.5 rounded-full bg-orange-600 text-white text-[10px] font-bold tracking-wide">${storyGenre}</div>` : ''}
+                ${storyDesc ? `<p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">${storyDesc}</p>` : ''}
+            </div>
+        `;
+    }
+
+    html += `
         <h3 class="text-xs sm:text-sm font-bold text-orange-600 mb-3">${t.selectChapter} (${partNames.length} available):</h3>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5">
     `;
