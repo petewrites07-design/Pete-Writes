@@ -3,9 +3,9 @@ window.storyDatabase = window.storyDatabase || {};
 window.storyDatabase["petesarapstories_byparts1"] = {
     title: "Cleo and Patra Story",
     parts: {
-        1: `Ako si Cleo at may bet ako, si Patra. Lalaki siya at feminine ang mukha niya and I don't know if he is gay too or bisexual kasi hindi naman kami gaanong close. Dormmates lang din naman kami rito sa dorm ng university.
+        "Part 1": `Ako si Cleo at may bet ako, si Patra. Lalaki siya at feminine ang mukha niya and I don't know if he is gay too or bisexual kasi hindi naman kami gaanong close. Dormmates lang din naman kami rito sa dorm ng university.
 
-Sobrang cute niya at nalilibugan ako sa kanya sa totoo lang. Tinitigasan talaga ako sa kanya kaya ngayon, hindi na ako nakatiis na akitin siya. Gwapo ako, may biceps, may abs at may malaking ano kaya tingin ko'y bibigay 'to sa akin katulad ng mga nakaka-ano ko dati.
+Sobrang cute niya at nalilibugan ako sa kanya sa totoo lang. Tinitigasan talaga ako sa kanya kaya ngayon, hindi na ako nakatiis na akitin siya. Gwapo ako, may biceps, may abs at may malaking kargada kaya tingin ko'y bibigay 'to sa akin katulad ng mga nakaka-sex ko dati.
 
 Nakatapis ako ng tuwalya sa pambaba ko nang lumabas ako ng banyo habang siya'y kumakain. Sinuot ko 'yung boxers ko sa harapan niya habang nakatapis pa rin ako. Umangat na nga ako pagkasuot ko nung boxers ko kaya binalandra ko 'yung abs ko sa kanya.
 
@@ -39,7 +39,7 @@ Nakatulog pala ako!
 
 At nagising na lang ako na ano!
 
-Na sinusubo ni Patra ang ano ko!
+Na sinusubo ni Patra ang burat ko!
 
 Ito pala 'yung nararamdaman kong basa!
 
@@ -47,15 +47,15 @@ Waaahhh!!
 
 Nagtagumpay ako!
 
-Nagtulog-tulugan nga ako roon saglit at hinayaan ko na lang ang pagsubo niya sa ano ko. Ang galing niya, grabe! Ang sarap! Mapapamura ka sa sarap!
+Nagtulog-tulugan nga ako roon saglit at hinayaan ko na lang ang pagsubo niya sa kargada ko. Ang galing niya, grabe! Ang sarap! Mapapamura ka sa sarap!
 
-Naakit na nga siguro siya sa akin, ano? Siguro nakita niyang bakat ang ano ko kaya ganiyan siya tapos na-hot-an siya sa akin.
+Naakit na nga siguro siya sa akin, ano? Siguro nakita niyang bakat ito kaya ganiyan siya tapos na-hot-an siya sa akin.
 
-Normal things lang naman sa akin 'yan boy!
+Normal things lang naman sa akin 'yan, boy!
 
 "Gawk! Gawk! Gawk!"
 
-Lamon na lamon siya sa aking naninigas na malaking ano at tumutunog pa nga gawa ng laway niya. Umuungol pa nga siya no'n tapos para siyang gutom na gutom dito.
+Lamon na lamon siya sa aking naninigas na malaking alaga at tumutunog pa nga gawa ng laway niya. Umuungol pa nga siya no'n tapos para siyang gutom na gutom dito.
 
 Kaya hindi ko na naiwasan pang dumilat at nang makita niyang nakadilat ang mga mata ko ay napatingin siya sa akin.
 
@@ -67,17 +67,17 @@ Speechless siya tapos tumutulo pa ang laway. Napangisi ako.
 
 "Uh... Ahm... H-Hindi ka ba galit sa akin? Na... ginawa ko ito sa 'yo? I'm so... so sorry."
 
-"Talagang umakyat ka pa rito sa higaan ko para lang magawa ito sa ano ko?" Tinuro ko 'yung ano ko, basang-basa na itong ano ko at kumikintab pa.
+"Talagang umakyat ka pa rito sa higaan ko para lang magawa ito sa tite ko?" Tinuro ko 'yung burat ko, basang-basa na ito at kumikintab pa.
 
 "Matagal ko nang pinapantasya 'yan, boy. Pasensya na at hindi ko na nakayanan."
 
 Nalibugan nga ako sa kaniyang aniya kaya naman kinuha ko na nga 'yung ulo niya at sinusubsob ko na siya sa sobrang hard na shining alaga ko.
 
-G naman siya rito at hindi niya tinatanggal 'yung ano ko sa bunganga niya.
+G naman siya rito at hindi niya tinatanggal 'yung burat ko sa bunganga niya.
 
-Kahit mino-mouthf*ck ko siya ay g na g pa rin siya. Sobrang lamon na lamon at tunog na tunog nga 'yon sa bunganga niya kaya tinira ko lang nang tinira ang bunganga niya at napapatingala na lang ako sa sarap.
+Kahit mino-mouthfuck ko siya ay g na g pa rin siya. Sobrang lamon na lamon at tunog na tunog nga 'yon sa bunganga niya kaya tinira ko lang nang tinira ang bunganga niya at napapatingala na lang ako sa sarap.
 
-"Sarap ba? Sarap! Sige lamunin mo. Gusto mo 'yan? Gusto ko 'yan, gago!" nanggigigil kong sabi sa kanya at mariin ko siyang minouthf*ck nang minouthf*ck.
+"Sarap ba? Sarap! Sige lamunin mo. Gusto mo 'yan? Gusto ko 'yan, gago!" nanggigigil kong sabi sa kanya at mariin ko siyang minouthfuck nang minouthfuck.
 
 Sinubo niya lang ito nang sinubo nang sinubo at ako naman ay binayo ko lang nang binayo nang binayo nang binayo ang bunganga niya until I get released on his face.
 
@@ -91,7 +91,7 @@ Hinalikan ko nga siya sa noo niya nang matapos kami.
 
 "Akin na 'yan ah! Pinalamon mo na sa akin nang malala eh."
 
-"Ito?" Tinuro ko nga ang ano ko. "Oo naman, iyong-iyo na. Kahit palagi mo pa isubo ay ayos lang."
+"Ito?" Tinuro ko nga ang alaga kong matigas pa rin. "Oo naman, iyong-iyo na. Kahit palagi mo pa isubo ay ayos lang."
 
 "Huwag mo na ipasubo sa iba 'yan ah, akin na lang talaga 'yan kung hindi puputulin ko 'yan habang natutulog ka!"
 
@@ -103,7 +103,7 @@ Hinalikan ko nga muli siya sa noo niya at sa ibabaw ng ulo niya tapos ngumiti ak
 
 Solve na solve ako. Ang sarap talaga! Ugh!`,
 
-        2: `[CLEO]
+        "Part 2": `CLEO'S POV
 
 "After ng class mo, umuwi ka kaagad, ha? Paglulutuan kita, Cleo!" sabi ni Patra sa akin pagkatapos ko ayusin ang bag ko.
 
@@ -227,7 +227,7 @@ Wews! Nakakatanga na! Basta sobrang saya ng nararamdaman ko rin ngayon. Tila gum
 
 Bahala na! Panindigan ko na lang si Patra.`,
 
-        3: `[PATRA]
+        "Part 3": `PATRA'S POV
 
 Sa totoo lang...
 
