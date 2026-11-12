@@ -780,7 +780,9 @@ document.addEventListener('keydown', function(e) {
 
         // Isingit mo ito sa pinaka-dulo ng js/main.js mo
 // Automated Copyright & Year Update
+// Automated Copyright & Year Update for Pete Writes
+// Awtomatikong mag-a-update ang copyright at handle year
 document.getElementById("copyright-year").textContent = new Date().getFullYear();
 document.getElementById("current-year").textContent = new Date().getFullYear();
-    }
+}
 });
