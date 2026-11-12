@@ -230,7 +230,7 @@ Wews! Nakakatanga na! Basta sobrang saya ng nararamdaman ko rin ngayon. Tila gum
 
 Bahala na! Panindigan ko na lang si Patra.`,
 
-        "Part 3": `PATRA'S POV
+        "Last part": `PATRA'S POV
 
 Sa totoo lang...
 

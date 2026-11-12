@@ -1,9 +1,9 @@
 window.storyDatabase = window.storyDatabase || {};
 
 window.storyDatabase["petesarapstories_byparts2"] = {
-    title: "Papalag",
+    title: "Papalag (BL)",
     category: "petesarap",
-    genre: "Fiction • Academic Rival Romance • Mature • Drama",
+    genre: "Fiction • Academic Rival • Romance • Mature • Drama",
     description: "This is the story of Carl and Erill. Enemies, Academic Rivals, basta magkaaway! Hanggang saan kaya hahantong ito gayong pareho silang nang-iinit sa isa't isa? Init sa galit o sa libog? Basta papalag silang dalawa sa isa't isa kasi ayaw ng isa maging mahina sa paningin ng enemy niya. Basahin na ang kwento!",
     parts: {
         "Part 1": `"Paano ba 'yan? Nataasan na kita? Ako na ngayon ang running Summa Cum Laude at ikaw? Walang laude!" pagmamayabang sa akin ni Erill. My mortal enemy and my academic rival.
@@ -850,7 +850,7 @@ Sana kapag titirahin ko ulit siya, nandoon pa rin ang pagpalag niya sa akin.
 
 I hope soon or sooner or soonest...maghihintay ako sa iyo, Carl.`,
 
-        "Part 5": `itscarlsecurity:
+        "Last part": `itscarlsecurity:
 
 kayo na bahala sa surprise kay mama hahaha
 
