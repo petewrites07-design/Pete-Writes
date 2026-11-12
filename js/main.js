@@ -777,5 +777,8 @@ document.addEventListener('keydown', function(e) {
     if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's' || e.key === 'a')) {
         e.preventDefault();
         alert("Protected Content: Copying is disabled.");
+
+        // Isingit mo ito sa pinaka-dulo ng js/main.js mo
+document.getElementById("copyright-year").textContent = new Date().getFullYear();
     }
 });
