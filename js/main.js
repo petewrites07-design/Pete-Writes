@@ -14,9 +14,9 @@ const LANG_STORAGE_KEY = 'petewrites_language';
 // --- TRANSLATIONS DICTIONARY ---
 const translations = {
     en: {
-        homeTitle: "Welcome to my stories!",
-        homeSubtitle: "Discover tales, snippets, and novels crafted by Pete.",
-        storiesButton: "Stories by Pete Writes",
+        homeTitle: "Welcome to the website of petewrites' stories!",
+        homeSubtitle: "ENJOY READING AND HAPPY READING!",
+        storiesButton: "Written by Pete Writes",
         aboutBtn: "About Pete",
         linksBtn: "Account Links",
         backHome: "← Back to Home",
@@ -59,8 +59,8 @@ const translations = {
         lightMode: "Light Mode"
     },
     ph: {
-        homeTitle: "Maligayang pagdating sa aking mga kwento!",
-        homeSubtitle: "Tuklasin ang mga kwento, snippet, at nobelang nilikha ni Pete.",
+        homeTitle: "Welcome to the website of petewrites' stories!",
+        homeSubtitle: "ENJOY READING AND HAPPY READING!",
         storiesButton: "Mga Kwento ni Pete Writes",
         aboutBtn: "Tungkol kay Pete",
         linksBtn: "Mga Account Link",
@@ -74,7 +74,7 @@ const translations = {
         welcomeDesc: "Pumili ng kategorya mula sa menu upang mag-browse ng mga kwento.",
         backBtn: "← Bumalik",
         aboutTitle: "✍️ Tungkol kay Pete",
-        aboutText: "Ako ay isang independent random fiction writer at BSIT graduate. Nagsusulat ako sa Wattpad noong 2017 pa at nakagawa ng Facebook writing page noong 2021. Nagsusulat ako ng mga kwento dahil dito ako masaya at gusto kong maibahagi ang aking mga naiisip at imahinasyon sa iba. Higit sa lahat, sana ay may mapulot silang aral sa buhay na makakatulong at magbibigay-inspirasyon sa kanilang paglalakbay.",
+        aboutText: "I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.",
         linksTitle: "🔗 Mga Account Link",
         warningTitle: "Babala sa Sensitibong Nilalaman (R-18)",
         warningText: "Ang seksyong ito (petesarap's random stories) ay naglalaman ng mga temang pang-mature na para lamang sa mga edad 18 pataas.",
@@ -357,7 +357,7 @@ function renderFormatSelectionDirect() {
     const area = document.getElementById('categoryContentArea');
     const t = translations[currentLang];
 
-    if (currentCategory === 'petewrites_novel') {
+if (currentCategory === 'petewrites_novel') {
         area.innerHTML = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
                 <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
@@ -369,7 +369,7 @@ function renderFormatSelectionDirect() {
                 <div class="text-3xl">📖</div>
                 <h3 class="text-base sm:text-lg font-bold text-slate-900 dark:text-white">petewrites' novel stories</h3>
                 <p class="text-xs text-slate-600 dark:text-slate-400 max-w-sm">${t.novelNotice}</p>
-                <a href="https://wattpad.com" target="_blank" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-xs shadow-md cursor-pointer">
+                <a href="https://www.wattpad.com/user/wterpe" target="_blank" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-purple-600 hover:bg-purple-700 text-white font-bold text-xs shadow-md cursor-pointer">
                     <span>${t.openWattpad}</span><span>↗</span>
                 </a>
             </div>
