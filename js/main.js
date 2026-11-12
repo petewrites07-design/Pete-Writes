@@ -342,7 +342,7 @@ function proceedToCategory() {
 
 function getCategoryLabel(catId) {
     if (catId === 'petesarap') return "🍷 petesarap's random stories (18+)";
-    if (catId === 'petewrites_bl') return "💙 petewrites' bl stories";
+    if (catId === 'petewrites_bl') return "💙 petewrites' random bl stories";
     if (catId === 'petewrites_random') return "✍️ petewrites' random stories";
     if (catId === 'petewrites_novel') return "📖 petewrites' novel stories";
     return "Stories";
