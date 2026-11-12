@@ -5,7 +5,8 @@ let currentReaderMode = '';
 let activeSaveId = '';
 let currentFontSize = 16;
 let pendingResumeData = null;
-let currentLang = 'en'; // Default language
+let currentLang = 'en';
+let clickItInterval = null;
 
 const STORAGE_KEY = 'petewrites_reading_progress';
 const LANG_STORAGE_KEY = 'petewrites_language';
@@ -28,7 +29,7 @@ const translations = {
         welcomeDesc: "Select a category from the menu to browse stories.",
         backBtn: "← Back",
         aboutTitle: "✍️ About Pete",
-        aboutText: "Welcome! I am Pete, a passionate story writer who creates fiction, snippets, and novels across different genres. Thank you for visiting my portal!",
+        aboutText: "I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.",
         linksTitle: "🔗 Account Links",
         warningTitle: "Mature Content Warning (R-18)",
         warningText: "This section (petesarap's random stories) contains mature themes intended strictly for readers aged 18 and above.",
@@ -55,8 +56,7 @@ const translations = {
         lastRead: "Last read:",
         lastReadBadge: "Last Read",
         darkMode: "Dark Mode",
-        lightMode: "Light Mode",
-        fontLabel: "Font:"
+        lightMode: "Light Mode"
     },
     ph: {
         homeTitle: "Maligayang pagdating sa aking mga kwento!",
@@ -74,7 +74,7 @@ const translations = {
         welcomeDesc: "Pumili ng kategorya mula sa menu upang mag-browse ng mga kwento.",
         backBtn: "← Bumalik",
         aboutTitle: "✍️ Tungkol kay Pete",
-        aboutText: "Maligayang pagdating! Ako si Pete, isang manunulat na gumagawa ng mga kwento, snippet, at nobela sa iba't ibang genre. Salamat sa pagbisita sa aking portal!",
+        aboutText: "Ako ay isang independent random fiction writer at BSIT graduate. Nagsusulat ako sa Wattpad noong 2017 pa at nakagawa ng Facebook writing page noong 2021. Nagsusulat ako ng mga kwento dahil dito ako masaya at gusto kong maibahagi ang aking mga naiisip at imahinasyon sa iba. Higit sa lahat, sana ay may mapulot silang aral sa buhay na makakatulong at magbibigay-inspirasyon sa kanilang paglalakbay.",
         linksTitle: "🔗 Mga Account Link",
         warningTitle: "Babala sa Sensitibong Nilalaman (R-18)",
         warningText: "Ang seksyong ito (petesarap's random stories) ay naglalaman ng mga temang pang-mature na para lamang sa mga edad 18 pataas.",
@@ -101,8 +101,7 @@ const translations = {
         lastRead: "Huling binasa:",
         lastReadBadge: "Huling Binasa",
         darkMode: "Dark Mode",
-        lightMode: "Light Mode",
-        fontLabel: "Laki:"
+        lightMode: "Light Mode"
     }
 };
 
@@ -116,6 +115,7 @@ window.addEventListener('DOMContentLoaded', () => {
         currentLang = savedLang;
     }
 
+    updateStaticLanguageUI();
     navigateTo('homePage');
     checkForSavedProgressOnLoad();
 });
@@ -125,32 +125,21 @@ function setLanguage(lang) {
     localStorage.setItem(LANG_STORAGE_KEY, lang);
     updateStaticLanguageUI();
 
-    // I-refresh agad ang kasalukuyang tinitingnang screen nang walang reload
-    const homePage = document.getElementById('homePage');
-    const storiesPage = document.getElementById('storiesPage');
     const categoryDisplayPage = document.getElementById('categoryDisplayPage');
     const readerPage = document.getElementById('readerPage');
 
-    if (!homePage.classList.contains('page-hidden')) {
-        // Naka-home, walang babaguhin sa loob kundi static
-    } else if (!storiesPage.classList.contains('page-hidden')) {
-        // Naka-stories page
-    } else if (!categoryDisplayPage.classList.contains('page-hidden')) {
+    if (!categoryDisplayPage.classList.contains('page-hidden')) {
         if (currentSubCategory) {
             renderSubCategoryDirect();
         } else if (currentCategory) {
             renderFormatSelectionDirect();
         }
     } else if (!readerPage.classList.contains('page-hidden')) {
-        if (currentReaderMode === 'oneshot') {
-            // Re-render reader text elements kung kinakailangan
-        } else if (currentReaderMode === 'part') {
-            // Re-render part reader buttons
+        if (currentReaderMode === 'part') {
             openPartReaderDirect(document.getElementById('readerBreadcrumb').innerText, window.scrollY);
         }
     }
 
-    // Update din ang resume modal text kung bukas
     const progress = getSavedProgress();
     const entries = Object.entries(progress).sort((a, b) => b[1].updatedAt - a[1].updatedAt);
     if (entries.length && !document.getElementById('resumeModal').classList.contains('hidden')) {
@@ -164,7 +153,6 @@ function setLanguage(lang) {
 function updateStaticLanguageUI() {
     const t = translations[currentLang];
     
-    // Toggle button style update
     const enBtn = document.getElementById('langEnBtn');
     const phBtn = document.getElementById('langPhBtn');
     if (currentLang === 'en') {
@@ -175,7 +163,6 @@ function updateStaticLanguageUI() {
         enBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer";
     }
 
-    // Static text elements
     if (document.getElementById('homeTitle')) document.getElementById('homeTitle').innerText = t.homeTitle;
     if (document.getElementById('homeSubtitle')) document.getElementById('homeSubtitle').innerText = t.homeSubtitle;
     if (document.getElementById('storiesButtonText')) document.getElementById('storiesButtonText').innerText = t.storiesButton;
@@ -201,10 +188,9 @@ function updateStaticLanguageUI() {
     if (document.getElementById('resumeTitle')) document.getElementById('resumeTitle').innerText = t.resumeTitle;
     if (document.getElementById('resumeCancelBtn')) document.getElementById('resumeCancelBtn').innerText = t.cancel;
     if (document.getElementById('resumeYesBtn')) document.getElementById('resumeYesBtn').innerText = t.yes;
-    if (document.getElementById('fontLabelText')) document.getElementById('fontLabelTextenerText') = t.fontLabel;
 }
 
-// Auto-save scroll position habang nagbabasa
+// Auto-save scroll position
 window.addEventListener('scroll', () => {
     const readerPage = document.getElementById('readerPage');
     if (readerPage && !readerPage.classList.contains('page-hidden') && activeSaveId) {
@@ -234,7 +220,40 @@ function saveProgressBookmark(id, data) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
 }
 
-// --- POPUP CHECKER SA PAG-OPEN NG SITE ---
+// --- CLICK IT BADGE TIMER (Lalabas agad, mawawala after 3s, tapos babalik every 10s) ---
+function triggerBadgeShow() {
+    const badge = document.getElementById('clickItBadge');
+    if (badge) {
+        badge.classList.remove('opacity-0', 'scale-75');
+        badge.classList.add('opacity-100', 'scale-100');
+        
+        setTimeout(() => {
+            badge.classList.remove('opacity-100', 'scale-100');
+            badge.classList.add('opacity-0', 'scale-75');
+        }, 3000); // Mawawala pagkalipas ng 3 seconds
+    }
+}
+
+function startClickItTimer() {
+    stopClickItTimer();
+    
+    // Lalabas agad pagka-load/pagka-balik sa home
+    triggerBadgeShow();
+
+    // Tapos uulitin every 10 seconds
+    clickItInterval = setInterval(() => {
+        triggerBadgeShow();
+    }, 10000);
+}
+
+function stopClickItTimer() {
+    if (clickItInterval) {
+        clearInterval(clickItInterval);
+        clickItInterval = null;
+    }
+}
+
+// --- RESUME POPUP ---
 function checkForSavedProgressOnLoad() {
     const progress = getSavedProgress();
     const entries = Object.entries(progress).sort((a, b) => b[1].updatedAt - a[1].updatedAt);
@@ -286,7 +305,11 @@ function navigateTo(pageId) {
     }
     if (pageId === 'homePage') {
         activeSaveId = '';
+        startClickItTimer();
+    } else {
+        stopClickItTimer();
     }
+    updateStaticLanguageUI();
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
@@ -441,17 +464,31 @@ function renderSubCategoryDirect() {
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">${getCategoryLabel(currentCategory)} • One-Shots</span>
             </div>
             <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-3">${t.selectOneshot}</h3>
-            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-2 max-h-[400px] overflow-y-auto p-1">
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
         `;
 
-        const count = currentCategory === 'petewrites_random' ? 50 : 20;
-        for (let i = 1; i <= count; i++) {
-            const title = `One-Shot ${i}`;
-            const sampleText = `Buong kwento at ending ng ${title} sa ilalim ng ${getCategoryLabel(currentCategory)}...`;
-            const isSaved = progress[`oneshot_${currentCategory}_${title}`];
-            const mark = isSaved ? ' 🔖' : '';
+        let oneshotsList = [];
+        if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
+            oneshotsList = window.oneShotDatabase[currentCategory];
+        }
 
-            html += `<button onclick="openOneShotReader(\`${title}\`, \`${sampleText}\`)" class="p-3 rounded-lg bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white transition-all text-center font-bold text-xs border border-slate-200 dark:border-slate-700 cursor-pointer shadow-sm">${title}${mark}</button>`;
+        if (oneshotsList.length > 0) {
+            oneshotsList.forEach((os) => {
+                const title = os.title || "Untitled One-Shot";
+                const content = os.content || "No content available.";
+                const safeTitle = title.replace(/'/g, "\\'");
+                const safeContent = content.replace(/'/g, "\\'").replace(/\n/g, "\\n");
+                
+                const isSaved = progress[`oneshot_${currentCategory}_${title}`];
+                const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2">${t.lastReadBadge}</span>` : '';
+
+                html += `<button onclick="openOneShotReader(\`${safeTitle}\`, \`${safeContent}\`)" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between">
+                    <span>⚡ ${title}</span>
+                    ${mark}
+                </button>`;
+            });
+        } else {
+            html += `<p class="text-xs text-slate-500 col-span-full py-4">Wala pang naka-upload na one-shot stories sa category na ito.</p>`;
         }
 
         html += `</div>`;
@@ -662,6 +699,9 @@ function renderPageDirect(pageId) {
     }
     if (pageId === 'homePage') {
         activeSaveId = '';
+        startClickItTimer();
+    } else {
+        stopClickItTimer();
     }
     updateStaticLanguageUI();
     window.scrollTo({ top: 0, behavior: 'smooth' });

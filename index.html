@@ -30,10 +30,10 @@
             </div>
 
             <div class="flex flex-wrap items-center gap-2">
-                <!-- Language Selector (BAGO) -->
+                <!-- Language Selector -->
                 <div class="bg-white/80 dark:bg-slate-900/80 backdrop-blur border border-slate-300 dark:border-slate-800 rounded-full px-2.5 py-1 flex items-center gap-1 shadow-sm">
-                    <button onclick="setLanguage('en')" id="langEnBtn" class="text-xs font-bold px-2 py-0.5 rounded-full bg-orange-600 text-white transition-all cursor-pointer">EN</button>
-                    <button onclick="setLanguage('ph')" id="langPhBtn" class="text-xs font-bold px-2 py-0.5 rounded-full text-slate-500 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer">PH</button>
+                    <button onclick="setLanguage('en')" id="langEnBtn" class="text-xs font-bold px-2.5 py-1 rounded-full bg-orange-600 text-white transition-all cursor-pointer shadow-sm">EN</button>
+                    <button onclick="setLanguage('ph')" id="langPhBtn" class="text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer">PH</button>
                 </div>
 
                 <!-- Color Theme Selector Dots -->
@@ -73,10 +73,14 @@
                         </p>
                     </div>
 
-                    <div class="relative my-6">
-                        <button onclick="navigateTo('storiesPage')" id="storiesButtonText" class="relative z-50 text-xl sm:text-2xl font-bold text-orange-600 border-b-2 border-orange-500 pb-1 transition-all cursor-pointer">
+                    <div class="relative my-6 inline-block">
+                        <button onclick="navigateTo('storiesPage')" id="storiesButtonText" class="relative z-50 text-xl sm:text-2xl font-bold text-orange-600 border-b-2 border-orange-500 pb-1 transition-all cursor-pointer hover:opacity-80">
                             Stories by Pete Writes
                         </button>
+                        <!-- Click it badge -->
+                        <div id="clickItBadge" class="absolute -top-7 -right-12 bg-orange-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full shadow-md opacity-0 scale-75 transition-all duration-300 pointer-events-none animate-bounce">
+                            Click it! ✨
+                        </div>
                     </div>
 
                     <div class="mt-8 flex flex-wrap justify-center gap-4">
@@ -92,7 +96,7 @@
                 <!-- PAGE 2: STORIES PAGE -->
                 <main id="storiesPage" class="page-view page-hidden w-full max-w-5xl mx-auto px-4 py-4 flex-grow flex flex-col justify-start">
                     <div class="mb-4 flex justify-between items-center relative z-50">
-                        <button onclick="navigateTo('homePage')" id="backHomeBtn" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 shadow-sm text-xs font-bold cursor-pointer">
+                        <button onclick="navigateTo('homePage')" id="backHome" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-800 shadow-sm text-xs font-bold cursor-pointer">
                             ← Back to Home
                         </button>
                     </div>
@@ -189,13 +193,23 @@
         </div>
     </div>
 
-    <!-- MODALS -->
+<!-- MODALS -->
     <div id="aboutModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
-        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50">
-            <h3 id="aboutModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">✍️ About Pete</h3>
-            <p id="aboutModalText" class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
-                Welcome! I am Pete, a passionate story writer who creates fiction, snippets, and novels across different genres. Thank you for visiting my portal!
-            </p>
+        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50 max-h-[85vh] overflow-y-auto">
+            <h3 id="aboutModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">✍️ About Pete & Website</h3>
+            
+            <div class="space-y-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
+                <div>
+                    <h4 class="font-bold text-orange-600 mb-1">About Pete</h4>
+                    <p id="aboutModalText">I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.</p>
+                </div>
+
+                <div class="border-t border-slate-200 dark:border-slate-800 pt-3">
+                    <h4 class="font-bold text-orange-600 mb-1">About the Website</h4>
+                    <p id="aboutWebsiteText">This website was created exclusively for my readers as a free reading platform. Readers can easily navigate through different categories to explore and enjoy my works. The primary goal of this website is simple and pure: to provide a comfortable, accessible, and free space for everyone to read and enjoy my stories.</p>
+                </div>
+            </div>
+
             <div class="pt-2 flex justify-end">
                 <button onclick="closeModal('aboutModal')" id="aboutBackBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
             </div>
@@ -211,7 +225,7 @@
                 <a href="#" class="block p-3 rounded-xl bg-slate-100 dark:bg-slate-800/60 hover:bg-orange-600 hover:text-white font-bold transition-colors">📸 Instagram (@petewrites2026)</a>
             </div>
             <div class="pt-2 flex justify-end">
-                <button onclick="closeModal('linksModal')" id="linksBackBtn" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
+                <button onclick="closeModal('linksModal')" class="px-4 py-2 bg-slate-200 dark:bg-slate-800 text-xs font-bold rounded-xl cursor-pointer">Back</button>
             </div>
         </div>
     </div>
@@ -249,6 +263,10 @@
     <script src="js/src/chapters/petesarapstories_byparts1.js"></script>
     <script src="js/src/chapters/petesarapstories_byparts2.js"></script>
     <script src="js/src/chapters/petesarapstories_byparts3.js"></script>
+
+    <!-- One-Shot Database Scripts -->
+    <script src="js/src/oneshots/petesarap_oneshots.js"></script>
+
     <script src="js/main.js"></script>
 </body>
 </html>
