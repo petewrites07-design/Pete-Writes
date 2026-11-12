@@ -220,7 +220,7 @@ function saveProgressBookmark(id, data) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
 }
 
-// --- CLICK IT BADGE TIMER (Lalabas agad, mawawala after 3s, tapos babalik every 10s) ---
+// --- CLICK IT BADGE TIMER ---
 function triggerBadgeShow() {
     const badge = document.getElementById('clickItBadge');
     if (badge) {
@@ -230,17 +230,13 @@ function triggerBadgeShow() {
         setTimeout(() => {
             badge.classList.remove('opacity-100', 'scale-100');
             badge.classList.add('opacity-0', 'scale-75');
-        }, 3000); // Mawawala pagkalipas ng 3 seconds
+        }, 3000);
     }
 }
 
 function startClickItTimer() {
     stopClickItTimer();
-    
-    // Lalabas agad pagka-load/pagka-balik sa home
     triggerBadgeShow();
-
-    // Tapos uulitin every 10 seconds
     clickItInterval = setInterval(() => {
         triggerBadgeShow();
     }, 10000);
@@ -357,7 +353,7 @@ function renderFormatSelectionDirect() {
     const area = document.getElementById('categoryContentArea');
     const t = translations[currentLang];
 
-if (currentCategory === 'petewrites_novel') {
+    if (currentCategory === 'petewrites_novel') {
         area.innerHTML = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
                 <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
@@ -527,7 +523,6 @@ function renderPartsListDirect() {
         </div>
     `;
 
-    // Kung may nilagay kang Genre o Description, lalabas siya dito sa itaas ng mga parts box!
     if (storyGenre || storyDesc) {
         html += `
             <div class="mb-5 p-4 rounded-xl bg-orange-50/50 dark:bg-slate-950/50 border border-orange-200 dark:border-orange-950/40 space-y-2 text-left">
@@ -588,7 +583,6 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
     document.getElementById('readerBreadcrumb').innerText = title;
 
     const readerContent = document.getElementById('readerContent');
-    currentFontSize = 16;
     readerContent.style.fontSize = currentFontSize + 'px';
 
     readerContent.innerHTML = `
@@ -654,7 +648,6 @@ function openPartReaderDirect(partName, savedScrollY) {
     document.getElementById('readerBreadcrumb').innerText = partName;
 
     const readerContent = document.getElementById('readerContent');
-    currentFontSize = 16;
     readerContent.style.fontSize = currentFontSize + 'px';
 
     let navigationHtml = '';
