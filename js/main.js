@@ -779,6 +779,8 @@ document.addEventListener('keydown', function(e) {
         alert("Protected Content: Copying is disabled.");
 
         // Isingit mo ito sa pinaka-dulo ng js/main.js mo
+// Automated Copyright & Year Update
 document.getElementById("copyright-year").textContent = new Date().getFullYear();
+document.getElementById("current-year").textContent = new Date().getFullYear();
     }
 });
