@@ -623,7 +623,10 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = title;
     
-    let breadcrumbHtml = `<span>${title}</span>`;
+document.getElementById('readerTitle').innerText = title;
+    
+    // 👇 Idinagdag natin ang whitespace-normal at break-words para hindi maputol at mag-wrap nang maayos
+    let breadcrumbHtml = `<span class="whitespace-normal break-words">${title}</span>`;
     if (currentOsDate || currentOsStatus) {
         breadcrumbHtml += `
             <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
