@@ -753,14 +753,35 @@ function openPartReaderDirect(partName, savedScrollY) {
     const partNames = getSortedPartNames(storyData);
     const currentIndex = partNames.indexOf(partName);
 
-    let content = (storyData && storyData.parts && storyData.parts[partName])
-        ? storyData.parts[partName]
-        : `Story text for ${partName}...`;
+    // Sinusuportahan na ngayon ang parehong Object format (para sa manual date/status) at legacy String format
+    let partEntry = (storyData && storyData.parts) ? storyData.parts[partName] : null;
+    let content = "";
+    let partDate = "";
+    let partStatus = "";
+
+    if (typeof partEntry === 'object' && partEntry !== null) {
+        content = partEntry.content || "";
+        partDate = partEntry.date || "";
+        partStatus = partEntry.status || "";
+    } else {
+        content = partEntry || `Story text for ${partName}...`;
+        partDate = "";
+        partStatus = "";
+    }
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // TININGALAN NA NANG BUO ANG REDUNDANT PART LABEL SA ITAAS PARA SA BY-PARTS
-    document.getElementById('readerBreadcrumb').innerHTML = '';
+    // IBINALIK NA: Title at Manual Date/Status sa upper-right header para sa by-parts!
+    let partBreadcrumbHtml = `
+        <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${titleName} — ${partName}</span>
+            <div class="flex flex-wrap items-center sm:justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${partDate ? `<span>📅 ${partDate}</span>` : ''}
+                ${partStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${partStatus}</span>` : ''}
+            </div>
+        </div>
+    `;
+    document.getElementById('readerBreadcrumb').innerHTML = partBreadcrumbHtml;
 
     const readerContent = document.getElementById('readerContent');
     readerContent.style.fontSize = currentFontSize + 'px';
