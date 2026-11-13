@@ -3,7 +3,7 @@ window.oneShotDatabase['petesarap'] = window.oneShotDatabase['petesarap'] || [];
 
 window.oneShotDatabase['petesarap'].push(
     {
-        title: "Rucan and Deoen",
+        title: "Rucan and Deoen (bxb)",
         date: "2025",
         status: "Completed",
         content: `Alam n'yo ba... May long term boyfriend ako at three years na kami. Tumagal kami dahil loyal and faithful kami sa isa't isa. Masasabi kong mahal na mahal talaga namin ang isa't isa.
@@ -130,7 +130,7 @@ At dito na nga kami nag-round two, three, four and five. Hehe! Nasarapan kami pa
     
 },
     {
-        title: "Derm",
+        title: "Derm (bxb)",
         date: "2025",
         status: "Completed",
         content: `"Ah, Derm, ako na ang gagawa nitong project natin. Don't worry," nakayukong sabi ni Keso sa akin habang tinutukoy ang project na pinagawa sa amin ng isang subject professor namin at nagkataong partners kami. We are second year college student.
@@ -253,7 +253,7 @@ Kaya heto ako, nagdurusa at nagsisisi pa rin sa mga kasalanan ko mapaghanggang n
     },
 
         {
-        title: "Kay Kuya Henyo",
+        title: "Kay Kuya Henyo (bxb)",
         date: "2025",
         status: "Completed",
         content: `"Nakipag-break sa 'yo 'yung jowa mo, Kuya Henyo kasi hindi siya nalilibugan sa 'yo?" tanong ko sa kuya ng best friend ko.
@@ -314,7 +314,7 @@ Ayan kasi ang natutuhan ko at na-realize ko kay Kuya Henyo. Ang dami pa namang k
     },
 
         {
-        title: "Ammer",
+        title: "Ammer (bxb)",
         date: "2025",
         status: "Completed",
         content: `Ako si Ammer, 19 and call me Ammie for short. I'm just a boy or should I say gay? Haha! Okay take two, I'm just a working student na nagtatrabaho lang naman dito sa isang malaking juice bar.
