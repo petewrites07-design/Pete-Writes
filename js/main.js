@@ -373,7 +373,7 @@ function renderFormatSelectionDirect() {
         return;
     }
 
-area.innerHTML = `
+    area.innerHTML = `
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
             <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ${t.backBtn}
@@ -429,20 +429,18 @@ function renderSubCategoryDirect() {
                 
                 if (storyCat === currentCategory) {
                     foundStories++;
-const storyTitle = sData.title || "Untitled Series";
-const savedEntry = progress['series_' + sKey];
+                    const storyTitle = sData.title || "Untitled Series";
+                    const savedEntry = progress['series_' + sKey];
+                    const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
 
-// Kung object ang savedEntry, kunin natin yung partTitle o chapter name niya para hindi [object Object]
-const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
+                    const badgeHtml = savedEntry
+                        ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
+                        : '';
 
-const badgeHtml = savedEntry
-    ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
-    : '';
-
-html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full">
-    <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
-    ${badgeHtml}
-</button>`;
+                    html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full">
+                        <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
+                        ${badgeHtml}
+                    </button>`;
                 }
             });
         }
@@ -471,16 +469,14 @@ html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border
         }
 
         if (oneshotsList.length > 0) {
-            oneshotsList.forEach((os) => {
+            oneshotsList.forEach((os, index) => {
                 const title = os.title || "Untitled One-Shot";
-                const content = os.content || "No content available.";
-                const safeTitle = title.replace(/'/g, "\\'");
-                const safeContent = content.replace(/'/g, "\\'").replace(/\n/g, "\\n");
                 
                 const isSaved = progress[`oneshot_${currentCategory}_${title}`];
                 const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2">${t.lastReadBadge}</span>` : '';
 
-                html += `<button onclick="openOneShotReader(\`${safeTitle}\`, \`${safeContent}\`)" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between">
+                // 👇 Malinis na card (walang year/status sa labas) + safe index click
+                html += `<button onclick="openOneShotByIndex('${currentCategory}', ${index})" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between w-full">
                     <span>${title}</span>
                     ${mark}
                 </button>`;
@@ -509,9 +505,10 @@ function renderPartsListDirect() {
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
     const titleName = storyData ? storyData.title : "Story Series";
     const storyGenre = (storyData && storyData.genre) ? storyData.genre : "";
-    const storyDesc = (storyData && storyData.description) ? storyData.description : "";
     
-    // 👇 KINUKUNIN ANG DATE AT STATUS MULA SA STORY OBJECT
+    const rawDesc = (storyData && storyData.description) ? storyData.description : "";
+    const storyDesc = rawDesc ? rawDesc.replace(/\n/g, '<br><br>') : "";
+
     const storyDate = (storyData && storyData.date) ? storyData.date : "";
     const storyStatus = (storyData && storyData.status) ? storyData.status : "";
 
@@ -526,8 +523,6 @@ function renderPartsListDirect() {
             <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ${t.backTitles}
             </button>
-            
-            <!-- 👇 DITO NAKALAGAY ANG TITLE AT SA ILALIM ANG DATE & STATUS -->
             <div class="flex flex-col items-start sm:items-end text-left sm:text-right">
                 <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate max-w-[280px]">${titleName}</span>
                 <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
@@ -542,7 +537,7 @@ function renderPartsListDirect() {
         html += `
             <div class="mb-5 p-4 rounded-xl bg-orange-50/50 dark:bg-slate-950/50 border border-orange-200 dark:border-orange-950/40 space-y-2 text-left">
                 ${storyGenre ? `<div class="inline-block px-2.5 py-0.5 rounded-full bg-orange-600 text-white text-[10px] font-bold tracking-wide">${storyGenre}</div>` : ''}
-                ${storyDesc ? `<p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">${storyDesc}</p>` : ''}
+                ${storyDesc ? `<div class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">${storyDesc}</div>` : ''}
             </div>
         `;
     }
@@ -565,10 +560,31 @@ function renderPartsListDirect() {
 
     html += `</div>`;
     area.innerHTML = html;
-
 }
 
 // --- STORY READERS ---
+function openOneShotByIndex(category, index) {
+    let targetOs = null;
+    
+    if (window.oneShotDatabase) {
+        if (window.oneShotDatabase[category] && window.oneShotDatabase[category][index]) {
+            targetOs = window.oneShotDatabase[category][index];
+        } else {
+            for (let catKey in window.oneShotDatabase) {
+                if (window.oneShotDatabase[catKey][index]) {
+                    targetOs = window.oneShotDatabase[catKey][index];
+                    currentCategory = catKey;
+                    break;
+                }
+            }
+        }
+    }
+
+    if (targetOs) {
+        openOneShotReader(targetOs.title, targetOs.content);
+    }
+}
+
 function openOneShotReader(title, content, savedScrollY = 0) {
     currentReaderMode = 'oneshot';
     activeSaveId = `oneshot_${currentCategory}_${title}`;
@@ -595,8 +611,28 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
     activeSaveId = `oneshot_${currentCategory}_${title}`;
     const t = translations[currentLang];
 
+    let currentOsDate = "";
+    let currentOsStatus = "";
+    if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
+        const foundOs = window.oneShotDatabase[currentCategory].find(os => os.title === title);
+        if (foundOs) {
+            currentOsDate = foundOs.date || "";
+            currentOsStatus = foundOs.status || "";
+        }
+    }
+
     document.getElementById('readerTitle').innerText = title;
-    document.getElementById('readerBreadcrumb').innerText = title;
+    
+    let breadcrumbHtml = `<span>${title}</span>`;
+    if (currentOsDate || currentOsStatus) {
+        breadcrumbHtml += `
+            <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
+                ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300">${currentOsStatus}</span>` : ''}
+            </div>
+        `;
+    }
+    document.getElementById('readerBreadcrumb').innerHTML = breadcrumbHtml;
 
     const readerContent = document.getElementById('readerContent');
     readerContent.style.fontSize = currentFontSize + 'px';
@@ -795,12 +831,14 @@ document.addEventListener('keydown', function(e) {
     if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 's' || e.key === 'a')) {
         e.preventDefault();
         alert("Protected Content: Copying is disabled.");
+    }
+});
 
-        // Isingit mo ito sa pinaka-dulo ng js/main.js mo
-// Automated Copyright & Year Update
 // Automated Copyright & Year Update for Pete Writes
-// Awtomatikong mag-a-update ang copyright at handle year
-document.getElementById("copyright-year").textContent = new Date().getFullYear();
-document.getElementById("current-year").textContent = new Date().getFullYear();
-}
+window.addEventListener('DOMContentLoaded', () => {
+    const currentYear = new Date().getFullYear();
+    const copyYearEl = document.getElementById("copyright-year");
+    const currYearEl = document.getElementById("current-year");
+    if (copyYearEl) copyYearEl.textContent = currentYear;
+    if (currYearEl) currYearEl.textContent = currentYear;
 });
