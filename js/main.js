@@ -431,7 +431,7 @@ function renderSubCategoryDirect() {
                     foundStories++;
                     const storyTitle = sData.title || "Untitled Series";
 const savedEntry = progress['series_' + sKey];
-const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
+const lastReadText = savedEntry ? (savedEntry.partName || '') : '';
 
 const badgeHtml = savedEntry
     ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
