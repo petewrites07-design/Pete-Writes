@@ -807,20 +807,34 @@ function openAboutModal() { document.getElementById('aboutModal').classList.remo
 function openLinksModal() { document.getElementById('linksModal').classList.remove('hidden'); }
 function closeModal(modalId) { document.getElementById(modalId).classList.add('hidden'); }
 
+// --- 3-WAY THEME TOGGLE (Light -> Dark Blue / Dim -> True Black -> Light) ---
 function toggleTheme() {
     const html = document.documentElement;
     const icon = document.getElementById('themeIcon');
     const text = document.getElementById('themeText');
     const t = translations[currentLang];
 
-    if (html.classList.contains('dark')) {
-        html.classList.remove('dark');
-        icon.innerText = '🌙';
-        text.innerText = t.darkMode;
-    } else {
+    // Check kung anong current state
+    const isDark = html.classList.contains('dark');
+    const isBlue = html.hasAttribute('data-dark-theme');
+
+    if (!isDark) {
+        // 1. Mula Light papuntang Dark Blue (Dim Light)
         html.classList.add('dark');
-        icon.innerText = '☀️';
-        text.innerText = t.lightMode;
+        html.setAttribute('data-dark-theme', 'blue');
+        if (icon) icon.innerText = '🌙';
+        if (text) text.innerText = 'Dim Mode';
+    } else if (isDark && isBlue) {
+        // 2. Mula Dark Blue papuntang True Black
+        html.removeAttribute('data-dark-theme');
+        if (icon) icon.innerText = '🖤';
+        if (text) text.innerText = 'True Black';
+    } else {
+        // 3. Mula True Black pabalik sa Light Mode
+        html.classList.remove('dark');
+        html.removeAttribute('data-dark-theme');
+        if (icon) icon.innerText = '☀️';
+        if (text) text.innerText = t.darkMode || 'Dark Mode';
     }
 }
 
