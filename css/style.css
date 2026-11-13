@@ -22,7 +22,7 @@ html[data-theme="pink"] { --bg-light: #fdf2f8; --accent: #ec4899; --accent-hover
 html[data-theme="purple"] { --bg-light: #faf5ff; --accent: #a855f7; --accent-hover: #9333ea; }
 
 :root {
-    --bg-light: #fff7ed; /* Default cute light background */
+    --bg-light: #fff7ed;
     --accent: #f97316;
     --accent-hover: #ea580c;
 }
@@ -45,6 +45,27 @@ html.dark[data-dark-theme="blue"] {
 body {
     background-color: var(--bg-light) !important;
     color: #111827;
+}
+
+/* 🏠 Main Container Wrapper sa Gitna (Para sa cute card look) */
+#deviceWrapper, #screenContainer {
+    background-color: #ffffff;
+    border-radius: 1.5rem;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Dark mode styling para sa Main Container Wrapper */
+html.dark:not([data-dark-theme="blue"]) #deviceWrapper,
+html.dark:not([data-dark-theme="blue"]) #screenContainer {
+    background-color: #121212 !important;
+    border: 1px solid #262626 !important;
+}
+
+html.dark[data-dark-theme="blue"] #deviceWrapper,
+html.dark[data-dark-theme="blue"] #screenContainer {
+    background-color: #1e293b !important;
+    border: 1px solid #334155 !important;
 }
 
 /* Utility Classes para sa Kulay at Accent */
