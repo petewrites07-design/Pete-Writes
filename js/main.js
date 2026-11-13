@@ -293,7 +293,7 @@ function checkForSavedProgressOnLoad() {
         
         const titleName = data.type === 'part' ? `${data.title} — ${data.partName}` : data.title;
         document.getElementById('resumeModalText').innerText = `${t.resumeText} ("${titleName}")`;
-        document.getElementById('resumeModal').classList.add('hidden'); // Fixed safe state
+        document.getElementById('resumeModal').classList.add('hidden');
     }
 }
 
@@ -685,12 +685,12 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = title;
     
-    // Inayos ang layout at wrapper para HINDI ma-cut off sa kanang gilid ang status badge
+    // Inayos ang layout para full-width at naka-left align sa mobile (ligtas sa OCD!)
     let breadcrumbHtml = `
-        <div class="flex flex-col items-end text-right max-w-[240px] sm:max-w-xs md:max-w-sm ml-auto">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate w-full" title="${title}">${title}</span>
-            <div class="flex flex-wrap items-center justify-end gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                ${currentOsGenre ? `<span class="truncate max-w-[150px]">${currentOsGenre}</span>` : ''}
+        <div class="flex flex-col items-start text-left w-full mt-3 pt-3 border-t border-slate-100 dark:border-slate-800">
+            <span class="text-sm sm:text-base font-bold text-slate-900 dark:text-white w-full">${title}</span>
+            <div class="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${currentOsGenre ? `<span>${currentOsGenre}</span>` : ''}
                 ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
                 ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${currentOsStatus}</span>` : ''}
             </div>
@@ -766,12 +766,12 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // Inayos din ang series breadcrumb header para hindi ma-cut off sa kanan
+    // Inayos din ang series breadcrumb header para left-aligned at full-width sa mobile
     let partBreadcrumbHtml = `
-        <div class="flex flex-col items-end text-right max-w-[240px] sm:max-w-xs md:max-w-sm ml-auto">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate w-full" title="${partName}">${partName}</span>
-            <div class="flex flex-wrap items-center justify-end gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                ${storyGenre ? `<span class="truncate max-w-[150px]">${storyGenre}</span>` : ''}
+        <div class="flex flex-col items-start text-left w-full mt-3 pt-3 border-t border-slate-100 dark:border-slate-800">
+            <span class="text-sm sm:text-base font-bold text-slate-900 dark:text-white w-full">${partName}</span>
+            <div class="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${storyGenre ? `<span>${storyGenre}</span>` : ''}
                 ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
                 ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${storyStatus}</span>` : ''}
             </div>
