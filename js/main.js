@@ -699,8 +699,10 @@ function openPartReaderDirect(partName, savedScrollY) {
         ? storyData.parts[partName]
         : `Story text for ${partName}...`;
 
-    document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
-    document.getElementById('readerBreadcrumb').innerText = partName;
+document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
+    
+    // 👇 Ginawa nating breakable at multi-line para hindi rin maputol sa breadcrumb
+    document.getElementById('readerBreadcrumb').innerHTML = `<span class="whitespace-normal break-words">${partName}</span>`;
 
     const readerContent = document.getElementById('readerContent');
     readerContent.style.fontSize = currentFontSize + 'px';
