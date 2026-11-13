@@ -753,7 +753,6 @@ function openPartReaderDirect(partName, savedScrollY) {
     const partNames = getSortedPartNames(storyData);
     const currentIndex = partNames.indexOf(partName);
 
-    // Sinusuportahan na ngayon ang parehong Object format (para sa manual date/status) at legacy String format
     let partEntry = (storyData && storyData.parts) ? storyData.parts[partName] : null;
     let content = "";
     let partDate = "";
@@ -771,10 +770,10 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // IBINALIK NA: Title at Manual Date/Status sa upper-right header para sa by-parts!
+    // TINANGGAL NA ANG TITLE NG STORY SA TAAS, PART NAME AT MANUAL DATE/STATUS NA LANG!
     let partBreadcrumbHtml = `
         <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${titleName} — ${partName}</span>
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${partName}</span>
             <div class="flex flex-wrap items-center sm:justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
                 ${partDate ? `<span>📅 ${partDate}</span>` : ''}
                 ${partStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${partStatus}</span>` : ''}
