@@ -685,12 +685,12 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = title;
     
-    // Inayos para HINDI ma-cut off at kusang mag-wrap (multiline) kung mahaba ang title
+    // RESPONSIVE FIX: Full-width sa mobile para hindi masikip, right-aligned sa desktop
     let breadcrumbHtml = `
-        <div class="flex flex-col items-end text-right max-w-[170px] sm:max-w-xs md:max-w-sm ml-auto">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words leading-tight w-full">${title}</span>
-            <div class="flex flex-wrap items-center justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
-                ${currentOsGenre ? `<span class="truncate max-w-[120px]">${currentOsGenre}</span>` : ''}
+        <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${title}</span>
+            <div class="flex flex-wrap items-center sm:justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${currentOsGenre ? `<span>${currentOsGenre}</span>` : ''}
                 ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
                 ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${currentOsStatus}</span>` : ''}
             </div>
@@ -766,12 +766,12 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // Inayos din para HINDI ma-cut off at kusang mag-wrap kung mahaba ang title ng series/part
+    // RESPONSIVE FIX: Full-width sa mobile para malinis at hindi masikip, right-aligned sa desktop
     let partBreadcrumbHtml = `
-        <div class="flex flex-col items-end text-right max-w-[170px] sm:max-w-xs md:max-w-sm ml-auto">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words leading-tight w-full">${partName}</span>
-            <div class="flex flex-wrap items-center justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
-                ${storyGenre ? `<span class="truncate max-w-[120px]">${storyGenre}</span>` : ''}
+        <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${partName}</span>
+            <div class="flex flex-wrap items-center sm:justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${storyGenre ? `<span>${storyGenre}</span>` : ''}
                 ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
                 ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${storyStatus}</span>` : ''}
             </div>
