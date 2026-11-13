@@ -16,7 +16,7 @@ window.storyDatabase["petesarapstories_byparts4"] = {
     "Part 4": "",
     "Part 5": "",
     "Part 6": "",
-    "Last Part": ""
+    "Last part": ""
 },
 
     parts: {

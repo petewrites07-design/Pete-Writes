@@ -16,7 +16,7 @@ window.storyDatabase["petesarapstories_byparts3"] = {
     "Part 4": "September 21, 2026",
     "Part 5": "September 27, 2026",
     "Part 6": "October 3, 2026",
-    "Last Part": "October 6, 2026"
+    "Last part": "October 6, 2026"
 },
 
     parts: {

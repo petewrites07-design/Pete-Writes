@@ -14,7 +14,7 @@ partDates: {
     "Part 2": "August 7, 2026",
     "Part 3": "August 22, 2026",
     "Part 4": "August 27, 2026",
-    "Last Part": "September 3, 2026"
+    "Last part": "September 3, 2026"
 },
 
     parts: {
