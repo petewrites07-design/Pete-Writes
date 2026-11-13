@@ -685,12 +685,12 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = title;
     
-    // Inayos ang layout para full-width at naka-left align sa mobile (ligtas sa OCD!)
+    // Inayos para HINDI ma-cut off at kusang mag-wrap (multiline) kung mahaba ang title
     let breadcrumbHtml = `
-        <div class="flex flex-col items-start text-left w-full mt-3 pt-3 border-t border-slate-100 dark:border-slate-800">
-            <span class="text-sm sm:text-base font-bold text-slate-900 dark:text-white w-full">${title}</span>
-            <div class="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
-                ${currentOsGenre ? `<span>${currentOsGenre}</span>` : ''}
+        <div class="flex flex-col items-end text-right max-w-[170px] sm:max-w-xs md:max-w-sm ml-auto">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words leading-tight w-full">${title}</span>
+            <div class="flex flex-wrap items-center justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${currentOsGenre ? `<span class="truncate max-w-[120px]">${currentOsGenre}</span>` : ''}
                 ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
                 ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${currentOsStatus}</span>` : ''}
             </div>
@@ -766,12 +766,12 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // Inayos din ang series breadcrumb header para left-aligned at full-width sa mobile
+    // Inayos din para HINDI ma-cut off at kusang mag-wrap kung mahaba ang title ng series/part
     let partBreadcrumbHtml = `
-        <div class="flex flex-col items-start text-left w-full mt-3 pt-3 border-t border-slate-100 dark:border-slate-800">
-            <span class="text-sm sm:text-base font-bold text-slate-900 dark:text-white w-full">${partName}</span>
-            <div class="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
-                ${storyGenre ? `<span>${storyGenre}</span>` : ''}
+        <div class="flex flex-col items-end text-right max-w-[170px] sm:max-w-xs md:max-w-sm ml-auto">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words leading-tight w-full">${partName}</span>
+            <div class="flex flex-wrap items-center justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${storyGenre ? `<span class="truncate max-w-[120px]">${storyGenre}</span>` : ''}
                 ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
                 ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${storyStatus}</span>` : ''}
             </div>
