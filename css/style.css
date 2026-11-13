@@ -12,12 +12,20 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
-/* 🎨 Light, Dark (True Black), at Dark Blue Modes */
+/* 🎨 Accent Colors para sa Color Dots */
+html[data-theme="orange"] { --accent: #f97316; --accent-hover: #ea580c; }
+html[data-theme="green"] { --accent: #10b981; --accent-hover: #059669; }
+html[data-theme="blue"] { --accent: #3b82f6; --accent-hover: #2563eb; }
+html[data-theme="red"] { --accent: #ef4444; --accent-hover: #dc2626; }
+html[data-theme="yellow"] { --accent: #f59e0b; --accent-hover: #d97706; }
+html[data-theme="pink"] { --accent: #ec4899; --accent-hover: #db2777; }
+html[data-theme="purple"] { --accent: #a855f7; --accent-hover: #9333ea; }
+
 :root {
     --bg-light: #ffffff;
     --text-light: #111827;
-    --card-light: #f9fafb;
-    --border-light: #e5e7eb;
+    --accent: #f97316; /* Default accent */
+    --accent-hover: #ea580c;
 }
 
 /* Dark Mode (True Black) */
@@ -30,7 +38,7 @@ html.dark:not([data-dark-theme="blue"]) {
 /* Dark Blue Mode */
 html.dark[data-dark-theme="blue"] body,
 html.dark[data-dark-theme="blue"] {
-    background-color: #0f172a !important; /* Slate / Deep Blue */
+    background-color: #0f172a !important; 
     color: #f3f4f6 !important;
 }
 
@@ -39,6 +47,19 @@ body {
     background-color: var(--bg-light) !important;
     color: var(--text-light);
 }
+
+/* Utility Classes para sa Kulay at Accent */
+.bg-theme { background-color: var(--accent) !important; }
+.text-theme { color: var(--accent) !important; }
+.border-theme { border-color: var(--accent) !important; }
+.hover\:bg-theme:hover { background-color: var(--accent-hover) !important; }
+
+/* 🔄 Override sa hardcoded Tailwind orange classes para sumunod sa Color Dots mo */
+.bg-orange-600, .bg-orange-500 { background-color: var(--accent) !important; }
+.text-orange-600, .text-orange-500 { color: var(--accent) !important; }
+.border-orange-500, .border-orange-600 { border-color: var(--accent) !important; }
+.hover\:bg-orange-600:hover, .hover\:bg-orange-700:hover { background-color: var(--accent-hover) !important; }
+.hover\:text-orange-600:hover { color: var(--accent-hover) !important; }
 
 /* Containers at Cards para sa Dark Modes */
 html.dark:not([data-dark-theme="blue"]) .bg-white,
