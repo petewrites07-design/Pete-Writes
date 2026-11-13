@@ -759,13 +759,8 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // LINIS NA: Part name lang ang nandito para wala nang date at status sa by-parts reader view!
-    let partBreadcrumbHtml = `
-        <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
-            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${partName}</span>
-        </div>
-    `;
-    document.getElementById('readerBreadcrumb').innerHTML = partBreadcrumbHtml;
+    // TININGALAN NA NANG BUO ANG REDUNDANT PART LABEL SA ITAAS PARA SA BY-PARTS
+    document.getElementById('readerBreadcrumb').innerHTML = '';
 
     const readerContent = document.getElementById('readerContent');
     readerContent.style.fontSize = currentFontSize + 'px';
