@@ -8,44 +8,54 @@
 
 body { 
     font-family: Verdana, sans-serif; 
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, color 0.3s ease;
     -webkit-text-size-adjust: 100%;
 }
 
-/* 🎨 Literal na Kulay ng Screen para sa Light at Dark Modes */
-html[data-theme="orange"] { --bg-light: #fff7ed; --bg-dark: #1e1b4b; --accent: #f97316; --accent-hover: #ea580c; }
-html[data-theme="green"] { --bg-light: #ecfdf5; --bg-dark: #022c22; --accent: #10b981; --accent-hover: #059669; }
-html[data-theme="blue"] { --bg-light: #eff6ff; --bg-dark: #0f172a; --accent: #3b82f6; --accent-hover: #2563eb; }
-html[data-theme="red"] { --bg-light: #fef2f2; --bg-dark: #450a0a; --accent: #ef4444; --accent-hover: #dc2626; }
-html[data-theme="yellow"] { --bg-light: #fefce8; --bg-dark: #422006; --accent: #f59e0b; --accent-hover: #d97706; }
-html[data-theme="pink"] { --bg-light: #fdf2f8; --bg-dark: #500724; --accent: #ec4899; --accent-hover: #db2777; }
-html[data-theme="purple"] { --bg-light: #faf5ff; --bg-dark: #3b0764; --accent: #a855f7; --accent-hover: #9333ea; }
+/* 🎨 Light, Dark (True Black), at Dark Blue Modes */
+:root {
+    --bg-light: #ffffff;
+    --text-light: #111827;
+    --card-light: #f9fafb;
+    --border-light: #e5e7eb;
+}
 
-/* Light Mode Background */
+/* Dark Mode (True Black) */
+html.dark:not([data-dark-theme="blue"]) body,
+html.dark:not([data-dark-theme="blue"]) {
+    background-color: #000000 !important;
+    color: #f3f4f6 !important;
+}
+
+/* Dark Blue Mode */
+html.dark[data-dark-theme="blue"] body,
+html.dark[data-dark-theme="blue"] {
+    background-color: #0f172a !important; /* Slate / Deep Blue */
+    color: #f3f4f6 !important;
+}
+
+/* Base Light Mode Background */
 body {
     background-color: var(--bg-light) !important;
+    color: var(--text-light);
 }
 
-/* Dark Mode Background */
-html.dark body {
-    background-color: var(--bg-dark) !important;
+/* Containers at Cards para sa Dark Modes */
+html.dark:not([data-dark-theme="blue"]) .bg-white,
+html.dark:not([data-dark-theme="blue"]) .bg-slate-100,
+html.dark:not([data-dark-theme="blue"]) .bg-slate-50 {
+    background-color: #121212 !important;
+    border-color: #262626 !important;
+    color: #e5e7eb !important;
 }
 
-/* Utility Classes para sa Kulay */
-.bg-theme { background-color: var(--accent) !important; }
-.text-theme { color: var(--accent) !important; }
-.text-theme-text { color: var(--accent) !important; }
-.text-theme-hover:hover { color: var(--accent-hover) !important; }
-.border-theme { border-color: var(--accent) !important; }
-.hover\:border-theme:hover { border-color: var(--accent) !important; }
-.hover\:bg-theme:hover { background-color: var(--accent-hover) !important; }
-
-/* 🔄 Override sa hardcoded Tailwind orange classes para sumunod sa Theme Dots */
-.bg-orange-600, .bg-orange-500 { background-color: var(--accent) !important; }
-.text-orange-600, .text-orange-500 { color: var(--accent) !important; }
-.border-orange-500, .border-orange-600 { border-color: var(--accent) !important; }
-.hover\:bg-orange-600:hover, .hover\:bg-orange-700:hover { background-color: var(--accent-hover) !important; }
-.hover\:text-orange-600:hover { color: var(--accent-hover) !important; }
+html.dark[data-dark-theme="blue"] .bg-white,
+html.dark.dark[data-dark-theme="blue"] .bg-slate-100,
+html.dark.dark[data-dark-theme="blue"] .bg-slate-50 {
+    background-color: #1e293b !important;
+    border-color: #334155 !important;
+    color: #e5e7eb !important;
+}
 
 /* Plain background na walang gradient/glow */
 .glow-bg { 

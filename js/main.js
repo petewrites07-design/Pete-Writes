@@ -471,11 +471,9 @@ function renderSubCategoryDirect() {
         if (oneshotsList.length > 0) {
             oneshotsList.forEach((os, index) => {
                 const title = os.title || "Untitled One-Shot";
-                
                 const isSaved = progress[`oneshot_${currentCategory}_${title}`];
                 const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2">${t.lastReadBadge}</span>` : '';
 
-                // 👇 Malinis na card (walang year/status sa labas) + safe index click
                 html += `<button onclick="openOneShotByIndex('${currentCategory}', ${index})" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between w-full">
                     <span>${title}</span>
                     ${mark}
@@ -524,7 +522,7 @@ function renderPartsListDirect() {
                 ${t.backTitles}
             </button>
             <div class="flex flex-col items-start sm:items-end text-left sm:text-right">
-                <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate max-w-[280px]">${titleName}</span>
+                <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words max-w-[280px]">${titleName}</span>
                 <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
                     ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
                     ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300">${storyStatus}</span>` : ''}
@@ -623,9 +621,6 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = title;
     
-document.getElementById('readerTitle').innerText = title;
-    
-    // 👇 Idinagdag natin ang whitespace-normal at break-words para hindi maputol at mag-wrap nang maayos
     let breadcrumbHtml = `<span class="whitespace-normal break-words">${title}</span>`;
     if (currentOsDate || currentOsStatus) {
         breadcrumbHtml += `
@@ -699,9 +694,7 @@ function openPartReaderDirect(partName, savedScrollY) {
         ? storyData.parts[partName]
         : `Story text for ${partName}...`;
 
-document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
-    
-    // 👇 Ginawa nating breakable at multi-line para hindi rin maputol sa breadcrumb
+    document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     document.getElementById('readerBreadcrumb').innerHTML = `<span class="whitespace-normal break-words">${partName}</span>`;
 
     const readerContent = document.getElementById('readerContent');
