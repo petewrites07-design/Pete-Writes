@@ -765,7 +765,6 @@ function openPartReaderDirect(partName, savedScrollY) {
     } else {
         content = partEntry || `Story text for ${partName}...`;
         
-        // Hahanapin nito ang date sa hiwalay na partDates object na ginawa mo!
         if (storyData && storyData.partDates) {
             let pMeta = storyData.partDates[partName];
             if (typeof pMeta === 'string') {
@@ -779,7 +778,6 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // Part name at manual date/status lang ang lalabas sa upper-right header nang walang doble title ng story!
     let partBreadcrumbHtml = `
         <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
             <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${partName}</span>
@@ -895,9 +893,20 @@ window.addEventListener('popstate', (event) => {
     }
 });
 
-function openAboutModal() { document.getElementById('aboutModal').classList.add('hidden'); }
-function openLinksModal() { document.getElementById('linksModal').classList.add('hidden'); }
-function closeModal(modalId) { document.getElementById('modalId').classList.add('hidden'); }
+function openAboutModal() { 
+    const modal = document.getElementById('aboutModal');
+    if (modal) modal.classList.remove('hidden'); 
+}
+
+function openLinksModal() { 
+    const modal = document.getElementById('linksModal');
+    if (modal) modal.classList.remove('hidden'); 
+}
+
+function closeModal(modalId) { 
+    const modal = document.getElementById(modalId);
+    if (modal) modal.classList.add('hidden'); 
+}
 
 // --- 3-WAY THEME TOGGLE ---
 function toggleTheme() {
