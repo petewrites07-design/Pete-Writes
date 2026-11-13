@@ -8,6 +8,15 @@ window.storyDatabase["petesarapstories_byparts2"] = {
  
     date: "August 2026",
     status: "Completed",
+
+partDates: {
+    "Part 1": "August 4, 2026",
+    "Part 2": "August 7, 2026",
+    "Part 3": "August 22, 2026",
+    "Part 4": "August 27, 2026",
+    "Last Part": "September 3, 2026"
+},
+
     parts: {
         "Part 1": `"Paano ba 'yan? Nataasan na kita? Ako na ngayon ang running Summa Cum Laude at ikaw? Walang laude!" pagmamayabang sa akin ni Erill. My mortal enemy and my academic rival.
 

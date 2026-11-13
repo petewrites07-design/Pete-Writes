@@ -8,6 +8,17 @@ window.storyDatabase["petesarapstories_byparts4"] = {
    
     date: "November 2026",
     status: "Ongoing",
+
+    partDates: {
+    "Part 1": "October 30, 2026",
+    "Part 2": "",
+    "Part 3": "",
+    "Part 4": "",
+    "Part 5": "",
+    "Part 6": "",
+    "Last Part": ""
+},
+
     parts: {
         "Part 1": `Kapag sa Facebook Lite kayo nagcha-chat, common na. Kapag sa messenger naman, parang formal at para sa more features lang 'yon.
 

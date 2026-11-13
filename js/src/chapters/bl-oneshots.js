@@ -420,6 +420,101 @@ So because he kissed me in front of many people, it only proved that he truly lo
     },
 
         {
+        title: "Almost A Boys' Love Story",
+        date: "January 9, 2022",
+        status: "Completed",
+        content: `"Pre, sige na. Uuwi na ako."
+
+Napangiti ako. "Salamat sa paghatid.. pre."
+
+Simula pa nung una, may gusto na ako kay Cleven na siyang aking pinakamatalik na kaibigan. Kahit na playboy siya, or maraming naka-ano dahil sa pagiging playboy niya. Gusto ko pa rin siya or should I say, mahal ko na?
+
+"Ang lalim naman ng iniisip mo. Graduate na tayo oh." Inakbayan ako ni Cleven habang naglalakad kami pauwi nanaman sa amin. Nagcelebrate kasi kami ni Cleven dahil sa graduate na kami ng College.
+
+"Iniisip ko lang naman kung paano kung hindi na pala natin palagi nagagawa 'to."
+
+Tumigil kami sa paglalakad at madilim na pala, kaming dalawa na lang ang naririto. Napatingin siya sa akin at hinawakan ako sa balikat.
+
+Natawa siya ng mahina. "Pre, bakit mo naman iniisip 'yan? I'm always here for you, okay?"
+
+"Wala, baka kasi magkagirlfriend ka na."
+
+Natawa nanaman siya habang ako nakabusangot. "Sa susunod pa, ayaw ko muna ngayon pero kung may darating man, edi sige mamahalin ko rin. Gusto ko muna magtrabaho. You know, hindi ako nakipagcommit, right? Puro landi at kama lang."
+
+Napabuntong-hininga ako. "Mamimiss kasi kita, Cleven."
+
+"Aw, mamimiss ako ni Francis my bestfriend. Wala pa rin tayong kalimutan, pre. Malakas ang connection natin it is because our parents are mutual too. Pangako, walang iwanan." Hinalikan niya ang aking noo at tinapik-tapik niya ang aking ulo.
+
+Napangiti na lang ako sa kawalan. Pinanghawakan ko ang pangako niyang 'yan. Gusto ko na ngang ipagtapat sa kanya ang nararamdaman ko, e. Pero natatakot ako.
+
+Ngunit isang araw...
+
+"Francis."
+
+"Oh, ate?" Tanong ko kay Ate na siyang nilapitan ako.
+
+"Si Cleven.. May girlfriend na," napatigil ako. "At buntis na." Ang mundo ko naman ang tumigil sa sinabi niya
+
+"Ah ganoon ba, Ate. M-mabuti naman."
+
+Napailing si Ate. "Hayaan mo na, Francis." Ngumiti si Ate sa akin. Alam niya rin kasi na may gusto ako kay Cleven.
+
+Iniisip ko ang sinabi ni Ate sa akin. Minessage ako ni Cleven kanina na ipapakilala niya sa akin ang girlfriend niya bukas, hanggang sa ito na nga ang araw na 'yon.
+
+"Siya nga pala si Brianna. Fiancé ko na, pre. Nagpropose ako sa kanya kagabi."
+
+Kunwari akong natawa kasi siya ay natawa. "Ah nice to meet you, Brianna. I-Iba ka talaga, pre." It feels awkward tapos 'yung puso ko, nasasaktan.
+
+"Usap muna kami ng kaibigan ko, mahal."
+
+"Sige, mahal." Sagot ni Brianna kay Cleven at saka na siya pumasok sa kotse nila na nakapark sa kabilang karsada.
+
+"Pre, sorry. Ngayon ko lang napakilala sa 'yo, nagfocus kasi ako sa kanya, e. Sa panliligaw hanggang sa maging magkarelasyon kami."
+
+Hindi ako nakapagsalita at napaiwas lang ako ng tingin sa kanya.
+
+"Umiiyak ka ba, pre?"
+
+"Congrats, pre. Hindi ah, tears of joy lang ito." Pinunasan ko ang luha ko gamit ang palad ko.
+
+"Alam ko namang nagtatampo ka sa akin, pre." Hinawakan niya ako sa balikat at pinunasan niya ang luha ko sa mata ko gamit ang palad niya.
+
+"Tears of joy nga, pre. Don't worry."
+
+Nakatingin lang siya sa akin. Lalo akong napaiyak lalo pa't tinitignan ko ang mukha niya.
+
+"Sige na, sabihin mo na 'yung hinaing mo sa akin. Hindi rin kasi tayo nakapag-usap ng halos isang taon, e, 'di ba?"
+
+"Ayos nga lang kasi. Support ako kung saan ka masaya," biglang sumulpot sa utak kong umamin sa kanya. "Pero ito na kasi may gusto akong sabihin, pre."
+
+Napakunot noo siya. "Ano naman 'yon, pre?"
+
+"Masaya ako para sa 'yo. Masaya ako na nahanap mo na 'yung mamamahalin mo sa buhay. Sana all, pre. Sana all si Brianna." Nanikip ang dibdib ko dahil sa nasasaktan ako.
+
+"What do you mean, pre?"
+
+"Cleven, dati pa kitang mahal. Hanggang ngayon nga, e. Pero natakot lang akong umamin dahil sa," umiyak ako lalo at lalo kong pinigilan ang paghikbi ko. "Lalaki tayo pareho."
+
+"Francis."
+
+"Hayaan mo na, Cleven. Basta naisabi ko lang sa 'yo i-itong n-nararamdaman ko."
+
+"B-Bakit ngayon ka lang umamin?"
+
+Napatingin ako sa mukha niya, napaluha na rin siya at nagtataka ako. "B-Bakit? Anong m-meron?"
+
+"Sana noon mo pa inamin, pre. Ganyan rin mindset ko. Na.. pareho tayong lalaki k-kaya nahihiya rin akong umamin sa 'yo na gusto kita," napaiwas siya ng tingin sa akin at napapunas na siya sa kanyang luha gamit ang kamay niya. Ako naman ay nagulat. "Pero dati lang 'yon, pinigilan ko. Sana ako na lang pala umamin sa 'yo. Sorry, Francis. Hindi na tayo pwede dahil magkakaroon na ako ng pamilya."
+
+Nakaramdam ako ng saya, gulat, lungkot lalo na ang panghihinayang dahil sa sinabi niya.
+
+"A-Ayos lang, Cleven," napangiti ako. "Ang mahalaga.. Nalaman kong minsan mo rin pala akong nagustuhan at masaya ako para sa 'yo dahil.. magkakapamilya ka na."
+
+Doon kami nagkayakap matapos naming mag-usap at panay sorry lang kami sa isa't isa. Napagkasunduan pa rin namin na magkaibigan pa rin kami. Sinabi ko rin sa kanyang pahalagahan niya ang magiging pamilya niya.
+
+Narealize ko na kung noon pa sana, kung umamin lang ako sa kanya, may chance sana ako sa kanya. Nakakatawa man sabihin pero this is our almost a boys love story.`
+    },
+
+            {
         title: "SOON",
         date: "2026",
         status: "Ongoing",

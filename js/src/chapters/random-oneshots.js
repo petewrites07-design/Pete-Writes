@@ -595,6 +595,371 @@ Basta kahit na feeling natin ay mag-isa tayo dahil sa minsan sarili lang natin a
     },
 
         {
+        title: "Skip The Race",
+        date: "March 25, 2023",
+        status: "Completed",
+        content: `"ALIYAH Villagracia, with high honors."
+
+I received a lot of applause by the people who were proud of me dahil heto, with high honors pa rin ako this senior high school. It so hard but at least I know that I can kaya now, ito ang resulta.
+
+"Congratulations, Aliyah!
+
+"Sana all with high honors!"
+
+"Top one yarn, oh!"
+
+"Daming medal, daming certificate!"
+
+"So proud of you, Aliyah!"
+
+"Keep it up!"
+
+Ang dami ko ring na-receive na puri mula sa kanila. Nakaka-overwhelmed lang, ganito pala ang feeling. Sana naman magtuloy-tuloy pa rin sa college.
+
+I am consistent honor student, with high rather and I also joining some curicular activities because that's I want!
+
+Sa pagtungtong ko as a college student ay roon ko nalaman na ito pala ang reality pagdating sa pag-aaral. Mahirap sapagkat walang adviser at kaniya-kaniya lang kayo lalo pa't ang mga ka-block mate ko halos ay highest honors tas high honors.
+
+Well, hindi naman ako nahuhuli sa kanila but now masasabi ko na lang na naligaw pala ako dahil sa...
+
+Quiz: 12/40
+
+Tumingala na lamang ako upang hindi ako maluha sa nakita kong score ko. Alam kong mababaw 'yung dahilan kung bakit ako lumuluha dahil dito pero kasi ang sakit din saka hindi ako sanay sa ganito. I'll try my best naman at inuunawaan ko 'yung pagre-review ko.
+
+Hindi ko na nga nasabi 'yan kila Mama kasi baka kung ano pa'ng isipin nila, major subject ko pa naman 'yan. Natatakot kasi ako dahil alam kong mataas ang expectation nila sa akin.
+
+..
+
+"KUMUSTA naman 'yung state university mo na 'yan? Sana all, eh 'no!"
+
+"Okay lang naman," sagot ko sa kaibigan ko since highschool na si Maila. Now lang kasi kami nagkita dahil ika niya'y malapit na ang midterm exam, pupunta rin kami sa ibang tropa namin.
+
+"94 lang kasi average ko, sayang. Diyan din sana ako. Bakit kasi ang talino mo, ha? 97 average mo niyan oh tapos mababalitaan ko, puro uno ka tapos hindi ka lang Dean's lister kundi President's lister pa!"
+
+Napangiti naman ako nang pilit. Nako, kung alam mo lang sobra-sobra na 'yung pressure ko. Ayoko namang magsalita about dito baka kasi pati siya ma-disappoint sa 'kin. Mukhang ang saya pa naman nitong kaibigan ko base sa way ng pagkuwento niya sa 'kin.
+
+Nakakainggit naman. Siguro nami-maintain niya 'yung mga score niya samantalang ako ay hindi. Hindi na talaga, parang ang imposibleng maging latin honors ako o imposible na nga talaga.
+
+Ewan ko rin kasi sa sarili ko. Napapatanong ako kung mali ba 'tong course na napili ko para sa sarili ko... Gusto ko naman itong course ko na 'tong BS Psychology kasi mula junior highschool ako ginusto ko na 'to. Kaso mas nahihirapan ako ngayon sa totoo lang kaysa sa STEM strand ko noong senior highschool.
+
+"Bakit naman tahimik ka diyan? Napatulala ka! Humble na naman siguro 'yan!"
+
+Napalis ang iniisip ko at napalingon ako sa kaniya. "Wala, naisip ko lang 'yung midterm."
+
+"Kahit 'di mo na isipin 'yan, girl! Kaya mo na 'yan!"
+
+Natawa na lamang ako nang pilit sa kaniya. Ganoon ang isa sa sinasabi tungkol sa akin hindi lang si Maila kundi pati nung iba kaya natatakot ako kapag nalaman nilang ang baba baba ko na.
+
+..
+
+NAG-REVIEW na nga ako para sa midterm exam namin, kailangan ko lang naman makabawi not until malaman ko 'yung mga score ko sa lahat ng subjects ko...
+
+'Yung iba, 80 percent ang score ko sa over score na 100 percent ng exam kasi minor subjects 'yon which is not bad na rin kahit pa sinasabi ko sa sarili ko na dati two mistakes lang ako at madalas kong nape-perfect ang bawat exams ko noon.
+
+But I automatically tearing up with my major subject, ito lang naman ang nagpapahirap sa 'kin talaga. Itong subject lang na 'tong Psychological Statistics.
+
+Magaling naman magturo 'yung Professor ko roon pero parang hindi ko nage-gets. 'Yung mga kaklase ko rito ay nage-gets naman nila kahit papaano raw pero bakit parang ako lang 'yung hindi? Kahit intindihin ko is napakahirap talaga. 30 percent lang ang score ko!
+
+"Aliyah," tawag sa 'kin nung block mate kong si George, siya lang ang nakakausap ko minsan sa classroom. I wiped my tears using my hands.
+
+"Hey,"
+
+"Are you alright?"
+
+"Yes," pilit akong ngumiti. "Ilan ka sa Psystat?"
+
+"90 percent," nakangiti niyang sagot. "Ikaw ba?"
+
+Hindi kaagad ako nakasagot sa kaniyang tanong bagkus ay napaiwas ako ng tingin sa kaniya. Buti pa siya, nakakainggit. Paano niya nagagawa 'yan?
+
+"Huwag ka nang mahiya. Puwede ka namang bumawi sa finals."
+
+Tinignan ko muli siya at doon ko na nailabas ang luha na gusto ko nang ilabas. "Sana nga, makabawi pa."
+
+Gusto kong umiyak pero mamaya na lang. Mamaya ko na lang iiyakan 'yung nangyayari sa 'kin ngayon at mga iniisip ko especially for my tuition, baka magbayad ako ng whole tuition or kaya baka mapapaaalis ako rito sa state university na 'to dahil may grades limit. May posibilidad ding mawala ako sa scholarship ko.
+
+"Kaya mo 'yan," nakangiti niyang sabi. "Huwag kang makipagkarera, okay? Gawin mo 'yung best mo. Huwag mong i-pressure."
+
+"Hindi ko alam, George. Nakaka-depress pala kapag ganito," I wiped my tears again. "Nasanay ako sa high scores, sa high grades. Pero bakit ganito ngayon? Ganito ba talaga kapag college? Or baka ako lang 'tong nabobobo?"
+
+"You will find the answer for that question or questions by yourself only, Aliyah. Puwede ka namang lumihis eh."
+
+"Paanong lumihis?"
+
+"You can shift a course if you have no choice or move into another school. You can be chill and not thinking for other people, ilihis mo 'yang nararamdaman mo. You must don't compare yourself with other people too. Just focus on your race."
+
+"I know that, George but I can't help but to think that your score is still higher. Eh, ako ni hindi man lang ako nakaabot sa average score or half score. Bagsak talaga ako. Hindi ko alam kung kakapit pa ba 'ko sa pag-asa."
+
+"Yeah but what I mean is that's okay, don't pressure yourself too much. If you're afraid to tell about your problem with others... I just want to remind you that face your fear, that's life eh and ask yourself then be yourself. Don't forget to pray. Isipin mo na lang din na midterm pa lang naman."
+
+Napangiti na lang ako kahit naluluha. Oo nga pala, Psychology student nga pala si George kaya niya nasasabi iyan. Aaminin kong nakakagaan din pala sa pakiramdam 'yung mga sinasabi niya.
+
+..
+
+I PRAYED so hard in church para i-open sa Kaniya itong munting problema ko at nanghingi ako ng lakas at tulong sa Kaniya. Inuna ko munang mag-pray rito sa simbahan bago ako umuwi sa bahay ng 7 PM na. Napatingin naman ako kay bunso na nagdo-drawing at kay Mama na nagluluto. Kasunod ko rin na umuwi si Papa kaya I feel so doomed.
+
+"Nandito na pala kayo, magbihis na kayo at kumain na tayo."
+
+"Sige po, Ma. Magbibihis muna 'ko," sabi ko saka ako dumiretso sa kuwarto.
+
+Medyo tinagalan ko pa ang pagbihis at nung pagkalabas ko ay nakahanda na ang mga pagkain sa lamesa. Pagkaupo ko nga rito ay tinignan ako nila Mama.
+
+"Oh, kumusta 'yung midterms mo, 'nak? Nagkuwento na 'tong si bunsoy tungkol sa high scores niya. Nakakatuwa nga naman," sabi 'yon ni Mama na nagpatigil sa akin sa pag-kain.
+
+"Engineer ko 'yan. Ipagpatuloy mo lang 'yan, Russel," sabi 'yon ni Papa kay Russel.
+
+"Ikaw ba, Aliyah? Ano? Mataas ba scores mo?"
+
+Hindi kaagad ako nakasagot at nakayuko lang ako. Ang hirap tanggapin nung result of my midterm exams ko pero mas mahirap tanggapin na ito na nga 'yung hangganan ko pagdating sa pagiging mataas sa academics. Malalaman na rin nila 'yung inaalala ko.
+
+"Perfect 'yan ni Ate, Ma! Si Ate pa!" natutuwang sabi ni Russel. Napabaling ako sa kaniya.
+
+"Saglit nga, anak... Okay ka lang?"
+
+"Ma, tatanggapin niyo pa po ba 'ko kung sabihin kong bumababa ako ngayon?"
+
+"Ano'ng ibig mong sabihin, 'nak?" tanong ni Papa na siyang nagpaluha na sa 'kin.
+
+Umalis ako sa harapan nila upang kunin 'yung bag ko sa kuwarto at pagkabalik ko ay ibinigay ko sa kanila 'yung mga test paper ko. Nakatingin lamang ako sa kanilang tatlo na parang sinusuri ang scores ko.
+
+"Sabi na nga ba eh."
+
+Napatutok ako ng tingin sa sinabi ni Papa. Lumingon ito sa akin na walang reaksyon maging sila Mama nung tignan ko.
+
+"Just tell us the truth. Nape-pressure ka ba sa state university na pinapasukan mo?" tanong ni Mama na nagpayuko na talaga sa 'kin. Hindi ko na silang kaya tignan.
+
+"Dapat hindi na 'ko sumang-ayon sa 'yo, Ma, na paaralin doon si Aliyah," pagsisisi ni Papa kay Mama.
+
+Tinignan lang siya ni Mama at walang sinabi bagkus ay ako ang tinignan niya saka hinawakan niya ang kamay ko.
+
+"Anak, okay lang. Naiintindihan ko because you're a college student. Just keep going lalo pa't nasa state universisty ka pa," sabi ni Mama.
+
+"Hindi po kayo na-disappoint sa 'kin? Paano po kung bagsak ako, Ma? Pa?" salitan kong tinignan ang magulang ko.
+
+"Hindi kami disappointed ng Mama mo, anak," sabi ni Papa. "Huwag mong isipin. Bawi ka na lang sa susunod, okay? Just tell to us kung stress ka na sa pinapasukan mong university at ita-transfer kita sa iba."
+
+"Tama ang Papa mo, 'nak. Puwede ka pang bumawi. You don't need to get a high grades sa college, ang importante ay makapasa ka. If you're stress, just tell us para matulungan ka namin."
+
+"Kaya pala ang tamlay mo kanina, Ate," naagaw ang atensyon ko ni Russel. "Pero okay lang 'yan. Kaya mo 'yan, Ate kita eh! Ikaw 'yan eh! At least high honor nung senior highschool, 'di ba? Support kami sa 'yo."
+
+Napaiyak naman ako roon sa mga sinabi nila. Natuwa naman ako na ganito ang sinasabi nila dahil akala ko ay babatuhin nila ako ng masasakit na salita. I'm just overthinking with it.
+
+..
+
+MY family were supporting me by my choices and my only ability. Naganahan tuloy akong bumawi at sa buong finals ay ginawa ko 'yung best ko. Nakabawi naman ako kahit papaano nung final exam na at nakakatuwa na lagpas kalahati naman ako sa major subject ko, 60 percent.
+
+"Ganiyan nga, Aliyah. Ang galing-galing naman," nilingon ko si George roon.
+
+"Thank you, George!"
+
+Pagkauwi ko sa bahay ay pinakita ko sa pamilya ko ang score ko and they are proud for me by with it. Kahit na aminado akong naliliitan pa rin ako pero okay lang. Iniisip ko na lang maging pasado na lang ako kaysa makipagkarera sa iba na matataas.
+
+Everyone has own ability and skill.
+
+Then everyone did the best by their own.
+
+And everyone has own race in their life.
+
+Ipinagpapasalamat ko na lang sa Diyos na 2.75 ang grade ko sa major subject ko na 'yon.
+
+I've decided to transfer in another university for my second year college kasi magkakaroon na ako ng bayad dahil hindi ko na-maintain ang limit grades nila kaya ngayon lumipat ako rito kung saan ang kaibigan kong si Maila.
+
+But I am still Bachelor of Science in Psychology, hindi ko susukuan ito. Gustong-gusto kong makatulong sa iba at kasama ko itong mga failure sa pangarap ko.
+
+"Huwag mo nang masyadong isipin 'yan, beh. Huwag kang mag-alala, ngayong nakapag-transfer ka na rito ay sabay tayong makakapagtapos nang magkasama," na-touch naman ako sa sinabi ng kaibigan ko.
+
+"Thank you, Maila. Hays, lalaban pa rin!"
+
+"Oo, laban lang at minsan kailangan mo rin ng iba para mas mabuo mo 'yung sarili mo."
+
+"Noted ko 'yan! Naging magaan din pakiramdam ko para diyan. Kung ano na lang ang kaya ko, hindi ko na iisipin ang grades ko."
+
+"Pero kailangan mo pa rin pagsumikapan makapasa."
+
+Nagkangitian na lamang kami sa isa't isa and we are decided to go in convenience store kasi ililibre niya raw ako.
+
+Siguro, dito ay magkakaroon ako kahit papaano ng peace of mind na walang inaalalang mas nakaka-pressure. Siguro hindi ako para roon sa state university na 'yon.
+
+Ang dami ko ring lesson na nalaman sa sarili ko at sa buhay ko. Hindi na ako makikipagkarera para sa grades at hindi na rin ako magiging competitive at ikukumpara ang sarili ko sa iba, 'yung tama na lang at kaya ko na lang.
+
+And I realized that we will skip our current race to rest or if you feel that's not enough, just turn with other lane to race again kapag hindi na talaga kaya at sa pagkakataon na 'yon, doon naman tayo makikipagkarera para sa panibago ring malalaman natin para sa ating buhay.
+
+-END-`
+    },
+
+            {
+        title: "True Love In The Right Time",
+        date: "January 21, 2022",
+        status: "Completed",
+        content: `“Avi.. I’m sorry, hindi na kita mahal. May iba na ako.”
+
+Dahil sa sinabi niyan ng Ex boyfriend ko. Hindi na ako nagtitiwala sa love.. Ayaw ko na. Ayaw ko nang ma-inlove. Nakakatakot na mag-risk. Move on na naman ako doon sa Ex kong iyon pero hindi ibig ibig sabihin na I’m totally healed.
+
+“Give a chance for Cyrus, Ira.. Hayaan mo ang sarili mo na magmahal ulit.” Sabi ni Ate sa akin noong nagconfess sa akin ang kapatid ng friend ng Ate ko na nagngangalang Cyrus.
+
+Napailing ako. “H-Hindi ko alam, Ate. Yes.. He’s attractive to me but I don’t know yet if magmamahal pa ba ako ulit. Baka masaktan ko lang siya.”
+
+Hinawakan ni Ate ang kamay ko. “Just try it, Ira.”
+
+Tulad nga ng sinabi ni Ate. Nagpaligaw ako kay Cyrus. Nakitaan ko naman siya ng pagiging sincere na mahal niya ako, gagawin niya ang lahat para sa kain.. Kinikilig rin naman ako and may feelings naman ako kahit papaano kay Cyrus. Why not if itatry ko, right?
+
+“Thanks, Avi! Thank you, Ira! Thank you so much, Avira!” Sobrang saya ni Cyrus nang sagutin ko siya sa kanyang panliligaw. Sinigaw niya ‘yan kaya napagtitinginan tuloy kami ng mga tao.
+
+“Ano ka ba, Cyrus! Talagang sinabi mo pa ang nickname ko tapos nickname sa akin ng pamilya ko na Ira.. Nakakahiya!”
+
+“I’m so happy, Avira.. Na isinagot mo ako. Promise, I will love you than you think.” Nakangiting sabi sa akin ni Cyrus kaya napangiti rin ako.
+
+Yes. Okay naman si Cyrus sa akin. Nakaabot kami ng two months but I realized something and I feel like.. puzzled. Parang nag-aalinlangan ako kung ipagpapatuloy ko pa ba ang relasyon namin? Papatagalin ko pa ba? Sinubukan ko naman na mahalin rin siya ng totoo na katulad ng pagmamahal niya sa akin pero ganito nararamdaman ko.. Hindi ko pa nararamdaman ang tunay pagmamahal kahit na alam kong seryoso siya.
+
+“Cyrus, can we talk?” I asked him in call na magkita kami.
+
+[Sure, babe.]
+
+And now.. Dito na kami sa park nagkita. Bahala na, gusto ko na ‘tong sabihin sa kanya.
+
+“I’m so sorry, Cyrus. Sinubukan ko naman pero hindi talaga.. I think we should break up.”
+
+“What?!”
+
+“Break na tay—”
+
+“No please,” naiyak na siya. “Don’t do this to me, Avi. Mahal kita.”
+
+Napaluha na rin ako. Hindi ako makapaniwalang may masasaktan rin ako. “Sorry, Cyrus. I just want to say that you don’t deserve me. Yeah, mahal mo nga ako pero iba ang nararamdaman ko, Cyrus. Sinubukan kong mahalin ka pero hindi talaga. Ayaw ng puso ko. Hindi dahil sa mahal ko pa ang Ex ko pero tingin ko, hindi pa ito ang right time for me. I think our 2 months relationship is enough.. Sorry, Cyrus but you deserve a better. A better girl that truly loves you nang walang pag-aalinlangan.” Naiiyak ko na rin’g sabi at kahit na masakit para sa akin na nakasakit ako. Nilisan ko na ‘yung lugar na ‘yon para iwanan na siya.
+
+Naging okay rin naman ang lahat. After 2 years, nabalitaan ko na rin na nagkagirlfriend na si Cyrus and I’m glad dahil magpapakasal na sila. Friend ko na naman sila at wala naman kaming samaan ng loob ni Cyrus.
+
+Self love. Ayan ang ginawa ko sa sarili ko.. I didn’t expect na mas okay pala kapag inuna ko ‘yung sarili ko. Narealize ko rin kasi na ‘yung Ex ko na nang-iwan sa akin, dala lang ‘yon ng sobrang pagmamahal ko sa kanya na tipong hindi ko inuna ang sarili ko kaya sobra akong nasaktan.
+
+8 years passed when I met a guy na sa tingin ko ay siya na. Corny but I’m sure that this is love at first sight. Nagkatinginan kami nito at sabay pa nga kami nagka-iwasan ng tingin. Nagkatinginan ulit kami at pareho na kaming natawa nung magka-iwasan nanaman kami ng tingin.
+
+Nakilala ko siya dahil friend siya ka-workmate ko. He is Nathaniel pala, Nathan for short daw. Inaasar nga kami ng ka-workmate ko na magdate na kami at nagawa na nga namin ‘yon.
+
+Talking stage and getting to know each other until he confessed his feelings to me.
+
+“I like you, Avira. Can I court you?” Nathan asked me. Tumibok ang puso ko at para itong nagtatalon talon. Iba ang feeling talaga. I’m glad that he likes me too.
+
+“Yes, payag ako. Payag ako na magpaligaw sa ‘yo.”
+
+He was happy that time when I said that. Ito talaga, dito ko talaga nafeel ‘yung hinahanap ko. I think, this is the right time. Nung sinagot ko siya ay wala akong pag-aalinlangan hindi tulad noong kay Cyrus. Nagtagal kami ni Nathaniel hanggang sa naglive in na kami sa isang condo unit.
+
+Noong magpropose si Nathan sa akin ay sinagot ko siya syempre. Sobrang tuwa niya at sobrang tuwa ng puso ko dahil sa masaya siya.
+
+Now, this is our wedding day..
+
+“Kiss the bride.”
+
+Ngumiti ako kay Nathan na siyang habang buhay ko nang mamahalin bago kami nagkiss sa isa’t isa in front of the people in our life and in front of God.
+
+Nakakainip talaga noong wala pa si Nathan. Akala ko nga tatanda na akong dalaga. Successful na nga ako no’n at maayos na ang buhay ko pero wala pa rin siya. Tama nga ang sinasabi nila na nasa right time ang para sa ‘yo, nasa right time ang true love. Bago mo pala ito dumating sa buhay natin, hindi talaga maiiwasang masaktan ka or makasakit ka ng iba. And now, nandito na siya sa harapan ko. Ang lalaking mamahalin ko habang buhay at bubuohan ko ng pamilya.
+
+-THE END-`
+    },
+
+            {
+        title: "I Wish",
+        date: "January 24, 2022",
+        status: "Completed",
+        content: `I'M JUST a simple man na may gusto sa best friend ko na si Valerie. We have a promise to each other na kapag at the age of 30 ay magiging kami. Magiging kami kung wala kaming magiging kalaguyo sa edad na 'yon.
+
+Now, she's crying into the front of me, andito kami sa sofa ng bahay nila. Umiiyak siya dahil brineak siya ng jowa niya. We are 24 years old.
+
+Todo comfort lang ako sa kanya hanggang sa makatulog siya sa bisig ko.
+
+Kinaumagahan ay nagising ako at tulog pa din si Valerie sa bisig ko. I smiled at hinaplos ko ang buhok niya.
+
+"Hay sana ako na lang kasi..hindi kita sasaktan." Bulong ko sa kanya.
+
+Gulat na lang ako nang bigla siyang nag-angat ng tingin sa akin.
+
+"Hindi mo ko sasaktan Jaytan?"
+
+Speechless. So I nodded to her.
+
+"Ligawan mo 'ko."
+
+Tulala lang ako sa sinabi niya at namalayan ko na lang na wala na siya sa tabi ko at nasa kusina na.
+
+GINAWA ko nga 'yon. Niligawan ko siya ng 7 months then sinagot niya ako dahil sa surprise ko sa kanya.
+
+"Will you be my girlfriend?" Tanong ko habang nakaluhod ang kanang tuhod ko.
+
+Naghiyawan naman ang mga katrabaho namin dito sa office at nagsasabing oo na daw isagot sa akin ni Valerie. Napapangiti naman ako dahil doon pero sobra ang kaba ko!
+
+"Yes. Yes Jaytan, girlfriend mo na ko."
+
+Dahil sa saya ay tumayo ako dito at niyakap siya saka binuhat. Kilig na kilig naman ang mga katrabaho namin at natutuwa akong makitang masaya si Valerie nang sagutin niya ako.
+
+"Thank you. I promise na hindi kita iiwan." Sabi ko sa kanya.
+
+NANDITO kami sa park for our 1st anniversary celebration. Simple lang at dito sa park lang.. Eto 'yung park na pinapasyalan namin kapag celebrate ng friendsary namin ngayon ay anniversary na namin as magkarelationship.
+
+Nakaupo lamang kami dito sa upuang bato at kumakain ng ice cream.
+
+"Salamat ah. Salamat dahil totoo ang sinabi mo, na hindi mo ako iiwan. Napaaga nga lang ang pagiging magkasintahan natin kasi pangako natin 30 diba?" Aniya. Napangiti naman ako.
+
+"Ayos lang baby. Basta tayong dalawa hahaha happy first anniversary sa atin baby."
+
+"Happy first anniversary sa atin baby." Napangiti naman ako nang kanyang sambitin sa akin 'yon.
+
+Ang sarap sa puso at pakiramdam.
+
+Dati sineselebreyt lang namin ay sa pagiging magbest-friend lang namin ngayon ay bilang magkasintahan na.
+
+Dito sa park ay tinitignan namin ang magandang puno dito na may mga bulaklak. Sobrang ganda talaga, nagpicture kaming dalawa dito.
+
+"Baby, pictureran kita. Ang ganda oh! Tingala ka saka pikit hahaha." Aniya.
+
+Kaya naman napakamot ako ng ulo at sinunod ang sinabi niya. Matapos no'n pinakita niya sa akin ang picture at ang ganda ng shots.
+
+"Lagi ko 'tong titignan kapag malungkot ako."
+
+"Hahaha ikaw talaga. Pwede ka naman magsabi sa akin e."
+
+Hindi na lang niya ako sinagot bagkos ay nagpatuloy na lang kaming mag-date dito sa park.
+
+NOW. Natapos na ang date namin at uuwi na kami nang..
+
+"Baby!"
+
+Tinulak ko siya dahil may humaharurot na motor na paparating. Tumingin ako sa motor at dahil sa bilis nito ay hindi ko na naiwasan ito.
+
+Tumalsik ako!
+
+Kita ko ang motor na 'yon na papalayo habang nakahiga na ako dito sa semento. Pagkabalin ko sa gilid ko ay madaming tao dito na nakatingin sa akin at pagkatingin ko sa harap ko ay ang girlfriend ko. Umiiyak siya sa harap ko.
+
+Nanlalabo ang paningin ko. Hindi ko na alam.
+
+"Baby. Lumaban ka baby please wag mo kong iwan." Umiiyak niyang sabi.
+
+"O-oo lalaban ako." Sabi ko ng nahihirapan.
+
+Hinawakan niya ang dalawang kamay ko at dinikit sa mukha niya.
+
+"Babyyy pleaseee mahal na mahal kita please lumaban ka lumaban ka."
+
+Hindi ko alam baby. Nahihirapan na ako. Nanlalabo na ang paningin ko.
+
+"Jaytan magsalita ka please baby."
+
+"H-Hindi ko alam baby. Pero pangako lalaban ako. But I want to say thank you--"
+
+"Wag ka namang ganyan oh!"
+
+Nagpatuloy akong magsalita.
+
+"I want to say thank you na andito ka nagstay ka sa akin at minahal mo 'ko. Kung mawawala man ako, I wish na magpakatatag ka at makahanap ka ng susunod na mamahalin mo na makakasama mo habang buhay."
+
+Lalo siyang naiyak.. Nahihirapan din ako habang binibigkas 'yan.
+
+Kusa ko na lamang nabitawan ang kamay niya at pumikit na ang aking mga mata.
+
+Wala na akong alam sa nangyari at hiling ko lang na maging masaya siya kahit na wala na ako.
+
+--END.`
+    },
+
+                {
         title: "SOON",
         date: "2026",
         status: "Ongoing",

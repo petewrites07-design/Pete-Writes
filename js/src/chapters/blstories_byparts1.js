@@ -7,7 +7,7 @@ window.storyDatabase['bl_series_1'] = {
     description: "It is about the story of Gyu and Servo who love each other and they will be tested by the trials they will go through, but even if they go through it they will overcome it because of their love.",
     
     date: "2024",
-    status: "Completed",
+    status: "Mature • Completed",
 
     // 👉 Dito mo na lang ilalagay ang date ng bawat part nang hindi ginalagalaw ang parts content mo!
     partDates: {

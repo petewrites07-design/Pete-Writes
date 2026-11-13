@@ -7,6 +7,14 @@ window.storyDatabase["petesarapstories_byparts1"] = {
     description: "Ang kuwento nina Cleo at Patra na mag-dormmates na nauwi sa... basahin ang kuwento!", // <-- Dito ang synopsis
 date: "January 2025",
     status: "Completed",
+
+partDates: {
+    "Part 1": "January 3,, 2025",
+    "Part 2": "January 7, 2025",
+    "Last Part": "January 11, 2025",
+    "Bonus Funny Part": "January 12, 2025"
+},
+
     parts: {
         "Part 1": `Ako si Cleo at may bet ako, si Patra. Lalaki siya at feminine ang mukha niya and I don't know if he is gay too or bisexual kasi hindi naman kami gaanong close. Dormmates lang din naman kami rito sa dorm ng university.
 

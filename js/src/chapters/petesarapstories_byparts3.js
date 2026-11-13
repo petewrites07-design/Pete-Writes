@@ -8,6 +8,17 @@ window.storyDatabase["petesarapstories_byparts3"] = {
 
     date: "September 2026",
     status: "Completed",
+
+    partDates: {
+    "Part 1": "September 7, 2026",
+    "Part 2": "September 10, 2026",
+    "Part 3": "September 14, 2026",
+    "Part 4": "September 21, 2026",
+    "Part 5": "September 27, 2026",
+    "Part 6": "October 3, 2026",
+    "Last Part": "October 6, 2026"
+},
+
     parts: {
 
         "Part 1": `"May magagawa ba ako, Heven? Hinawakan niya, hinimas tas nanigas at inakit niya ako. Edi pumatol na ako! Libog din ako no'n eh."
