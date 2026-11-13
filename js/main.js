@@ -80,7 +80,8 @@ const translations = {
         aboutTitle: "✍️ Tungkol kay Pete at sa Website",
         aboutText: "Isa akong independent random fiction writer at BSIT graduate. Nagsimula akong magsulat sa Wattpad noong 2017 at ginawa ang aking opisyal na Facebook writing page noong 2021. Nagsusulat ako dahil nagdudulot ito sa akin ng saya at gusto kong ma-explore ng iba ang aking imahinasyon. Higit sa lahat, sana ay mag-iwan ang aking mga kwento ng makahulugang leksyon para sa inyong mga sariling paglalakbay.",
         aboutWebsiteText: "Ang website na ito ay ginawa para lamang sa aking mga mambabasa bilang isang malayang platform sa pagbabasa. Madaling makapag-navigate ang mga mambabasa sa iba't ibang kategorya upang galugarin at tangkilikin ang aking mga gawa. Ang pangunahing layunin ng website na ito ay simple at dalisay: ang magbigay ng komportable, naaakses, at malayang espasyo para sa lahat upang magbasa at masiyahan sa aking mga kwento. Maaari mong basahin ang lahat ng mga kwentong ito nang libre! Mag-enjoy sa pagbabasa, mag-relax, at namnamin ang bawat kabanata.",
-        disclaimerText: "Ang ilang mga kwento rito ay uncensored at walang-altang (no-cut) dialogues, kaya read at your own risk dahil maaaring may makita kang typos o maling gramatika na maaaring hindi komportable sa iba. Walang log-in o sign-up na kailangan para makapagbasa rito! Works of fiction lang po ito (mga kathang-isip lamang). Anumang pagkakatulad sa totoong tao, buhay man o patay, o sa mga tunay na pangyayari ay nagkataon lamang.",        copyrightText: "All rights reserved. Ang plagiarism ay isang krimen! Walang bahagi ng mga kwentong ito ang maaaring kopyahin o ipamahagi nang walang pahintulot.",
+        disclaimerText: "Ang ilang mga kwento rito ay uncensored at walang-altang (no-cut) dialogues, kaya read at your own risk dahil maaaring may makita kang typos o maling gramatika na maaaring hindi komportable sa iba. Walang log-in o sign-up na kailangan para makapagbasa rito! Works of fiction lang po ito (mga kathang-isip lamang). Anumang pagkakatulad sa totoong tao, buhay man o patay, o sa mga tunay na pangyayari ay nagkataon lamang.",
+        copyrightText: "All rights reserved. Ang plagiarism ay isang krimen! Walang bahagi ng mga kwentong ito ang maaaring kopyahin o ipamahagi nang walang pahintulot.",
         linksTitle: "🔗 Mga Account Link",
         warningTitle: "Babala sa Sensitibong Nilalaman (R-18)",
         warningText: "Ang seksyong ito (petesarap's random stories) ay naglalaman ng mga temang pang-mature na para lamang sa mga edad 18 pataas.",
@@ -217,6 +218,7 @@ function updateStaticLanguageUI() {
     if (document.getElementById('welcomeHeader')) document.getElementById('welcomeHeader').innerText = t.welcomeHeader;
     if (document.getElementById('welcomeDesc')) document.getElementById('welcomeDesc').innerText = t.welcomeDesc;
     if (document.getElementById('readerBackBtn')) document.getElementById('readerBackBtn').innerHTML = t.backBtn;
+    if (document.getElementById('floatingBackBtn')) document.getElementById('floatingBackBtn').innerHTML = t.backTitles;
     if (document.getElementById('aboutModalTitle')) document.getElementById('aboutModalTitle').innerHTML = t.aboutTitle;
     if (document.getElementById('aboutPeteHeading')) document.getElementById('aboutPeteHeading').innerText = (currentLang === 'en' ? 'About Pete' : 'Tungkol kay Pete');
     if (document.getElementById('aboutWebsiteHeading')) document.getElementById('aboutWebsiteHeading').innerText = (currentLang === 'en' ? 'About the Website' : 'Tungkol sa Website');
@@ -235,6 +237,7 @@ function updateStaticLanguageUI() {
     if (document.getElementById('resumeYesBtn')) document.getElementById('resumeYesBtn').innerText = t.yes;
 }
 
+// --- CONTINUOUS SCROLL MEMORY (REMEMBERS POSITION PER PART & ONE-SHOT) ---
 window.addEventListener('scroll', () => {
     const readerPage = document.getElementById('readerPage');
     if (readerPage && !readerPage.classList.contains('page-hidden') && activeSaveId) {
@@ -262,6 +265,38 @@ function saveProgressBookmark(id, data) {
         updatedAt: Date.now()
     };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+}
+
+// --- WATTPAD-STYLE FLOATING CONTROLS ON SCREEN TAP ---
+function toggleReaderFloatingBar(event) {
+    if (event && (event.target.tagName === 'BUTTON' || event.target.tagName === 'A')) return;
+    const bar = document.getElementById('readerFloatingBar');
+    if (!bar) return;
+
+    const isVisible = bar.classList.contains('opacity-100');
+    if (isVisible) {
+        hideFloatingBar();
+    } else {
+        bar.classList.remove('opacity-0', 'pointer-events-none', 'translate-y-4');
+        bar.classList.add('opacity-100', 'pointer-events-auto', 'translate-y-0');
+    }
+}
+
+function hideFloatingBar() {
+    const bar = document.getElementById('readerFloatingBar');
+    if (!bar) return;
+    bar.classList.remove('opacity-100', 'pointer-events-auto', 'translate-y-0');
+    bar.classList.add('opacity-0', 'pointer-events-none', 'translate-y-4');
+}
+
+function handleFloatingBack() {
+    hideFloatingBar();
+    if (currentReaderMode === 'part' && currentStoryKey) {
+        activeSaveId = '';
+        showPartsList(currentStoryKey);
+    } else {
+        goBackFromReader();
+    }
 }
 
 function triggerBadgeShow() {
@@ -331,6 +366,7 @@ function dismissResumeModal() {
 }
 
 function navigateTo(pageId) {
+    hideFloatingBar();
     document.querySelectorAll('.page-view').forEach(page => {
         page.classList.add('page-hidden');
         page.style.display = 'none';
@@ -479,7 +515,13 @@ function renderSubCategoryDirect() {
             storyKeys.forEach((sKey) => {
                 const sData = window.storyDatabase[sKey];
                 const storyTitle = sData.title || "Untitled Series";
-                const savedEntry = progress['series_' + sKey];
+                
+                // Find most recently read part in this series
+                const seriesEntries = Object.entries(progress)
+                    .filter(([k, v]) => k.startsWith(`series_${sKey}_`))
+                    .sort((a, b) => b[1].updatedAt - a[1].updatedAt);
+
+                const savedEntry = seriesEntries.length > 0 ? seriesEntries[0][1] : progress['series_' + sKey];
                 const lastReadText = savedEntry ? (savedEntry.partName || '') : '';
 
                 const isNew = isNewUpdate(sData.date);
@@ -575,10 +617,13 @@ function renderPartsListDirect() {
     const storyStatus = (storyData && storyData.status) ? storyData.status : "";
 
     const partNames = getSortedPartNames(storyData);
-
     const progress = getSavedProgress();
-    const savedEntry = progress['series_' + currentStoryKey];
-    const lastPartName = savedEntry ? savedEntry.partName : '';
+
+    // Find most recent part read for this story
+    const seriesEntries = Object.entries(progress)
+        .filter(([k, v]) => k.startsWith(`series_${currentStoryKey}_`))
+        .sort((a, b) => b[1].updatedAt - a[1].updatedAt);
+    const lastPartName = seriesEntries.length > 0 ? seriesEntries[0][1].partName : '';
 
     let html = `
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pb-4 mb-4 border-b border-slate-200 dark:border-slate-800">
@@ -615,7 +660,12 @@ function renderPartsListDirect() {
     partNames.forEach((pName) => {
         const safePartName = pName.replace(/'/g, "\\'");
         const isLastRead = (pName === lastPartName);
-        const badge = isLastRead ? `<span class="ml-2 text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded shrink-0">${t.lastReadBadge}</span>` : '';
+        const partSaveKey = `series_${currentStoryKey}_${pName}`;
+        const hasScrollProgress = progress[partSaveKey] && progress[partSaveKey].scrollY > 50;
+
+        const badge = isLastRead 
+            ? `<span class="ml-2 text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded shrink-0">${t.lastReadBadge}</span>` 
+            : (hasScrollProgress ? `<span class="ml-2 text-[10px] bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-300 px-1.5 py-0.5 rounded shrink-0">🔖</span>` : '');
         
         const isPartNew = (pName === latestPartName) && isStoryNew;
         const partNewBadge = isPartNew ? `<span class="text-[8px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse">NEW</span>` : '';
@@ -713,7 +763,7 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
             <p class="text-sm font-bold text-orange-600">${t.reachedEnd}</p>
             <div>
                 <button onclick="goBackFromReader()" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
-                    ${t.backBtn}
+                    ${t.backTitles}
                 </button>
             </div>
         </div>
@@ -727,16 +777,15 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
 function openPartReader(partName, savedScrollY = 0) {
     currentReaderMode = 'part';
-    activeSaveId = `series_${currentStoryKey}`;
+    // Unique ID per part so each part remembers its own scroll position!
+    activeSaveId = `series_${currentStoryKey}_${partName}`;
 
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
     const titleName = storyData ? storyData.title : "Story";
 
     if (savedScrollY === 0) {
         const progress = getSavedProgress();
-        savedScrollY = (progress[activeSaveId] && progress[activeSaveId].partName === partName) 
-            ? progress[activeSaveId].scrollY || 0 
-            : 0;
+        savedScrollY = progress[activeSaveId] ? progress[activeSaveId].scrollY || 0 : 0;
     }
 
     saveProgressBookmark(activeSaveId, {
@@ -754,7 +803,7 @@ function openPartReader(partName, savedScrollY = 0) {
 
 function openPartReaderDirect(partName, savedScrollY) {
     currentReaderMode = 'part';
-    activeSaveId = `series_${currentStoryKey}`;
+    activeSaveId = `series_${currentStoryKey}_${partName}`;
     const t = translations[currentLang];
 
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
@@ -807,8 +856,11 @@ function openPartReaderDirect(partName, savedScrollY) {
         const nextPartName = partNames[currentIndex + 1];
         const safeNextPartName = nextPartName.replace(/'/g, "\\'");
         navigationHtml = `
-            <div class="flex justify-end pt-6 sm:pt-8 mt-8 border-t border-slate-200 dark:border-slate-800">
-                <button onclick="openPartReader('${safeNextPartName}')" class="px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
+            <div class="flex flex-col-reverse sm:flex-row items-center justify-between gap-3 pt-6 sm:pt-8 mt-8 border-t border-slate-200 dark:border-slate-800">
+                <button onclick="showPartsList('${currentStoryKey}')" class="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-slate-200 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-300 dark:hover:bg-slate-700 text-xs font-bold transition-all cursor-pointer shadow-sm">
+                    ${t.backTitles}
+                </button>
+                <button onclick="openPartReader('${safeNextPartName}')" class="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-orange-600 text-white text-xs font-bold hover:opacity-90 transition-all cursor-pointer shadow-md">
                     Next: ${nextPartName} →
                 </button>
             </div>
@@ -838,6 +890,7 @@ function openPartReaderDirect(partName, savedScrollY) {
 }
 
 function goBackFromReader() {
+    hideFloatingBar();
     activeSaveId = '';
     window.history.back();
 }
@@ -847,6 +900,7 @@ function pushHistory(stateObj) {
 }
 
 function renderPageDirect(pageId) {
+    hideFloatingBar();
     document.querySelectorAll('.page-view').forEach(page => {
         page.classList.add('page-hidden');
         page.style.display = 'none';
@@ -867,6 +921,7 @@ function renderPageDirect(pageId) {
 }
 
 window.addEventListener('popstate', (event) => {
+    hideFloatingBar();
     document.getElementById('resumeModal').classList.add('hidden');
     
     if (event.state && event.state.view) {
