@@ -1,15 +1,13 @@
 {
-  "name": "Stories by Pete Writes",
-  "short_name": "PeteWrites",
-  "start_url": "./index.html",
+  "background_color": "#ffffff",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#0f172a",
+  "name": "Stories by Pete Writes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PeteWrites",
+  "start_url": "/",
   "theme_color": "#f97316",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ]
+  "id": "index.html",
+  "description": "Personal collection of stories by Pete Writes."
 }
