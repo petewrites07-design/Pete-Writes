@@ -673,23 +673,21 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     let currentOsDate = "";
     let currentOsStatus = "";
-    let currentOsGenre = "";
     if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
         const foundOs = window.oneShotDatabase[currentCategory].find(os => os.title === title);
         if (foundOs) {
             currentOsDate = foundOs.date || "";
             currentOsStatus = foundOs.status || "";
-            currentOsGenre = foundOs.genre || "";
         }
     }
 
     document.getElementById('readerTitle').innerText = title;
     
+    // Tinanggal na rin ang genre sa one-shot para date at status na lang din ang matira!
     let breadcrumbHtml = `
         <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
             <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${title}</span>
             <div class="flex flex-wrap items-center sm:justify-end gap-1.5 text-xs text-slate-500 dark:text-slate-400 mt-1">
-                ${currentOsGenre ? `<span>${currentOsGenre}</span>` : ''}
                 ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
                 ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${currentOsStatus}</span>` : ''}
             </div>
@@ -764,7 +762,6 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
     
-    // Tinanggal ang genre at date/status na lang ang natira para ligtas sa OCD!
     let partBreadcrumbHtml = `
         <div class="flex flex-col w-full sm:w-auto sm:max-w-xs sm:ml-auto mt-3 sm:mt-0 pt-3 sm:pt-0 border-t sm:border-t-0 border-slate-100 dark:border-slate-800 text-left sm:text-right">
             <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words w-full">${partName}</span>
