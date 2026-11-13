@@ -429,16 +429,20 @@ function renderSubCategoryDirect() {
                 
                 if (storyCat === currentCategory) {
                     foundStories++;
-                    const storyTitle = sData.title || "Untitled Series";
-                    const savedEntry = progress['series_' + sKey];
-                    const badgeHtml = savedEntry
-                        ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} <span class="font-bold text-orange-600">${savedEntry.partName}</span></div>`
-                        : '';
+const storyTitle = sData.title || "Untitled Series";
+const savedEntry = progress['series_' + sKey];
 
-                    html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-orange-500 bg-white dark:bg-slate-900 transition-all text-left cursor-pointer shadow-sm">
-                        <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
-                        ${badgeHtml}
-                    </button>`;
+// Kung object ang savedEntry, kunin natin yung partTitle o chapter name niya para hindi [object Object]
+const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
+
+const badgeHtml = savedEntry
+    ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
+    : '';
+
+html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full">
+    <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
+    ${badgeHtml}
+</button>`;
                 }
             });
         }
@@ -506,6 +510,11 @@ function renderPartsListDirect() {
     const titleName = storyData ? storyData.title : "Story Series";
     const storyGenre = (storyData && storyData.genre) ? storyData.genre : "";
     const storyDesc = (storyData && storyData.description) ? storyData.description : "";
+    
+    // 👇 KINUKUNIN ANG DATE AT STATUS MULA SA STORY OBJECT
+    const storyDate = (storyData && storyData.date) ? storyData.date : "";
+    const storyStatus = (storyData && storyData.status) ? storyData.status : "";
+
     const partNames = (storyData && storyData.parts) ? Object.keys(storyData.parts) : [];
 
     const progress = getSavedProgress();
@@ -517,7 +526,15 @@ function renderPartsListDirect() {
             <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
                 ${t.backTitles}
             </button>
-            <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right truncate max-w-[220px]">${titleName}</span>
+            
+            <!-- 👇 DITO NAKALAGAY ANG TITLE AT SA ILALIM ANG DATE & STATUS -->
+            <div class="flex flex-col items-start sm:items-end text-left sm:text-right">
+                <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate max-w-[280px]">${titleName}</span>
+                <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                    ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
+                    ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300">${storyStatus}</span>` : ''}
+                </div>
+            </div>
         </div>
     `;
 
@@ -548,6 +565,7 @@ function renderPartsListDirect() {
 
     html += `</div>`;
     area.innerHTML = html;
+
 }
 
 // --- STORY READERS ---

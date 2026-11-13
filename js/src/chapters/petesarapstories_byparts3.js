@@ -5,6 +5,8 @@ window.storyDatabase["petesarapstories_byparts3"] = {
     category: "petesarap",
     genre: "Fiction • Office Romance • Mature • Drama",
     description: "This is the story of Carl's cousin na si Heven and meron siyang idol and crush na isang BL writer na pinapantasya niya pa kasi pogi tapos favorite niya ang mga kwento nito basahin. So guess what? Heven is lucky kasi ang kanyang magiging kapalaran ay magiging dream come true din sa kanya. Ano ito? Basahin na ang kwento!",
+        date: "2026",
+    status: "Completed",
     parts: {
 
         "Part 1": `"May magagawa ba ako, Heven? Hinawakan niya, hinimas tas nanigas at inakit niya ako. Edi pumatol na ako! Libog din ako no'n eh."

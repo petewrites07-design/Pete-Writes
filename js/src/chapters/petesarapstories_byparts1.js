@@ -5,6 +5,8 @@ window.storyDatabase["petesarapstories_byparts1"] = {
     category: "petesarap",
     genre: "Fiction • Romance • Mature • Drama", // <-- Dito mo ilalagay ang genre
     description: "Ang kuwento nina Cleo at Patra na mag-dormmates na nauwi sa... basahin ang kuwento!", // <-- Dito ang synopsis
+date: "2025",
+    status: "Completed",
     parts: {
         "Part 1": `Ako si Cleo at may bet ako, si Patra. Lalaki siya at feminine ang mukha niya and I don't know if he is gay too or bisexual kasi hindi naman kami gaanong close. Dormmates lang din naman kami rito sa dorm ng university.
 

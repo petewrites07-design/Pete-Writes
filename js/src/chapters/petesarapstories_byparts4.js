@@ -5,6 +5,9 @@ window.storyDatabase["petesarapstories_byparts4"] = {
     category: "petesarap",
     genre: "Fiction • Romance • Mature • Drama",
     description: "This is the story of Yoru's cousin na si Bon, dahil sa boredom niya ay may makaka-meet siyang isang lalaking hindi inaakala. Sino ito? Kilalanin at basahin na ang kwento!",
+   
+    date: "2026",
+    status: "Ongoing",
     parts: {
         "Part 1": `Kapag sa Facebook Lite kayo nagcha-chat, common na. Kapag sa messenger naman, parang formal at para sa more features lang 'yon.
 
