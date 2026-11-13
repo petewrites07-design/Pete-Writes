@@ -8,6 +8,18 @@ window.storyDatabase['bl_series_1'] = {
     
     date: "2024",
     status: "Completed",
+
+    // 👉 Dito mo na lang ilalagay ang date ng bawat part nang hindi ginalagalaw ang parts content mo!
+    partDates: {
+        "Disclaimer": "August 2024",
+        "Part 1: Isang Ngiti, Isang Tingin": "August 12, 2024",
+        "Part 2: Isang Tingin, Isang Ngiti": "September 2, 2024",
+        "Part 3: Isang Yakap, Isang Halik": "November 15, 2024",
+        "Part 4: Isang Halik, Isang Yakap": "December 13, 2024",
+        "Part 5: Isang Salita": "December 24, 2024",
+
+    },
+
     parts: {
 
         "Disclaimer": `This is a work of fiction. Names, characters, some places and incidents are products of the author's imagination and are used fictitiously. Any resemblance to actual events, places, or persons, living or dead, is entirely coincidental. 
