@@ -55,6 +55,7 @@ const translations = {
         reachedEndSeries: "✨ You've reached the end of this story! Thank you so much for reading! ✨",
         lastRead: "Last read:",
         lastReadBadge: "Last Read",
+        newBadge: "NEW!",
         darkMode: "Dark Mode",
         lightMode: "Light Mode"
     },
@@ -100,10 +101,43 @@ const translations = {
         reachedEndSeries: "✨ Narating mo na ang dulo ng seryeng ito! Maraming salamat sa pagbabasa! ✨",
         lastRead: "Huling binasa:",
         lastReadBadge: "Huling Binasa",
+        newBadge: "BAGO!",
         darkMode: "Dark Mode",
         lightMode: "Light Mode"
     }
 };
+
+// --- UNIVERSAL DATE SORTING UTILITY ---
+function parseStoryDate(dateStr) {
+    if (!dateStr) return 0;
+    let parsed = Date.parse(dateStr);
+    if (!isNaN(parsed)) return parsed;
+    
+    const yearMatch = dateStr.match(/\b(20\d{2}|19\d{2})\b/);
+    if (yearMatch) {
+        const monthMatch = dateStr.match(/\b(January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b/i);
+        const dayMatch = dateStr.match(/\b(\d{1,2}),/);
+        const monthStr = monthMatch ? monthMatch[0] : 'January';
+        const dayStr = dayMatch ? dayMatch[1] : '1';
+        const fallbackParsed = Date.parse(`${monthStr} ${dayStr}, ${yearMatch[0]}`);
+        if (!isNaN(fallbackParsed)) return fallbackParsed;
+        return new Date(yearMatch[0], 0, 1).getTime();
+    }
+    return 0;
+}
+
+// --- 2-WEEK EXPIRING "NEW!" BADGE LOGIC ---
+function isNewUpdate(dateStr) {
+    if (!dateStr) return false;
+    const storyTime = parseStoryDate(dateStr);
+    if (storyTime === 0) return false;
+    
+    const now = Date.now();
+    const diffTime = now - storyTime;
+    const diffDays = diffTime / (1000 * 60 * 60 * 24);
+    
+    return diffDays >= 0 && diffDays <= 14;
+}
 
 window.addEventListener('DOMContentLoaded', () => {
     if (window.location.hash) {
@@ -136,7 +170,8 @@ function setLanguage(lang) {
         }
     } else if (!readerPage.classList.contains('page-hidden')) {
         if (currentReaderMode === 'part') {
-            openPartReaderDirect(document.getElementById('readerBreadcrumb').innerText, window.scrollY);
+            const currentPart = document.getElementById('readerBreadcrumb').innerText;
+            openPartReaderDirect(currentPart, window.scrollY);
         }
     }
 
@@ -190,7 +225,6 @@ function updateStaticLanguageUI() {
     if (document.getElementById('resumeYesBtn')) document.getElementById('resumeYesBtn').innerText = t.yes;
 }
 
-// Auto-save scroll position
 window.addEventListener('scroll', () => {
     const readerPage = document.getElementById('readerPage');
     if (readerPage && !readerPage.classList.contains('page-hidden') && activeSaveId) {
@@ -220,7 +254,6 @@ function saveProgressBookmark(id, data) {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
 }
 
-// --- CLICK IT BADGE TIMER ---
 function triggerBadgeShow() {
     const badge = document.getElementById('clickItBadge');
     if (badge) {
@@ -249,7 +282,6 @@ function stopClickItTimer() {
     }
 }
 
-// --- RESUME POPUP ---
 function checkForSavedProgressOnLoad() {
     const progress = getSavedProgress();
     const entries = Object.entries(progress).sort((a, b) => b[1].updatedAt - a[1].updatedAt);
@@ -261,7 +293,7 @@ function checkForSavedProgressOnLoad() {
         
         const titleName = data.type === 'part' ? `${data.title} — ${data.partName}` : data.title;
         document.getElementById('resumeModalText').innerText = `${t.resumeText} ("${titleName}")`;
-        document.getElementById('resumeModal').classList.remove('hidden');
+        document.getElementById('resumeModal').classList.add('hidden'); // Fixed safe state
     }
 }
 
@@ -288,7 +320,6 @@ function dismissResumeModal() {
     pendingResumeData = null;
 }
 
-// --- NAVIGATION ---
 function navigateTo(pageId) {
     document.querySelectorAll('.page-view').forEach(page => {
         page.classList.add('page-hidden');
@@ -324,7 +355,6 @@ function adjustFontSize(amount) {
     readerContent.style.fontSize = currentFontSize + 'px';
 }
 
-// --- CATEGORY SELECTION ---
 function selectCategory(catId) {
     currentCategory = catId;
     if (catId === 'petesarap') {
@@ -396,7 +426,6 @@ function renderFormatSelectionDirect() {
     `;
 }
 
-// --- SUB-CATEGORY ---
 function showSubCategory(subCat) {
     currentSubCategory = subCat;
     pushHistory({ view: 'categoryDisplayPage', step: 'subCat', category: currentCategory, subCategory: subCat });
@@ -421,31 +450,44 @@ function renderSubCategoryDirect() {
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
         `;
 
-        let foundStories = 0;
+        let storyKeys = [];
         if (window.storyDatabase) {
-            Object.keys(window.storyDatabase).forEach((sKey) => {
+            storyKeys = Object.keys(window.storyDatabase).filter((sKey) => {
                 const sData = window.storyDatabase[sKey];
                 const storyCat = sData.category || 'petesarap';
-                
-                if (storyCat === currentCategory) {
-                    foundStories++;
-                    const storyTitle = sData.title || "Untitled Series";
-const savedEntry = progress['series_' + sKey];
-const lastReadText = savedEntry ? (savedEntry.partName || '') : '';
+                return storyCat === currentCategory;
+            });
 
-const badgeHtml = savedEntry
-    ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
-    : '';
-
-                    html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full">
-                        <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
-                        ${badgeHtml}
-                    </button>`;
-                }
+            storyKeys.sort((a, b) => {
+                const dateA = window.storyDatabase[a].date || '';
+                const dateB = window.storyDatabase[b].date || '';
+                return parseStoryDate(dateB) - parseStoryDate(dateA);
             });
         }
 
-        if (foundStories === 0) {
+        if (storyKeys.length > 0) {
+            storyKeys.forEach((sKey) => {
+                const sData = window.storyDatabase[sKey];
+                const storyTitle = sData.title || "Untitled Series";
+                const savedEntry = progress['series_' + sKey];
+                const lastReadText = savedEntry ? (savedEntry.partName || '') : '';
+
+                const isNew = isNewUpdate(sData.date);
+                const newBadgeHtml = isNew ? `<span class="text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>` : '';
+
+                const badgeHtml = savedEntry
+                    ? `<div class="text-[10px] text-orange-600 dark:text-orange-400 font-semibold mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
+                    : '';
+
+                html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full cursor-pointer shadow-sm">
+                    <div class="flex items-center justify-between">
+                        <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
+                        ${newBadgeHtml}
+                    </div>
+                    ${badgeHtml}
+                </button>`;
+            });
+        } else {
             html += `<p class="text-xs text-slate-500 col-span-full py-4">Wala pang naka-upload na series sa category na ito.</p>`;
         }
 
@@ -465,17 +507,26 @@ const badgeHtml = savedEntry
 
         let oneshotsList = [];
         if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
-            oneshotsList = window.oneShotDatabase[currentCategory];
+            oneshotsList = [...window.oneShotDatabase[currentCategory]].sort((a, b) => {
+                return parseStoryDate(b.date) - parseStoryDate(a.date);
+            });
         }
 
         if (oneshotsList.length > 0) {
-            oneshotsList.forEach((os, index) => {
+            oneshotsList.forEach((os) => {
                 const title = os.title || "Untitled One-Shot";
+                const safeTitle = title.replace(/'/g, "\\'");
                 const isSaved = progress[`oneshot_${currentCategory}_${title}`];
-                const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2">${t.lastReadBadge}</span>` : '';
+                
+                const isNew = isNewUpdate(os.date);
+                const newBadgeHtml = isNew ? `<span class="text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>` : '';
+                const mark = isSaved ? `<span class="text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded ml-2 shrink-0">${t.lastReadBadge}</span>` : '';
 
-                html += `<button onclick="openOneShotByIndex('${currentCategory}', ${index})" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between w-full">
-                    <span>${title}</span>
+                html += `<button onclick="openOneShotByTitle('${currentCategory}', '${safeTitle}')" class="p-3.5 rounded-xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:border-orange-500 hover:text-orange-600 dark:hover:text-orange-400 transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between w-full group">
+                    <div class="flex items-center gap-1">
+                        <span>${title}</span>
+                        ${newBadgeHtml}
+                    </div>
                     ${mark}
                 </button>`;
             });
@@ -488,11 +539,14 @@ const badgeHtml = savedEntry
     }
 }
 
-// --- CUSTOM PARTS LIST ---
 function showPartsList(storyKey) {
     currentStoryKey = storyKey;
     pushHistory({ view: 'categoryDisplayPage', step: 'partsList', category: currentCategory, subCategory: currentSubCategory, storyKey: storyKey });
     renderPartsListDirect();
+}
+
+function getSortedPartNames(storyData) {
+    return (storyData && storyData.parts) ? Object.keys(storyData.parts) : [];
 }
 
 function renderPartsListDirect() {
@@ -510,22 +564,22 @@ function renderPartsListDirect() {
     const storyDate = (storyData && storyData.date) ? storyData.date : "";
     const storyStatus = (storyData && storyData.status) ? storyData.status : "";
 
-    const partNames = (storyData && storyData.parts) ? Object.keys(storyData.parts) : [];
+    const partNames = getSortedPartNames(storyData);
 
     const progress = getSavedProgress();
     const savedEntry = progress['series_' + currentStoryKey];
     const lastPartName = savedEntry ? savedEntry.partName : '';
 
     let html = `
-        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-4 border-b border-slate-200 dark:border-slate-800">
-            <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
+        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-3 pb-4 mb-4 border-b border-slate-200 dark:border-slate-800">
+            <button onclick="showSubCategory('by_parts')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm shrink-0">
                 ${t.backTitles}
             </button>
-            <div class="flex flex-col items-start sm:items-end text-left sm:text-right">
-                <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words max-w-[280px]">${titleName}</span>
-                <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center gap-2 sm:gap-4 text-left sm:text-right w-full sm:w-auto justify-end">
+                <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 whitespace-normal break-words">${titleName}</span>
+                <div class="flex flex-wrap items-center gap-2 text-xs text-slate-500 dark:text-slate-400">
                     ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
-                    ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300">${storyStatus}</span>` : ''}
+                    ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${storyStatus}</span>` : ''}
                 </div>
             </div>
         </div>
@@ -545,13 +599,24 @@ function renderPartsListDirect() {
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-2.5">
     `;
 
+    const latestPartName = partNames.length > 0 ? partNames[partNames.length - 1] : null;
+    const isStoryNew = isNewUpdate(storyDate);
+
     partNames.forEach((pName) => {
         const safePartName = pName.replace(/'/g, "\\'");
         const isLastRead = (pName === lastPartName);
-        const badge = isLastRead ? `<span class="ml-2 text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded">${t.lastReadBadge}</span>` : '';
+        const badge = isLastRead ? `<span class="ml-2 text-[10px] bg-orange-600 text-white px-1.5 py-0.5 rounded shrink-0">${t.lastReadBadge}</span>` : '';
+        
+        const isPartNew = (pName === latestPartName) && isStoryNew;
+        const partNewBadge = isPartNew ? `<span class="text-[8px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse">NEW</span>` : '';
 
-        html += `<button onclick="openPartReader('${safePartName}')" class="p-3.5 rounded-xl ${isLastRead ? 'bg-orange-50 dark:bg-orange-950/30 border-orange-500' : 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700'} border hover:bg-orange-600 hover:text-white transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between">
-            <span>${pName}</span>
+        html += `<button onclick="openPartReader('${safePartName}')" class="p-3.5 rounded-xl ${isLastRead ? 'bg-orange-50 dark:bg-orange-950/30 border-orange-500' : 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700'} border hover:border-orange-500 hover:text-orange-600 dark:hover:text-orange-400 transition-all font-bold text-xs text-left cursor-pointer shadow-sm flex items-center justify-between">
+            <div>
+                <div class="flex items-center">
+                    <span>${pName}</span>
+                    ${partNewBadge}
+                </div>
+            </div>
             ${badge}
         </button>`;
     });
@@ -560,24 +625,21 @@ function renderPartsListDirect() {
     area.innerHTML = html;
 }
 
-// --- STORY READERS ---
+function openOneShotByTitle(category, title) {
+    let targetOs = null;
+    if (window.oneShotDatabase && window.oneShotDatabase[category]) {
+        targetOs = window.oneShotDatabase[category].find(os => os.title === title);
+    }
+    if (targetOs) {
+        openOneShotReader(targetOs.title, targetOs.content);
+    }
+}
+
 function openOneShotByIndex(category, index) {
     let targetOs = null;
-    
-    if (window.oneShotDatabase) {
-        if (window.oneShotDatabase[category] && window.oneShotDatabase[category][index]) {
-            targetOs = window.oneShotDatabase[category][index];
-        } else {
-            for (let catKey in window.oneShotDatabase) {
-                if (window.oneShotDatabase[catKey][index]) {
-                    targetOs = window.oneShotDatabase[catKey][index];
-                    currentCategory = catKey;
-                    break;
-                }
-            }
-        }
+    if (window.oneShotDatabase && window.oneShotDatabase[category] && window.oneShotDatabase[category][index]) {
+        targetOs = window.oneShotDatabase[category][index];
     }
-
     if (targetOs) {
         openOneShotReader(targetOs.title, targetOs.content);
     }
@@ -611,25 +673,29 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
     let currentOsDate = "";
     let currentOsStatus = "";
+    let currentOsGenre = "";
     if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
         const foundOs = window.oneShotDatabase[currentCategory].find(os => os.title === title);
         if (foundOs) {
             currentOsDate = foundOs.date || "";
             currentOsStatus = foundOs.status || "";
+            currentOsGenre = foundOs.genre || "";
         }
     }
 
     document.getElementById('readerTitle').innerText = title;
     
-    let breadcrumbHtml = `<span class="whitespace-normal break-words">${title}</span>`;
-    if (currentOsDate || currentOsStatus) {
-        breadcrumbHtml += `
-            <div class="flex items-center gap-2 text-xs text-slate-500 dark:text-slate-400 mt-1">
+    // Inayos ang layout at wrapper para HINDI ma-cut off sa kanang gilid ang status badge
+    let breadcrumbHtml = `
+        <div class="flex flex-col items-end text-right max-w-[240px] sm:max-w-xs md:max-w-sm ml-auto">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate w-full" title="${title}">${title}</span>
+            <div class="flex flex-wrap items-center justify-end gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                ${currentOsGenre ? `<span class="truncate max-w-[150px]">${currentOsGenre}</span>` : ''}
                 ${currentOsDate ? `<span>📅 ${currentOsDate}</span>` : ''}
-                ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300">${currentOsStatus}</span>` : ''}
+                ${currentOsStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${currentOsStatus}</span>` : ''}
             </div>
-        `;
-    }
+        </div>
+    `;
     document.getElementById('readerBreadcrumb').innerHTML = breadcrumbHtml;
 
     const readerContent = document.getElementById('readerContent');
@@ -687,7 +753,11 @@ function openPartReaderDirect(partName, savedScrollY) {
 
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
     const titleName = storyData ? storyData.title : "Story";
-    const partNames = (storyData && storyData.parts) ? Object.keys(storyData.parts) : [];
+    const storyGenre = (storyData && storyData.genre) ? storyData.genre : "";
+    const storyDate = (storyData && storyData.date) ? storyData.date : "";
+    const storyStatus = (storyData && storyData.status) ? storyData.status : "";
+
+    const partNames = getSortedPartNames(storyData);
     const currentIndex = partNames.indexOf(partName);
 
     let content = (storyData && storyData.parts && storyData.parts[partName])
@@ -695,7 +765,19 @@ function openPartReaderDirect(partName, savedScrollY) {
         : `Story text for ${partName}...`;
 
     document.getElementById('readerTitle').innerText = `${titleName} — ${partName}`;
-    document.getElementById('readerBreadcrumb').innerHTML = `<span class="whitespace-normal break-words">${partName}</span>`;
+    
+    // Inayos din ang series breadcrumb header para hindi ma-cut off sa kanan
+    let partBreadcrumbHtml = `
+        <div class="flex flex-col items-end text-right max-w-[240px] sm:max-w-xs md:max-w-sm ml-auto">
+            <span class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 truncate w-full" title="${partName}">${partName}</span>
+            <div class="flex flex-wrap items-center justify-end gap-2 text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                ${storyGenre ? `<span class="truncate max-w-[150px]">${storyGenre}</span>` : ''}
+                ${storyDate ? `<span>📅 ${storyDate}</span>` : ''}
+                ${storyStatus ? `<span class="px-2 py-0.5 rounded-full font-semibold text-[10px] bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300 shrink-0">${storyStatus}</span>` : ''}
+            </div>
+        </div>
+    `;
+    document.getElementById('readerBreadcrumb').innerHTML = partBreadcrumbHtml;
 
     const readerContent = document.getElementById('readerContent');
     readerContent.style.fontSize = currentFontSize + 'px';
@@ -740,7 +822,6 @@ function goBackFromReader() {
     window.history.back();
 }
 
-// --- PUSH HISTORY HELPER ---
 function pushHistory(stateObj) {
     history.pushState(stateObj, '', window.location.pathname);
 }
@@ -802,39 +883,34 @@ window.addEventListener('popstate', (event) => {
     }
 });
 
-// --- MODALS & THEME ---
-function openAboutModal() { document.getElementById('aboutModal').classList.remove('hidden'); }
-function openLinksModal() { document.getElementById('linksModal').classList.remove('hidden'); }
+function openAboutModal() { document.getElementById('aboutModal').classList.add('hidden'); }
+function openLinksModal() { document.getElementById('linksModal').classList.add('hidden'); }
 function closeModal(modalId) { document.getElementById(modalId).classList.add('hidden'); }
 
-// --- 3-WAY THEME TOGGLE (Light -> Dark Blue / Dim -> True Black -> Light) ---
+// --- 3-WAY THEME TOGGLE ---
 function toggleTheme() {
     const html = document.documentElement;
     const icon = document.getElementById('themeIcon');
     const text = document.getElementById('themeText');
-    const t = translations[currentLang];
 
-    // Check kung anong current state
     const isDark = html.classList.contains('dark');
     const isBlue = html.hasAttribute('data-dark-theme');
 
     if (!isDark) {
-        // 1. Mula Light papuntang Dark Blue (Dim Light)
         html.classList.add('dark');
         html.setAttribute('data-dark-theme', 'blue');
         if (icon) icon.innerText = '🌙';
         if (text) text.innerText = 'Dim Mode';
     } else if (isDark && isBlue) {
-        // 2. Mula Dark Blue papuntang True Black
+        html.classList.add('dark');
         html.removeAttribute('data-dark-theme');
         if (icon) icon.innerText = '🖤';
-        if (text) text.innerText = 'True Black';
+        if (text) text.innerText = 'Dark Mode';
     } else {
-        // 3. Mula True Black pabalik sa Light Mode
         html.classList.remove('dark');
         html.removeAttribute('data-dark-theme');
         if (icon) icon.innerText = '☀️';
-        if (text) text.innerText = t.darkMode || 'Dark Mode';
+        if (text) text.innerText = 'Light Mode';
     }
 }
 

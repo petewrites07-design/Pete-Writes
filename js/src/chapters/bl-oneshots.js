@@ -4,7 +4,7 @@ window.oneShotDatabase['petewrites_bl'] = window.oneShotDatabase['petewrites_bl'
 window.oneShotDatabase['petewrites_bl'].push(
     {
         title: "My Only One Supporter",
-        date: "2024",
+        date: "February 29, 2024",
         status: "Completed",
         content: `"BAKIT ka nagsusulat? Wala namang kwenta 'yan! Wala kang sweldo riyan at hindi tayo mapapakain niyan!" sigaw ng Kuya Owen ko.
 
@@ -202,7 +202,7 @@ Alam kong wala na akong pag-asa kay Zildjan because our chapter is closed... But
     },
     {
         title: "Nababading Sa 'yo",
-        date: "2023",
+        date: "January 26, 2023",
         status: "Completed",
         content: `I AM CURRENTLY stalking my crush's timeline habang nasa sala ako nang biglang magulat ako dahil ginulat ako ni Ate.
 

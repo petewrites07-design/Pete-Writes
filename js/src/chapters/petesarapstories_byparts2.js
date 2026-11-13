@@ -6,7 +6,7 @@ window.storyDatabase["petesarapstories_byparts2"] = {
     genre: "Fiction • Academic Rival • Romance • Mature • Drama",
     description: "This is the story of Carl and Erill. Enemies, Academic Rivals, basta magkaaway! Hanggang saan kaya hahantong ito gayong pareho silang nang-iinit sa isa't isa? Init sa galit o sa libog? Basta papalag silang dalawa sa isa't isa kasi ayaw ng isa maging mahina sa paningin ng enemy niya. Basahin na ang kwento!",
  
-    date: "2026",
+    date: "August 2026",
     status: "Completed",
     parts: {
         "Part 1": `"Paano ba 'yan? Nataasan na kita? Ako na ngayon ang running Summa Cum Laude at ikaw? Walang laude!" pagmamayabang sa akin ni Erill. My mortal enemy and my academic rival.

@@ -5,7 +5,7 @@ window.oneShotDatabase['petewrites_random'] = window.oneShotDatabase['petewrites
 window.oneShotDatabase['petewrites_random'].push(
     {
         title: "Always Start Over",
-        date: "2023",
+        date: "April 7, 2023",
         status: "Completed",
         content: `"MALI pala 'yung sinakyan natin, nakakainis!"
 
@@ -182,7 +182,7 @@ The new beggining, the new journey, a fresh start and always start over.
     },
     {
         title: "Almost Surrender",
-        date: "2023",
+        date: "March 5, 2023",
         status: "Completed",
         content: `"IN the matter of people in the Philippines versus Marie Ferrera Salonga finds guilty for unreasonable doubt of the crime of murder for the death of Razer Davino Alcantara. She's here by in sentence to suffer the penalty of imprisonment in 20 years."
 
@@ -495,7 +495,7 @@ And despite almost giving up on my life, siguro pakunti-kunti ay bumabalik na ak
 
         {
         title: "Not Alone But Feeling Alone",
-        date: "2023",
+        date: "January 10, 2023",
         status: "Completed",
         content: `"BES, tara! Punta tayo sa birthday party ni Marie." sabi ni Phoebe. Inaaya niya ako nang inaaya kaso hindi nga ako puwede.
 
