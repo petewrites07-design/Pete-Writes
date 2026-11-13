@@ -73,7 +73,7 @@
                         </p>
                     </div>
 
-<div class="relative my-6 inline-block">
+                    <div class="relative my-6 inline-block">
                         <button onclick="navigateTo('storiesPage')" id="storiesButtonText" class="relative z-50 text-xl sm:text-2xl font-bold text-orange-600 border-b-2 border-orange-500 pb-1 transition-all cursor-pointer hover:opacity-80">
                             Stories by Pete Writes
                         </button>
@@ -185,34 +185,36 @@
                 </main>
 
                 <!-- Footer -->
-<footer class="w-full py-4 text-center text-xs text-slate-500 z-10 border-t border-slate-300/40 dark:border-slate-800">
-    © <span id="copyright-year">2026</span> Pete Writes. All rights reserved. This website is owned by petewrites<span id="current-year">2026</span>.
-</footer>
+                <footer class="w-full py-4 text-center text-xs text-slate-500 z-10 border-t border-slate-300/40 dark:border-slate-800">
+                    © <span id="copyright-year">2026</span> Pete Writes. All rights reserved. This website is owned by petewrites<span id="current-year">2026</span>.
+                </footer>
 
             </div>
         </div>
     </div>
 
-<!-- MODALS -->
+    <!-- MODALS -->
     <div id="aboutModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
         <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50 max-h-[85vh] overflow-y-auto">
             <h3 id="aboutModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">✍️ About Pete & Website</h3>
             
             <div class="space-y-3 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
                 <div>
-                    <h4 class="font-bold text-orange-600 mb-1">About Pete</h4>
+                    <h4 id="aboutPeteHeading" class="font-bold text-orange-600 mb-1">About Pete</h4>
                     <p id="aboutModalText">I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.</p>
                 </div>
 
                 <div class="border-t border-slate-200 dark:border-slate-800 pt-3">
-                    <h4 class="font-bold text-orange-600 mb-1">About the Website</h4>
+                    <h4 id="aboutWebsiteHeading" class="font-bold text-orange-600 mb-1">About the Website</h4>
                     <p id="aboutWebsiteText">This website was created exclusively for my readers as a free reading platform. Readers can easily navigate through different categories to explore and enjoy my works. The primary goal of this website is simple and pure: to provide a comfortable, accessible, and free space for everyone to read and enjoy my stories. Maaari mong basahin ang lahat ng mga kwentong ito nang libre! Enjoy reading, relax, and immerse yourself in every chapter.</p>
-                    <p class="mt-2 text-xs sm:text-sm text-slate-600 dark:text-slate-300">
-    <strong>Disclaimer:</strong> Works of fiction lang po ito (mga kathang-isip lamang). Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
-</p>
-<p class="mt-2 text-xs sm:text-sm text-slate-600 dark:text-slate-300">
-    <strong>Copyright © 2026 Pete Writes.</strong> All rights reserved. Plagiarism is a crime! No part of these stories may be copied or distributed without permission.
-</p>
+                    
+                    <p id="aboutDisclaimerText" class="mt-3 text-xs sm:text-sm text-slate-600 dark:text-slate-300">
+                        <strong>Disclaimer:</strong> Some stories feature uncensored and no-cut dialogues, so read at your own risk—you might encounter typos or grammatical errors that could feel uncomfortable. Also, no login or sign-up is required here! Works of fiction lang po ito (mga kathang-isip lamang). Any resemblance to actual persons, living or dead, or actual events is purely coincidental.
+                    </p>
+                    
+                    <p id="aboutCopyrightText" class="mt-2 text-xs sm:text-sm text-slate-600 dark:text-slate-300">
+                        <strong>Copyright © 2026 Pete Writes.</strong> All rights reserved. Plagiarism is a crime! No part of these stories may be copied or distributed without permission.
+                    </p>
                 </div>
             </div>
 
@@ -222,7 +224,7 @@
         </div>
     </div>
 
-<div id="linksModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
+    <div id="linksModal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex justify-center items-center p-4 hidden">
         <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative z-50">
             <h3 id="linksModalTitle" class="text-lg font-bold text-slate-900 dark:text-white flex items-center gap-2">🔗 Account Links</h3>
             <div class="space-y-2 text-sm">
@@ -277,12 +279,12 @@
     <script src="js/src/chapters/petesarap-oneshots.js"></script>
 
     <!-- BL & Random Files -->
-<script src="js/src/chapters/bl-oneshots.js"></script>
-<script src="js/src/chapters/blstories_byparts1.js"></script>
-<script src="js/src/chapters/blstories_byparts2.js"></script>
-<script src="js/src/chapters/random-oneshots.js"></script>
-<script src="js/src/chapters/randomstories_byparts1.js"></script>
-<script src="js/src/chapters/randomstories_byparts2.js"></script>
+    <script src="js/src/chapters/bl-oneshots.js"></script>
+    <script src="js/src/chapters/blstories_byparts1.js"></script>
+    <script src="js/src/chapters/blstories_byparts2.js"></script>
+    <script src="js/src/chapters/random-oneshots.js"></script>
+    <script src="js/src/chapters/randomstories_byparts1.js"></script>
+    <script src="js/src/chapters/randomstories_byparts2.js"></script>
 
     <script src="js/main.js"></script>
 

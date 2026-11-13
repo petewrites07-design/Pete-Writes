@@ -28,8 +28,11 @@ const translations = {
         welcomeHeader: "Welcome! 👋",
         welcomeDesc: "Select a category from the menu to browse stories.",
         backBtn: "← Back",
-        aboutTitle: "✍️ About Pete",
+        aboutTitle: "✍️ About Pete & Website",
         aboutText: "I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.",
+        aboutWebsiteText: "This website was created exclusively for my readers as a free reading platform. Readers can easily navigate through different categories to explore and enjoy my works. The primary goal of this website is simple and pure: to provide a comfortable, accessible, and free space for everyone to read and enjoy my stories. Maaari mong basahin ang lahat ng mga kwentong ito nang libre! Enjoy reading, relax, and immerse yourself in every chapter.",
+        disclaimerText: "Some stories feature uncensored and no-cut dialogues, so read at your own risk—you might encounter typos or grammatical errors that could feel uncomfortable. Also, no login or sign-up is required here! Works of fiction lang po ito (mga kathang-isip lamang). Any resemblance to actual persons, living or dead, or actual events is purely coincidental.",
+        copyrightText: "All rights reserved. Plagiarism is a crime! No part of these stories may be copied or distributed without permission.",
         linksTitle: "🔗 Account Links",
         warningTitle: "Mature Content Warning (R-18)",
         warningText: "This section (petesarap's random stories) contains mature themes intended strictly for readers aged 18 and above.",
@@ -60,8 +63,8 @@ const translations = {
         lightMode: "Light Mode"
     },
     ph: {
-        homeTitle: "Welcome to the website of petewrites' stories!",
-        homeSubtitle: "ENJOY READING AND HAPPY READING!",
+        homeTitle: "Maligayang pagdating sa website ng mga kwento ni Pete Writes!",
+        homeSubtitle: "MAG-ENJOY SA PAGBABASA AT MALIGAYANG PAGBABASA!",
         storiesButton: "Mga Kwento ni Pete Writes",
         aboutBtn: "Tungkol kay Pete",
         linksBtn: "Mga Account Link",
@@ -74,8 +77,11 @@ const translations = {
         welcomeHeader: "Mabuhay! 👋",
         welcomeDesc: "Pumili ng kategorya mula sa menu upang mag-browse ng mga kwento.",
         backBtn: "← Bumalik",
-        aboutTitle: "✍️ Tungkol kay Pete",
-        aboutText: "I am an independent random fiction writer and a BSIT graduate. I started writing on Wattpad back in 2017 and created my official Facebook writing page in 2021. I write stories simply because it brings me joy, and I want people to explore my thoughts and imagination. Above all, I hope my stories can impart meaningful life lessons that can help and inspire readers in their own journeys.",
+        aboutTitle: "✍️ Tungkol kay Pete at sa Website",
+        aboutText: "Isa akong independent random fiction writer at BSIT graduate. Nagsimula akong magsulat sa Wattpad noong 2017 at ginawa ang aking opisyal na Facebook writing page noong 2021. Nagsusulat ako dahil nagdudulot ito sa akin ng saya at gusto kong ma-explore ng iba ang aking imahinasyon. Higit sa lahat, sana ay mag-iwan ang aking mga kwento ng makahulugang leksyon para sa inyong mga sariling paglalakbay.",
+        aboutWebsiteText: "This website was created exclusively for my readers as a free reading platform. Readers can easily navigate through different categories to explore and enjoy my works. The primary goal of this website is simple and pure: to provide a comfortable, accessible, and free space for everyone to read and enjoy my stories. Maaari mong basahin ang lahat ng mga kwentong ito nang libre! Enjoy reading, relax, and immerse yourself in every chapter.",
+        disclaimerText: "Ang ilang mga kwento rito ay uncensored at walang-altang (no-cut) dialogues, kaya read at your own risk dahil maaaring may makita kang typos o maling gramatika na maaaring hindi komportable sa iba. Walang log-in o sign-up na kailangan para makapagbasa rito! Works of fiction lang po ito (mga kathang-isip lamang). Anumang pagkakatulad sa totoong tao, buhay man o patay, o sa mga tunay na pangyayari ay nagkataon lamang.",
+        copyrightText: "All rights reserved. Ang plagiarism ay isang krimen! Walang bahagi ng mga kwentong ito ang maaaring kopyahin o ipamahagi nang walang pahintulot.",
         linksTitle: "🔗 Mga Account Link",
         warningTitle: "Babala sa Sensitibong Nilalaman (R-18)",
         warningText: "Ang seksyong ito (petesarap's random stories) ay naglalaman ng mga temang pang-mature na para lamang sa mga edad 18 pataas.",
@@ -213,7 +219,12 @@ function updateStaticLanguageUI() {
     if (document.getElementById('welcomeDesc')) document.getElementById('welcomeDesc').innerText = t.welcomeDesc;
     if (document.getElementById('readerBackBtn')) document.getElementById('readerBackBtn').innerHTML = t.backBtn;
     if (document.getElementById('aboutModalTitle')) document.getElementById('aboutModalTitle').innerHTML = t.aboutTitle;
+    if (document.getElementById('aboutPeteHeading')) document.getElementById('aboutPeteHeading').innerText = (currentLang === 'en' ? 'About Pete' : 'Tungkol kay Pete');
+    if (document.getElementById('aboutWebsiteHeading')) document.getElementById('aboutWebsiteHeading').innerText = (currentLang === 'en' ? 'About the Website' : 'Tungkol sa Website');
     if (document.getElementById('aboutModalText')) document.getElementById('aboutModalText').innerText = t.aboutText;
+    if (document.getElementById('aboutWebsiteText')) document.getElementById('aboutWebsiteText').innerText = t.aboutWebsiteText;
+    if (document.getElementById('aboutDisclaimerText')) document.getElementById('aboutDisclaimerText').innerHTML = `<strong>Disclaimer:</strong> ${t.disclaimerText}`;
+    if (document.getElementById('aboutCopyrightText')) document.getElementById('aboutCopyrightText').innerHTML = `<strong>Copyright © 2026 Pete Writes.</strong> ${t.copyrightText}`;
     if (document.getElementById('aboutBackBtn')) document.getElementById('aboutBackBtn').innerText = t.cancel;
     if (document.getElementById('linksModalTitle')) document.getElementById('linksModalTitle').innerHTML = t.linksTitle;
     if (document.getElementById('warningTitle')) document.getElementById('warningTitle').innerText = t.warningTitle;
@@ -293,7 +304,6 @@ function checkForSavedProgressOnLoad() {
         
         const titleName = data.type === 'part' ? `${data.title} — ${data.partName}` : data.title;
         document.getElementById('resumeModalText').innerText = `${t.resumeText} ("${titleName}")`;
-        // Dito pinapalabas ulit ang resume modal kapag may huling binasa
         document.getElementById('resumeModal').classList.remove('hidden');
     }
 }
