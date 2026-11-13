@@ -16,7 +16,7 @@ window.storyDatabase['bl_series_1'] = {
         "Part 2: Isang Tingin, Isang Ngiti": "September 2, 2024",
         "Part 3: Isang Yakap, Isang Halik": "November 15, 2024",
         "Part 4: Isang Halik, Isang Yakap": "December 13, 2024",
-        "Part 5: Isang Salita": "December 24, 2024",
+        "Last Part: Isang Salita": "December 24, 2024",
 
     },
 

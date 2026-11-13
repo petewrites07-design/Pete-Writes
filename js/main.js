@@ -293,7 +293,8 @@ function checkForSavedProgressOnLoad() {
         
         const titleName = data.type === 'part' ? `${data.title} — ${data.partName}` : data.title;
         document.getElementById('resumeModalText').innerText = `${t.resumeText} ("${titleName}")`;
-        document.getElementById('resumeModal').classList.add('hidden');
+        // Dito pinapalabas ulit ang resume modal kapag may huling binasa
+        document.getElementById('resumeModal').classList.remove('hidden');
     }
 }
 
