@@ -430,12 +430,12 @@ function renderSubCategoryDirect() {
                 if (storyCat === currentCategory) {
                     foundStories++;
                     const storyTitle = sData.title || "Untitled Series";
-                    const savedEntry = progress['series_' + sKey];
-                    const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
+const savedEntry = progress['series_' + sKey];
+const lastReadText = savedEntry ? (savedEntry.partTitle || savedEntry.chapter || savedEntry) : '';
 
-                    const badgeHtml = savedEntry
-                        ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
-                        : '';
+const badgeHtml = savedEntry
+    ? `<div class="text-[10px] text-slate-500 dark:text-slate-400 mt-1">🔖 ${t.lastRead} ${lastReadText}</div>`
+    : '';
 
                     html += `<button onclick="showPartsList('${sKey}')" class="p-4 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 text-left hover:border-orange-500 transition w-full">
                         <div class="font-bold text-sm text-orange-600">📖 ${storyTitle}</div>
