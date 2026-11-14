@@ -1015,4 +1015,32 @@ window.addEventListener('DOMContentLoaded', () => {
     const currYearEl = document.getElementById("current-year");
     if (copyYearEl) copyYearEl.textContent = currentYear;
     if (currYearEl) currYearEl.textContent = currentYear;
+
+    // 1. FRAME BUSTING: Pigilan silang i-embed ang site mo sa loob ng ibang website
+if (window.self !== window.top) {
+    window.top.location = window.self.location;
+}
+
+// 2. DOMAIN LOCK & APP WRAPPER BLOCKER
+window.addEventListener('DOMContentLoaded', () => {
+    const currentHost = window.location.hostname;
+    const userAgent = navigator.userAgent || "";
+    
+    // I-check kung hindi galing sa opisyal mong Vercel link o local testing
+    const isInvalidDomain = currentHost !== "petewrites-stories.vercel.app" && currentHost !== "localhost" && currentHost !== "127.0.0.1";
+    
+    // I-check kung binubuksan sa loob ng app wrapper / webview (APK builders)
+    const isAppWrapper = /(; wv\)|Android.*Version\/|iPhone.*Mobile.*Safari(?!.*Safari)|FBAN|FBAV|Instagram)/i.test(userAgent);
+
+    if (isInvalidDomain || isAppWrapper) {
+        document.body.innerHTML = `
+            <div style="padding: 60px 20px; text-align: center; font-family: Verdana, sans-serif; background: #fff8f5; color: #333; height: 100vh; box-sizing: border-box;">
+                <h2 style="color: #e65100; margin-bottom: 10px;">🚫 Access Restricted</h2>
+                <p style="font-size: 16px; color: #555;">Ang pahinang ito ay para lamang sa opisyal na website ng <b>Pete Writes</b>.</p>
+                <p style="font-size: 14px; color: #777;">Hindi pinapayagang buksan ang mga akda sa loob ng mga third-party app o unauthorized links.</p>
+                <p style="margin-top: 20px; font-size: 14px;">Mangyaring bisitahin ito sa pamamagitan ng opisyal na browser.</p>
+            </div>
+        `;
+    }
+});
 });
