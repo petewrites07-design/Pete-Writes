@@ -107,7 +107,7 @@ const translations = {
         reachedEndSeries: "✨ Narating mo na ang dulo ng seryeng ito! Maraming salamat sa pagbabasa! ✨",
         lastRead: "Huling binasa:",
         lastReadBadge: "Huling Binasa",
-        newBadge: "BAGO!",
+        newBadge: "NEW!",
         darkMode: "Dark Mode",
         lightMode: "Light Mode"
     }
@@ -145,6 +145,34 @@ function isNewUpdate(dateStr) {
     return diffDays >= 0 && diffDays <= 14;
 }
 
+// --- CHECK KUNG MAY NEW UPDATE SA BY PARTS NG CATEGORY ---
+function categoryByPartsHasNewUpdate(catKey) {
+    if (window.storyDatabase) {
+        for (const sKey in window.storyDatabase) {
+            const sData = window.storyDatabase[sKey];
+            if ((sData.category || 'petesarap') === catKey) {
+                if (isNewUpdate(sData.date)) return true;
+            }
+        }
+    }
+    return false;
+}
+
+// --- CHECK KUNG MAY NEW UPDATE SA ONE-SHOTS NG CATEGORY ---
+function categoryOneShotHasNewUpdate(catKey) {
+    if (window.oneShotDatabase && window.oneShotDatabase[catKey]) {
+        for (const os of window.oneShotDatabase[catKey]) {
+            if (isNewUpdate(os.date)) return true;
+        }
+    }
+    return false;
+}
+
+// --- CHECK KUNG MAY NEW UPDATE SA BUONG CATEGORY ---
+function categoryHasNewUpdate(catKey) {
+    return categoryByPartsHasNewUpdate(catKey) || categoryOneShotHasNewUpdate(catKey);
+}
+
 window.addEventListener('DOMContentLoaded', () => {
     if (window.location.hash) {
         history.replaceState(null, document.title, window.location.pathname);
@@ -158,12 +186,35 @@ window.addEventListener('DOMContentLoaded', () => {
     updateStaticLanguageUI();
     navigateTo('homePage');
     checkForSavedProgressOnLoad();
+
+    setTimeout(updateCategoryMenuBadges, 100);
 });
+
+// Ligtas na paglagay ng "NEW!" badge sa mga category button sa menu
+function updateCategoryMenuBadges() {
+    const t = translations[currentLang];
+    const cats = ['petesarap', 'petewrites_bl', 'petewrites_random', 'petewrites_novel'];
+    cats.forEach(catKey => {
+        if (categoryHasNewUpdate(catKey)) {
+            const buttons = document.querySelectorAll(`button[onclick*="${catKey}"]`);
+            buttons.forEach(btn => {
+                if (!btn.querySelector('.cat-new-badge')) {
+                    const badgeHtml = `<span class="cat-new-badge text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>`;
+                    btn.insertAdjacentHTML('beforeend', badgeHtml);
+                }
+            });
+        }
+    });
+}
 
 function setLanguage(lang) {
     currentLang = lang;
     localStorage.setItem(LANG_STORAGE_KEY, lang);
     updateStaticLanguageUI();
+
+    document.querySelectorAll('.cat-new-badge').forEach(el => {
+        el.innerText = translations[currentLang].newBadge;
+    });
 
     const categoryDisplayPage = document.getElementById('categoryDisplayPage');
     const readerPage = document.getElementById('readerPage');
@@ -196,12 +247,14 @@ function updateStaticLanguageUI() {
     
     const enBtn = document.getElementById('langEnBtn');
     const phBtn = document.getElementById('langPhBtn');
-    if (currentLang === 'en') {
-        enBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full bg-orange-600 text-white transition-all cursor-pointer shadow-sm";
-        phBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer";
-    } else {
-        phBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full bg-orange-600 text-white transition-all cursor-pointer shadow-sm";
-        enBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer";
+    if (enBtn && phBtn) {
+        if (currentLang === 'en') {
+            enBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full bg-orange-600 text-white transition-all cursor-pointer shadow-sm";
+            phBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer";
+        } else {
+            phBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full bg-orange-600 text-white transition-all cursor-pointer shadow-sm";
+            enBtn.className = "text-xs font-bold px-2.5 py-1 rounded-full text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-white transition-all cursor-pointer";
+        }
     }
 
     if (document.getElementById('homeTitle')) document.getElementById('homeTitle').innerText = t.homeTitle;
@@ -403,6 +456,7 @@ function adjustFontSize(amount) {
 
 function selectCategory(catId) {
     currentCategory = catId;
+    currentSubCategory = '';
     if (catId === 'petesarap') {
         document.getElementById('warningModal').classList.remove('hidden');
     } else {
@@ -412,6 +466,7 @@ function selectCategory(catId) {
 
 function proceedToCategory() {
     closeModal('warningModal');
+    currentSubCategory = '';
     pushHistory({ view: 'categoryDisplayPage', step: 'format', category: currentCategory });
     renderFormatSelectionDirect();
 }
@@ -449,6 +504,13 @@ function renderFormatSelectionDirect() {
         return;
     }
 
+    // Check kung may bagong update sa By Parts at One-Shot para lumabas din ang NEW! badge sa Format Selection page!
+    const hasNewParts = categoryByPartsHasNewUpdate(currentCategory);
+    const hasNewOneshot = categoryOneShotHasNewUpdate(currentCategory);
+
+    const partsBadgeHtml = hasNewParts ? `<span class="text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>` : '';
+    const oneshotBadgeHtml = hasNewOneshot ? `<span class="text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>` : '';
+
     area.innerHTML = `
         <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
             <button onclick="navigateTo('storiesPage')" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
@@ -460,11 +522,17 @@ function renderFormatSelectionDirect() {
             <h3 class="text-sm sm:text-base font-bold text-slate-900 dark:text-white pb-1">${t.chooseFormat}</h3>
             <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
                 <button onclick="showSubCategory('by_parts')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-orange-500 bg-orange-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
-                    <h4 class="font-bold text-sm text-orange-600">📖 ❤️ ${t.byPartsTitle}</h4>
+                    <div class="flex items-center justify-between">
+                        <h4 class="font-bold text-sm text-orange-600">📖 ❤️ ${t.byPartsTitle}</h4>
+                        ${partsBadgeHtml}
+                    </div>
                     <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">${t.byPartsDesc}</p>
                 </button>
                 <button onclick="showSubCategory('by_oneshot')" class="p-4 rounded-xl border-2 border-slate-300 dark:border-slate-700 hover:border-indigo-500 bg-indigo-50/20 dark:bg-slate-950 transition-all cursor-pointer text-left">
-                    <h4 class="font-bold text-sm text-indigo-600 dark:text-indigo-400">📄 ❤️ ${t.byOneshotTitle}</h4>
+                    <div class="flex items-center justify-between">
+                        <h4 class="font-bold text-sm text-indigo-600 dark:text-indigo-400">📄 ❤️ ${t.byOneshotTitle}</h4>
+                        ${oneshotBadgeHtml}
+                    </div>
                     <p class="text-[11px] text-slate-500 dark:text-slate-400 mt-0.5">${t.byOneshotDesc}</p>
                 </button>
             </div>
@@ -516,7 +584,6 @@ function renderSubCategoryDirect() {
                 const sData = window.storyDatabase[sKey];
                 const storyTitle = sData.title || "Untitled Series";
                 
-                // Find most recently read part in this series
                 const seriesEntries = Object.entries(progress)
                     .filter(([k, v]) => k.startsWith(`series_${sKey}_`))
                     .sort((a, b) => b[1].updatedAt - a[1].updatedAt);
@@ -619,7 +686,6 @@ function renderPartsListDirect() {
     const partNames = getSortedPartNames(storyData);
     const progress = getSavedProgress();
 
-    // Find most recent part read for this story
     const seriesEntries = Object.entries(progress)
         .filter(([k, v]) => k.startsWith(`series_${currentStoryKey}_`))
         .sort((a, b) => b[1].updatedAt - a[1].updatedAt);
@@ -777,7 +843,6 @@ function openOneShotReaderDirect(title, content, savedScrollY) {
 
 function openPartReader(partName, savedScrollY = 0) {
     currentReaderMode = 'part';
-    // Unique ID per part so each part remembers its own scroll position!
     activeSaveId = `series_${currentStoryKey}_${partName}`;
 
     const storyData = window.storyDatabase && window.storyDatabase[currentStoryKey];
@@ -1017,30 +1082,7 @@ window.addEventListener('DOMContentLoaded', () => {
     if (currYearEl) currYearEl.textContent = currentYear;
 
     // 1. FRAME BUSTING: Pigilan silang i-embed ang site mo sa loob ng ibang website
-if (window.self !== window.top) {
-    window.top.location = window.self.location;
-}
-
-// 2. DOMAIN LOCK & APP WRAPPER BLOCKER
-window.addEventListener('DOMContentLoaded', () => {
-    const currentHost = window.location.hostname;
-    const userAgent = navigator.userAgent || "";
-    
-    // I-check kung hindi galing sa opisyal mong Vercel link o local testing
-    const isInvalidDomain = currentHost !== "petewrites-stories.vercel.app" && currentHost !== "localhost" && currentHost !== "127.0.0.1";
-    
-    // I-check kung binubuksan sa loob ng app wrapper / webview (APK builders)
-    const isAppWrapper = /(; wv\)|Android.*Version\/|iPhone.*Mobile.*Safari(?!.*Safari)|FBAN|FBAV|Instagram)/i.test(userAgent);
-
-    if (isInvalidDomain || isAppWrapper) {
-        document.body.innerHTML = `
-            <div style="padding: 60px 20px; text-align: center; font-family: Verdana, sans-serif; background: #fff8f5; color: #333; height: 100vh; box-sizing: border-box;">
-                <h2 style="color: #e65100; margin-bottom: 10px;">🚫 Access Restricted</h2>
-                <p style="font-size: 16px; color: #555;">Ang pahinang ito ay para lamang sa opisyal na website ng <b>Pete Writes</b>.</p>
-                <p style="font-size: 14px; color: #777;">Hindi pinapayagang buksan ang mga akda sa loob ng mga third-party app o unauthorized links.</p>
-                <p style="margin-top: 20px; font-size: 14px;">Mangyaring bisitahin ito sa pamamagitan ng opisyal na browser.</p>
-            </div>
-        `;
+    if (window.self !== window.top) {
+        window.top.location = window.self.location;
     }
-});
 });

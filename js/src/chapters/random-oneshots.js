@@ -1195,7 +1195,7 @@ Ngumiti ako sa camera matapos kong sabihin 'yan at saka ako kumindat bago ko pat
 
 Dahil sa nakakaakit si Alicia ay hindi ko na napigilang sumama sa kanya at dito kami sa condo unit niya gumawa ng milagro.. Ang sarap, sobrang sarap ng nangyayari ngayon. Ganito pala ang feeling, mas nakakatigas at mas masarap!
 
-"Ugh! Please f'ck me more, daddy Julian!" malanding ungol niya.
+"Ugh! Please fuck me more, daddy Julian!" malanding ungol niya.
 
 Binilisan ko ang pagbayo kay Alicia dahil sobrang sarap at sobrang sikip pa niya. Matapos nito ay nahiga siya sa aking balikat habang yakap-yakap ko siya. Ang sarap talaga, kaya sa tanong niya kung uulitin pa ba namin, ito ang sagot ko.
 
@@ -2439,13 +2439,11 @@ NATATAKOT ako kasi para lang akong tangang nagkukunwari kay Elio na boyfriend ko
 
 Nagkabalitaan din kaming dalawa ni Cara kung ano ang kalagayan niya o kung may nararamdaman ba siya tapos sabi niya ay nasusuka siya minsan at nahihilo kaya kinakabahan ako at hanggang sa...
 
-{petewrites}
-
 "ANO? Buntis ka?!" sigaw ko nung sabihin niyang 'positive'. Two months na ang nakalipas ngayon at nandito kami sa CR ng university namin.
 
 "Oo, beh, positive kasi," aniya at ipinakita niya sa 'kin ang pregnancy test. "Look."
 
-Umiwas ako ng tingin nung makita ko kaagad ang dalawang red line roon. "Ano ba, beh! Ayaw kong makita! T'ngina! Paano na 'to? Preggy ka, oh my God!" natataranta kong sabi.
+Umiwas ako ng tingin nung makita ko kaagad ang dalawang red line roon. "Ano ba, beh! Ayaw kong makita! Tangina! Paano na 'to? Preggy ka, oh my God!" natataranta kong sabi.
 
 Hindi rin siya mapakali. "I don't know, Tony! I think... We should need to tell the truth," she paused. "Sa mga boyfriend natin! Kailangan nilang malaman ang totoo. You know?"
 
@@ -2506,8 +2504,6 @@ Nagkatinginan kami ng magulang ko. Nakausap ko na sila Mama at Papa tungkol dito
 "Anak, huwag mong itigil. Nandito kami, okay?" pagpapakalma ni Tito kay Cara. "Magre-request kami ng module na lang para sa 'yo. Para maipagpatuloy mo pa rin."
 
 "Dapat magpakasal na kayo ni Tony," sabi ni Tita na ikinagulat at ikinaangal naming lahat.
-
-{petewrites}
 
 "Bakit mo naman ipapakasal ang anak ko sa anak mo?" sabi ni Mama sa mataas na tono.
 
@@ -2761,8 +2757,6 @@ Hirap pa naman mag-adjust sa college lalo pa't BSTM ang course ko which means Ba
 
 "Ikaw ba, Keiley, crush mo si Roshan?" pangangasar na tanong naman ni Blair sa 'kin.
 
-@petewrites2023
-
 "Mga joke time kayo, 'no! Friends lang kami ni Roshan, 'no!"
 
 Sa sinabi nila ay nagsimula akong mag-overthink. My gosh! Hindi ko alam gagawin ko kasi friends lang kami ni Roshan! Sa totoo nga lang, karamay ko 'yan sa mga activities eh tapos minsan nagkakasabihan kami ng problema within chat. Always naman kasi kami nagkaka-chat ni Roshan.
@@ -2858,7 +2852,7 @@ Diretso na this hanggang Epilogue! Depende na lang siguro sa instinct niyo para 
 
                         {
         title: "SOON",
-        date: "",
+        date: "November 15, 2026",
         status: "Ongoing",
         content: ``
     },
