@@ -1977,7 +1977,7 @@ We also kissed each other lips torridly and it's so hot! I feel the heat of it. 
 
 He kneeled now and he started to licking my treasure. It feels so good! Puro ungol lang ako roon sa sobrang sarap ng ginagawa niya.
 
-"Bakit ang galing mo? Ugh, f'ck!" tanong kong umuungol.
+"Bakit ang galing mo? Ugh, fuck!" tanong kong umuungol.
 
 Tumigil siya sa ginagawa niya sa 'kin saka tumingala. Pakiramdam ko sobrang bitin ako sa pagtigil niya! Please, Licco, ituloy mo! Huwag mong tigilan!
 
@@ -1995,13 +1995,13 @@ Maya-maya pa ay nagpalit kami ng puwesto. Pinaluhod niya ako and now, I'm suckin
 
 Well, after that... Binuhat niya 'ko papunta sa kama ng kuwarto niya and he started to screwing my treasure! It's like that his screw is the key of my treasure! Pasok na pasok at saktong-sakto ito. My gosh! Mababaliw na 'ko sa sarap!
 
-"T'ngina. Sige lang, bebecakes, ugh! I love you, Licco!"
+"Tangina. Sige lang, bebecakes, ugh! I love you, Licco!"
 
 "I love you too, Princess."
 
 He's still screwing me kaya halos mawalan na ng boses ang pag-ungol ko. Sobrang bilis niya! Ang expert niya rito! Parang machine sa sobrang bilis ang ginagawa niyang ito sa 'kin! Heaven malala!
 
-"F'ck! I didn't expect na magagawa ko ito sa 'yo na sa unan ko lang pina-practice," salita niya at ako'y patuloy pa rin sa pag-ungol.
+"Fuck! I didn't expect na magagawa ko ito sa 'yo na sa unan ko lang pina-practice," salita niya at ako'y patuloy pa rin sa pag-ungol.
 
 "Ugh, don't stop! Yamete!"
 
@@ -2086,7 +2086,7 @@ Subalit nagulat ako nang bigla siyang pumasok at ni-lock niya 'yung pinto.
 
 "Sshhh," suway niya at lumapit na sa 'kin. "Nandito na 'to at hindi na 'ko makakatakas sa ganito kaya kakapalan ko na ang mukha ko. Ang laki-laki kasi nito," sabi pa niya sabay hawak sa aking alaga.
 
-"F'ck," singhal ko dahil ang sarap sa feeling nung hinawakan niya ang alaga ko.
+"Fuck," singhal ko dahil ang sarap sa feeling nung hinawakan niya ang alaga ko.
 
 "Let's be quick."
 
@@ -2122,11 +2122,11 @@ Sinipsip ko ang n'pples niya magkabilaan. Sarap na sarap siya sa ginagawa ko. Ka
 
 Dinila-dilaan ko rin ang pangalawang bibig niya. Ang sarap pala nito higop-higupin kaya feeling ko ang expert ko na nung matagal ko na itong ginagawa sa kaniya.
 
-"Wow, ang galing mo, Micoseo! Sobrang sarap! Please, f'ck me naman. I want to feel yours inside me," malandi niyang sabi na naungol pa. Lalo na naman akong nalibugan, t'ngina!
+"Wow, ang galing mo, Micoseo! Sobrang sarap! Please, fuck me naman. I want to feel yours inside me," malandi niyang sabi na naungol pa. Lalo na naman akong nalibugan, tangina!
 
 Makailang saglit ay sinimulan ko nang pasukin siya. Standing doggy style sa harap ng salamin ang una namin. Bawat bayo ko ay bawat ungol din niya. Sobrang sarap pagmasdan ng Ate Arida niyo sa harap ng salamin at feeling ko ang hot ko sa ginagawa ko.
 
-Matapos niyan ay sa harap naman ng pintuan. Doon ay kinabahan na kami dahil sa biglang may kumatok dito sa CR. Tinatawag pa nga ni Ate 'yung pangalan ko. T'ngina naman bitin ako!
+Matapos niyan ay sa harap naman ng pintuan. Doon ay kinabahan na kami dahil sa biglang may kumatok dito sa CR. Tinatawag pa nga ni Ate 'yung pangalan ko. Tangina naman bitin ako!
 
 "Ako na magbubukas, huwag kang mag-alala, just keep going! Ugh!"
 
@@ -2235,7 +2235,7 @@ Iniluwa ko ito at itinaas-baba ko ang kaniyang pagkalalaki gamit ang dalawang ka
 
 "Masarap ba, Kuya Edward?" malandi kong tanong sa kaniya.
 
-Now, nagsimula na kami sa pag-position sa pag-sex. Siya ang naging bahala sa mga anggulo sa camera na hawak na niya. He's now f'cking me in front of the mirror while I was holding the sink and I think this is the last position dahil kanina pa kami nagse-sex.
+Now, nagsimula na kami sa pag-position sa pag-sex. Siya ang naging bahala sa mga anggulo sa camera na hawak na niya. He's now fucking me in front of the mirror while I was holding the sink and I think this is the last position dahil kanina pa kami nagse-sex.
 
 "'Yan, sige pa! Uhm, kuya Wad, ang sarap mo at ang laki-laki mo pa!"
 
@@ -2353,9 +2353,9 @@ I touched his big boner and I rubbed it and his body using my hands. Damn! I mis
 
 "Shit, ang laki!" I said and I continue to sucked his big boner na marami ko ng laway.
 
-He mouthf'cked me and he slapped his boner into my face and cheeks. Ganito siya ka-wild magpakain ng boner niya kaya sobrang daming laway ko na ang naririto.
+He mouthfucked me and he slapped his boner into my face and cheeks. Ganito siya ka-wild magpakain ng boner niya kaya sobrang daming laway ko na ang naririto.
 
-"Ugh! F'ck, Kuya Reagan!"
+"Ugh! Fuck, Kuya Reagan!"
 
 Now, he licked my p'ssy and we are now all naked. Wala pa rin siyang kupas! He licked my p'ssy so fast and it's so wet!
 
@@ -2365,7 +2365,7 @@ He stopped for awhile and he's gave me a sign to lower my moan dahil baka marini
 
 "Ugh, Kuya Reagan. Sige pa!"
 
-"Sige pa ha? Sige pa?" He said and f'cked me faster.
+"Sige pa ha? Sige pa?" He said and fucked me faster.
 
 He covered my mouth with his right hand dahilan para hindi ako makaungol nang maayos. I'm in tears because of what he's doing pero sobrang sarap!
 
@@ -2373,7 +2373,7 @@ He covered my mouth with his right hand dahilan para hindi ako makaungol nang ma
 
 "I'm c'mming!"
 
-Nilakasan ko pa ang ungol ko sa ginagawa niya and now, he c'mmed inside me. Napabagsak siya sa akin at ramdam ko ang hininga niya sa leeg ko. F'ck! I miss it so much!
+Nilakasan ko pa ang ungol ko sa ginagawa niya and now, he c'mmed inside me. Napabagsak siya sa akin at ramdam ko ang hininga niya sa leeg ko. Fuck! I miss it so much!
 
 "Ugh, you're still so tight, Ella." Aniya.
 
@@ -2417,7 +2417,7 @@ Napapatingala ako sa sarap subalit napatigil lang ako nung tumigil ang taxi sa g
 
 Itinago ko kaagad ang malaki kong kargada sa loob ko. Nahiya tuloy ako bigla. Subalit bigla niyang inagaw ang kamay ko at laking gulat ko na bigla niyang isubo ang kargada ko tapos sumenyas siya na huwag akong maingay.
 
-"F'ck. Ano'ng ginagawa mo?"
+"Fuck. Ano'ng ginagawa mo?"
 
 Tinulak ko nang marahan ang noo niya para pigilan siya sa ginagawa niya subalit nagmatigas siya. Tinaas baba niya ang kargada ko gamit ang dalawang kamay niya.
 
@@ -2427,7 +2427,7 @@ Aaminin kong nagugustuhan ko ito dahil sobrang sarap. Sorry, napakasarap talaga!
 
 "This is me, Tristan. Si Diane."
 
-Tinignan ko siya at napagtanto kong si Diane nga ito. Hindi ko namukhaan dahil sa madilim dito sa taxi. T'ngina! Siya 'yung ka-f'ck buddy ko nung college.
+Tinignan ko siya at napagtanto kong si Diane nga ito. Hindi ko namukhaan dahil sa madilim dito sa taxi. Tangina! Siya 'yung ka-fuck buddy ko nung college.
 
 "Diane? Akala ko nasa abroad ka na?"
 
@@ -2437,7 +2437,7 @@ Tinignan ko siya at napagtanto kong si Diane nga ito. Hindi ko namukhaan dahil s
 
 Sh't! Wala na, sobrang libog ko na at sobra akong nasasarapan. Sorry pero tatapusin ko na 'to. Nakakalibog nga dahil dagdag pa ang thrill dahil sa taxi driver na busy sa pag-drive at sa mismong dito pa kami sa taxi na umaandar gumagawa ng milagro at madilim pa tapos hindi pa ako single! Ang sarap sobra!
 
-"Ugh, f'ck!" Bulong kong ungol.
+"Ugh, fuck!" Bulong kong ungol.
 
 Na-miss ko rin 'to at naalala ko ang ginagawa naming dalawa noong college kami ni Diane. Pampalipas libog kumbaga subalit matagal siyang nawala dahil sa ibang bansa na siya nagtrabaho after we graduate tapos natigil na rin ang communication naming dalawa kaya ako ay nakakilala ng babae at kalauna'y naging asawa ko saka nagkaanak na kami. Isang taon na kaming kasal.
 
@@ -2463,7 +2463,7 @@ Maya-maya pa ay ako naman ang lumuhod sa harapan niya upang paligayahin naman an
 
 Hubad na kami ngayon at tanging necktie ko na lang ang nakasabit sa leeg ko habang siya naman ay panti niya na lang na nasa gilid. Nagtago nga kami sa loob ng mga puno-puno na 'to para ipagpatuloy ang kasarapan at para na rin safe dahil kahit na gabi na at tago pa rito ay baka may makakita pa rin sa 'min.
 
-"Ugh! F'ck, Diane. Ang sarap sarap mo!"
+"Ugh! Fuck, Diane. Ang sarap sarap mo!"
 
 "Sige pa! Sige pa, Tristan! Ang sarap niyan. Right there! Yes! Yes! Ugh!"
 
@@ -2473,7 +2473,7 @@ Mas lalo akong naging wild dahil sa ungol niyang na-miss ko rin. Wala pa ring ku
 
 Kaagad naman siyang lumuhod sa harapan ko after ko sabihin 'yan at saka niya itinaas baba ang kargada ko gamit ang dalawang kamay niya nang mabilis. At nang maiputok ko ito sa mukha niya ay roon niya muling dinilaan ang kargada na sobrang sarap sa pakiramdam! Nakakakiliti!
 
-"Ugh, t'ngina! Ubusin mo 'yan!"
+"Ugh, tangina! Ubusin mo 'yan!"
 
 "Ang dami mo pa rin labasan, Tristan. Ang daming milk! Hindi ka siguro nakakapag-sex sa asawa mo."
 
@@ -2493,7 +2493,7 @@ Maya-maya ay nagulat ako dahil may tumawag sa phone ko at nang makita ko ito ay 
 
 [Ah sige, babe, ingat. Chat at call na lang ah.]
 
-"Sige po, babe... Bye! Sorry, I love you!" Nang ma-end call ko na ay pinatigil ko na si Diane sa ginagawa niya. "Okay na 'yan, tama na. F'ck ka! Bakit pinagpatuloy mo pa? Gawk gawk pa talaga!"
+"Sige po, babe... Bye! Sorry, I love you!" Nang ma-end call ko na ay pinatigil ko na si Diane sa ginagawa niya. "Okay na 'yan, tama na. Fuck ka! Bakit pinagpatuloy mo pa? Gawk gawk pa talaga!"
 
 "Ayaw mo ba?" Malanding aniya.
 
@@ -2680,7 +2680,7 @@ Lumagok muna ako ng one shot na alak bago ako sumagot sa kaniya. "Wala, why?"
 
 Ramdam ko nang may tama na 'ko pero wala akong pake.
 
-"Lahat sila sinaktan lang ako. Mga sampu yata 'yon, 'yung iba niligawan ko then some of them are just left me, some wants my well built body and big d'ck only. God!"
+"Lahat sila sinaktan lang ako. Mga sampu yata 'yon, 'yung iba niligawan ko then some of them are just left me, some wants my well built body and big dick only. God!"
 
 Lumagok muli ako ng ilang shots.
 
@@ -2692,7 +2692,7 @@ Lumagok muli ako ng ilang shots.
 
 "Boys? Yuck!" I said. "But whom?"
 
-"Me. Just kiss me. I like you, Kuya Charles, I want you to f'ck me," wild niyang sabi saka niya nilapit ang mukha niya sa mukha ko to kiss me.
+"Me. Just kiss me. I like you, Kuya Charles, I want you to fuck me," wild niyang sabi saka niya nilapit ang mukha niya sa mukha ko to kiss me.
 
 Parang nawala ang pagkalasing ko sa sinabi at ginagawa niya. He's now almost kissing my lips but I pushed him softly.
 
@@ -2730,7 +2730,7 @@ So he kneeled and he blow my shaft. Naalala ko ang sexperience ko noon sa mga ba
 
 It's my first time to do this but I still licked is hole... like a p'ssy.
 
-Now, when I feel contented with it, I gently f'ck his hole first until it get rapidly. We are moaning to each other. He is so tight—super tight as f'ck! Sa harap ng malaking salamin ko siya tinira dahil mas nakaka-turn on ito tignan.
+Now, when I feel contented with it, I gently fuck his hole first until it get rapidly. We are moaning to each other. He is so tight—super tight as fuck! Sa harap ng malaking salamin ko siya tinira dahil mas nakaka-turn on ito tignan.
 
 Hindi ko naman pinutok 'yon sa kaniyang loob kaya nang natapos na kami ay humiga na kami sa kama ko.
 
@@ -3165,7 +3165,7 @@ After what happened. Now, you like Mirvid more because he always makes you and y
         
         IKAW si Valeen at ako naman si Arlon. Plano nating dalawa na sa kotse naman gumawa ng kasarapan.
 
-Tayong dalawa ay mag-f'ck buddies, fubu in short. Palagi nga tayo sa apartment na tinitirhan ko gumagawa ng kasarapan eh. But now, gusto mo ay sa kotse naman kaso hindi ako makahanap ng tiyempo dahil sa amo ko itong kotse na ginagamit ko, ako kasi ay isang personal driver lang.
+Tayong dalawa ay mag-fuck buddies, fubu in short. Palagi nga tayo sa apartment na tinitirhan ko gumagawa ng kasarapan eh. But now, gusto mo ay sa kotse naman kaso hindi ako makahanap ng tiyempo dahil sa amo ko itong kotse na ginagamit ko, ako kasi ay isang personal driver lang.
 
 "Ano, Arlon. Kailan ba tayo sa kotse?" tanong mo muli sa akin.
 
