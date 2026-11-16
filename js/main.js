@@ -191,23 +191,34 @@ window.addEventListener('DOMContentLoaded', () => {
 });
 
 // Ligtas na paglagay ng "NEW!" badge sa tabi mismo ng category title (responsive kahit sa phone)
+// Siguradong pagdikit ng "NEW!" badge sa tabi ng category title (desktop at mobile)
 function updateCategoryMenuBadges() {
     const t = translations[currentLang];
     const cats = ['petesarap', 'petewrites_bl', 'petewrites_random', 'petewrites_novel'];
+    
     cats.forEach(catKey => {
         if (categoryHasNewUpdate(catKey)) {
             const buttons = document.querySelectorAll(`button[onclick*="${catKey}"]`);
             buttons.forEach(btn => {
-                if (!btn.querySelector('.cat-new-badge')) {
-                    const badgeHtml = `<span class="cat-new-badge inline-block align-middle text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-1.5 animate-pulse shadow-sm shrink-0">${t.newBadge}</span>`;
-                    
-                    // Hanapin yung mismong title element sa loob ng button para doon idikit sa tabi
-                    const titleEl = btn.querySelector('div > div:first-child, span:first-child, h3, h4, p:first-child');
-                    if (titleEl) {
-                        titleEl.insertAdjacentHTML('beforeend', badgeHtml);
-                    } else {
-                        btn.insertAdjacentHTML('beforeend', badgeHtml);
+                if (btn.querySelector('.cat-new-badge')) return;
+
+                const badgeHtml = `<span class="cat-new-badge inline-block align-middle text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-1.5 animate-pulse shadow-sm shrink-0">${t.newBadge}</span>`;
+
+                // Hanapin ang pinakaunang non-empty text node sa loob ng button (ito ang category title)
+                const walker = document.createTreeWalker(btn, NodeFilter.SHOW_TEXT, null, false);
+                let firstTextNode = null;
+                while (walker.nextNode()) {
+                    if (walker.currentNode.nodeValue.trim().length > 0) {
+                        firstTextNode = walker.currentNode;
+                        break;
                     }
+                }
+
+                if (firstTextNode && firstTextNode.parentElement) {
+                    // Siguraduhing hindi naka-block/flex-col ang parent ng title text para hindi bumaba ang badge
+                    firstTextNode.parentElement.insertAdjacentHTML('beforeend', badgeHtml);
+                } else {
+                    btn.insertAdjacentHTML('beforeend', badgeHtml);
                 }
             });
         }
