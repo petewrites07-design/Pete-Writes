@@ -1309,7 +1309,7 @@ Tinuloy ko lang ang paglaro ko rito hanggang sa laruin niya naman ang aking flow
 
 "Ugh shit, Marcus. Ganiyan nga. Sobrang sarap."
 
-"T'ngina, Micaseah. Sobrang sarap nito ah."
+"Tangina, Micaseah. Sobrang sarap nito ah."
 
 Ilang minuto niya pa ako pinagsilbihan bago niya marahan ipasok sa flower ko ang mahaba niyang junior. Masakit sa una pero masarap na sa umpisa. Ang galing niya pala rito.
 
@@ -1436,7 +1436,7 @@ Nanlaki ang mata ko. "Hala, hoy! Seryoso ka?!"
 
 Subalit hindi siya nakinig sa akin. Seryoso nga siya. Akala ko nakikisakay lang siya sa jokes ko pero sineryoso niya! Now, he F'CKING me!
 
-"Ugh, f'ck!"
+"Ugh, fuck!"
 
 Missionary ang ginagawa namin kaya naman kitang-kita ko ang abs niyang pawis na pawis. Nung una pa nga ay ayaw ko nang ganito subalit sobra na akong nasasarapan! Ang laki pa ng kargada! Shet, ang landi ko na!
 
@@ -1462,7 +1462,7 @@ Itinuloy na nga niya ang paglabas-masok sa aking hiyas. Ungol lang kami nang ung
 
 "UGHHHH! HUWAG SA LOOB! SA MUKHA KO NA!"
 
-Bayo lang siya nang bayo pa hanggang sa ilabas na niya ang kaniyang ari sa aking hiyas saka na ako lumuhod sa harapan niya. Now, I taste his cum at okay naman siya, I suck his d'ck for awhile until I stopped... May katas pa nga siya sa kaniyang abs kaya dinilaan ko 'to pataas hanggang sa labi niya. Naghalikan kami ni Steven at may ibinulong pa sa akin.
+Bayo lang siya nang bayo pa hanggang sa ilabas na niya ang kaniyang ari sa aking hiyas saka na ako lumuhod sa harapan niya. Now, I taste his cum at okay naman siya, I suck his dick for awhile until I stopped... May katas pa nga siya sa kaniyang abs kaya dinilaan ko 'to pataas hanggang sa labi niya. Naghalikan kami ni Steven at may ibinulong pa sa akin.
 
 "Masarap ba abs ko?"
 
@@ -1538,7 +1538,7 @@ I tried to make him happy naman by doing a blowjob for him subalit hindi ako mas
 
 "Yes, it's okay basta sabihan mo lang ako if lalabasan ka na."
 
-Tumango naman siya at dahan-dahan na niya munang ipinasok ang kaniyang kahabaan sa kalooban ko since it was my first time until he f'cking me so fast and it feels so good as heaven!
+Tumango naman siya at dahan-dahan na niya munang ipinasok ang kaniyang kahabaan sa kalooban ko since it was my first time until he fucking me so fast and it feels so good as heaven!
 
 Huwag lang niyang tanggalin sa loob ko ang kaniyang naghuhumindik na kahabaan sa kalooban ko because it hurts as hell!
 
@@ -1547,8 +1547,6 @@ Huwag lang niyang tanggalin sa loob ko ang kaniyang naghuhumindik na kahabaan sa
 "Sige pa, Earl! Sige pa!"
 
 Paulit-ulit lamang ako sa pagbanggit ng pangalan niya sa kaniyang bawat ulos sa akin, ungol lang ako nang ungol doon.
-
-{petewrites}
 
 At sa araw na iyon, iyan ang masasabi kong memorable. First meet up namin ni Earl with a first sex.
 
@@ -1580,9 +1578,9 @@ At tinalikuran ko na siya't gusto ko nang makaalis dito ngunit habang naglalakad
 
 "Sige, uwi na ako! Happy 4th anniversary ulit sa atin!"
 
-Nilingon ko ulit sila nang marinig ko 'yon at sinulyapan pa nga ako ni Earl. So all this time, niloloko niya pala ako? May girlfriend na pala siya? We are already f'cking two years tapos may ka-4th anniversary pala siya? F'ck him!
+Nilingon ko ulit sila nang marinig ko 'yon at sinulyapan pa nga ako ni Earl. So all this time, niloloko niya pala ako? May girlfriend na pala siya? We are already fucking two years tapos may ka-4th anniversary pala siya? Fuck him!
 
-So I decided to start a new life after that happened. It's simple, even though someone already owns him... Nagpakatatag pa rin ako. I blocked Earl with all of my social medias and what we're f'cking another connections. Inalis ko na siya sa buhay ko. Mahirap pero kinaya ko. At nabalitaan ko na nga lang na may sakit daw siya pero wala akong planong bisitahin siya. Never!
+So I decided to start a new life after that happened. It's simple, even though someone already owns him... Nagpakatatag pa rin ako. I blocked Earl with all of my social medias and what we're fucking another connections. Inalis ko na siya sa buhay ko. Mahirap pero kinaya ko. At nabalitaan ko na nga lang na may sakit daw siya pero wala akong planong bisitahin siya. Never!
 
 He deserves it.
 
@@ -1635,7 +1633,7 @@ Nagulat ako nang bigla niya akong hilahin papunta sa washroom nila hanggang sa i
 
 Tinulak ko nga siya hanggang sa makasandal siya sa pinto ng cubicle na naka-lock pala. "Ano ba! Sisigaw ako rito."
 
-Ngunit huli na ang lahat nang bigla siyang maghubad at nakita ko na naman ang katawan niya tapos napatingin ako sa abs niya. Nang maihubad niya naman ang pang-ibaba niya ay lalo akong nag-init. Oo, hindi ko crush si Wayne at magkukunwaring crush ko sana siya pero hindi ko maiwasang mang-init. I'm f'cking horny with this guy but has no feelings!
+Ngunit huli na ang lahat nang bigla siyang maghubad at nakita ko na naman ang katawan niya tapos napatingin ako sa abs niya. Nang maihubad niya naman ang pang-ibaba niya ay lalo akong nag-init. Oo, hindi ko crush si Wayne at magkukunwaring crush ko sana siya pero hindi ko maiwasang mang-init. I'm fucking horny with this guy but has no feelings!
 
 "Huwag ka nang magkunwaring crush ako kasi dapat ako lang, Ariana. Ako lang, please. Huwag na 'yung ugok na Jonas na 'yon." Aniya at ipinahawak niya sa akin ang naghuhumindik niyang pagkalalaki.
 
@@ -1651,7 +1649,7 @@ Ngayon, ako naman ang nagtrabaho sa kaniyang pagkalalaki. Nakasandal lang siya a
 
 Ngayon, para na akong nababaliw sa kaniyang pagbayo sa kalooban ko. Nakakapit lang ako sa kaniyang balikat at sobrang sikip dito sa cubicle na 'to. Ungol lang ako nang ungol habang pumapatak ang tubig sa 'min na mula sa shower.
 
-"Ugh, f'ck! Yes! Yes! Sobrang sarap naman, Wayne!"
+"Ugh, fuck! Yes! Yes! Sobrang sarap naman, Wayne!"
 
 "Ang sarap mo, Naya ko. Matagal ko na 'tong gustong maulit."
 

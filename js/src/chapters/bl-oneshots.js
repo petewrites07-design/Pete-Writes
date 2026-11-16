@@ -1444,7 +1444,7 @@ HINDI pa nga natigil 'yung pangkukutya nila sa akin at patuloy pa rin na may nak
 
 "Ang kapal naman ng mukha mo, p're, hindi ka pa ba aalis dito? Nadadamay na nga kami sa kababuyan mong taglay eh. Nakakahiya!"
 
-"Kaya nga, t*ngina! Nakakahiya ka naman."
+"Kaya nga, tangina! Nakakahiya ka naman."
 
 "Woohoo!" Napalingon ako sa isang karinderya na narito lamang sa terminal, may sumigaw na babae roon gamit ang microphone. "Mariano! Shout out sa 'yo, umalis ka na rito, nakakahiya ka! Kalat na kalat ka na!"
 
@@ -1483,12 +1483,7 @@ Ako nga pala si Yano at Ario... Mariano ang aking buong pangalan. Hindi na ako k
 -THE END-`
     },
 
-                {
-        title: "SOON",
-        date: "",
-        status: "Ongoing",
-        content: ``
-    },
+
 
                 {
         title: "SOON",

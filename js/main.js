@@ -190,7 +190,7 @@ window.addEventListener('DOMContentLoaded', () => {
     setTimeout(updateCategoryMenuBadges, 100);
 });
 
-// Ligtas na paglagay ng "NEW!" badge sa mga category button sa menu
+// Ligtas na paglagay ng "NEW!" badge sa tabi mismo ng category title (responsive kahit sa phone)
 function updateCategoryMenuBadges() {
     const t = translations[currentLang];
     const cats = ['petesarap', 'petewrites_bl', 'petewrites_random', 'petewrites_novel'];
@@ -199,8 +199,15 @@ function updateCategoryMenuBadges() {
             const buttons = document.querySelectorAll(`button[onclick*="${catKey}"]`);
             buttons.forEach(btn => {
                 if (!btn.querySelector('.cat-new-badge')) {
-                    const badgeHtml = `<span class="cat-new-badge text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-2 animate-pulse shadow-sm">${t.newBadge}</span>`;
-                    btn.insertAdjacentHTML('beforeend', badgeHtml);
+                    const badgeHtml = `<span class="cat-new-badge inline-block align-middle text-[9px] font-extrabold bg-red-500 text-white px-1.5 py-0.5 rounded ml-1.5 animate-pulse shadow-sm shrink-0">${t.newBadge}</span>`;
+                    
+                    // Hanapin yung mismong title element sa loob ng button para doon idikit sa tabi
+                    const titleEl = btn.querySelector('div > div:first-child, span:first-child, h3, h4, p:first-child');
+                    if (titleEl) {
+                        titleEl.insertAdjacentHTML('beforeend', badgeHtml);
+                    } else {
+                        btn.insertAdjacentHTML('beforeend', badgeHtml);
+                    }
                 }
             });
         }

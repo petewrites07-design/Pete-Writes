@@ -1290,10 +1290,10 @@ Lumapit din ako sa Diyos.
 Ako si Julian. Sana ay maging lesson na ito sa inyo na kapag nakagawa kayo ng pangtataksil sa inyong kasintahan o asawa, aminin niyo na ang kasalanang ginawa at hiwalayan niyo na rin dahil kahit na mapagtanto mong mahal mo siya? Hindi mo siya tunay na mahal sapagkat nagawa mo siyang pagtaksilan.`
     },
 
-                        {
+                            {
         title: "A Bitter Writer",
-        date: "March 6, 2022",
-        status: "Completed",
+        date: "2026",
+        status: "Ongoing",
         content: `Ako lang naman ay isang hamak na manunulat sa Facebook at Wattpad.. Gumagawa ako ng stories ko sa laptop or cellphone ko. Nagsusulat rin ako ng nobela kaso hindi ko magawa gawa at nakakainip rin kaya natitigil ko ang pagsusulat roon, mas enjoy na lang ako sa one shot!
 
 Ang hirap lang din kasi kapag nagsusulat ka ng novel by chapters kasi napakabilis ng araw at panahon mo! Hindi mo namamalayan, isang taon mo na pala ginagawa ang nobelang sinusulat mo kasi wala kang update or mabagal kang mag-update! My god! Nakaka-overthink pa at mas nakakatamad!
