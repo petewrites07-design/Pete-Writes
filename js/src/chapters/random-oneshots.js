@@ -1292,7 +1292,7 @@ Ako si Julian. Sana ay maging lesson na ito sa inyo na kapag nakagawa kayo ng pa
 
                             {
         title: "A Bitter Writer",
-        date: "2026",
+        date: "March 6, 2022",
         status: "Ongoing",
         content: `Ako lang naman ay isang hamak na manunulat sa Facebook at Wattpad.. Gumagawa ako ng stories ko sa laptop or cellphone ko. Nagsusulat rin ako ng nobela kaso hindi ko magawa gawa at nakakainip rin kaya natitigil ko ang pagsusulat roon, mas enjoy na lang ako sa one shot!
 

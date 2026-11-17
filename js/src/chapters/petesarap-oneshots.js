@@ -2435,7 +2435,7 @@ Tinignan ko siya at napagtanto kong si Diane nga ito. Hindi ko namukhaan dahil s
 
 "But, I have a wife!" Napa-ungol na naman ako nang bigla niyang itaas baba ang kargada ko gamit ang bunganga niyang malaway. Wala siyang pinagbago.
 
-Sh't! Wala na, sobrang libog ko na at sobra akong nasasarapan. Sorry pero tatapusin ko na 'to. Nakakalibog nga dahil dagdag pa ang thrill dahil sa taxi driver na busy sa pag-drive at sa mismong dito pa kami sa taxi na umaandar gumagawa ng milagro at madilim pa tapos hindi pa ako single! Ang sarap sobra!
+Shit! Wala na, sobrang libog ko na at sobra akong nasasarapan. Sorry pero tatapusin ko na 'to. Nakakalibog nga dahil dagdag pa ang thrill dahil sa taxi driver na busy sa pag-drive at sa mismong dito pa kami sa taxi na umaandar gumagawa ng milagro at madilim pa tapos hindi pa ako single! Ang sarap sobra!
 
 "Ugh, fuck!" Bulong kong ungol.
 
@@ -3643,14 +3643,210 @@ And after that is tinulungan na lang niya me to get up and naging secret na lang
 Hanggang sa after ng four months is nagkabalikan na us ng boyfriend ko kasi marupok me so natigil na ang happenings sa amin ni Theodore because nagka-girlfriend na rin him.`
     },
 
-                                                        {
-        title: "",
-        date: "",
-        status: "Ongoing",
-        content: ``
+                    {
+        title: "Oper's Boyfriend",
+        date: "May 23, 2026",
+        status: "Completed",
+        content: `Trigger Warning: Sensitive and heavy story. Read at your own risk.
+
+“Kailan mo ba kasi ipapakilala ‘yang boyfriend mo?” tanong sa akin ng mga kaibigan ko. We are here now sa long table ng cafeteria ng university.
+
+“Saka na! Low-key na lang muna,” pigil tawa kong sabi.
+
+“Sige na, please!”
+
+“Para naman kaming others.”
+
+“Pakita na!”
+
+“Bakla ka! Dalian mo!”
+
+“Oper! Dalian mo na!”
+
+Napakamot ako sa ulo ko. Palibhasa ang mga kaibigan ko ay mga bading tapos mga babae na mahilig sa boys’ love stories.
+
+Dahil napapangiti at nakakaramdam ako ng kilig ay nilabas ko ‘yung cellphone ko sabay bukas sa gallery at iniharap ko sa kanila ito para mapakita sa kanila ang picture namin ng boyfriend ko.
+
+“Huh? Nasaan ang boyfriend mo riyan? Ikaw lang mag-isa eh!”
+
+“Niloloko mo kami.”
+
+“Delulu ka ba, bes?”
+
+Mga sinabi nila sabay tawanan kaya napakunot-noo ako roon.
+
+“Ayan oh! Nakaakbay siya sa akin at naka-kiss sa pisngi ko!” irap kong sabi pero tumatawa kasi alam kong inaasar lang ako ng mga kaibigan kong ‘to.
+
+“Ang creepy mo beh! Wala talaga!”
+
+“Paanong wala, eh ayan nga oh! Siya ang boyfriend ko at Azul ang pangalan niya, medyo maputi siya at naka-peace sign tapos pogi at matangkad,” natatawa ko pa ring sabi.
+
+“Wala naman kasi, bes!”
+
+“Nag-aalala na kami sa ‘yo bes, baka gutom lang ‘yan.”
+
+Tapos nagtawanan sila.
+
+Napatayo na ako sa inis ko. “Alam n’yo? Galing n’yong mang-prank eh ‘no! Nung gusto n’yo makita ang boyfriend ko, kinukulit n’yo ako. Tapos nung pinakita ko, binibiro n’yo ako bigla ng ganiyan! Nakakainis kayo banda d’yan ah!”
+
+“Wala talaga promise!”
+
+Nainis na ako nang tuluyan. Grabeng prank ‘yan, hindi nakakatuwa!
+
+Nung pinakita ko pa ang mga picture namin para patunayan na may boyfriend talaga ako at marami kaming photos ay nag-iba pa lalo ang reaksyon nila. Delusional lang daw ako at wala naman talagang boyfriend.
+
+Hindi ko sila gets at lalo lang akong naiinis at nabibigatan sa kanila.
+
+“Grabe kayo magbiro, ano! Nakakasakit na kayo. I-cut off ko na lang kaya kayo kasi masyado ninyong pinagtatawanan ang lovelife ko. Tangina ninyo! Bahala na nga kayo d’yan!”
+
+Sa galit ko ay nag-walk out ako. Hindi ko na rin sila pinansin pagkalipas ng mga ilang araw at ilang linggo.
+
+Hindi bale na. Mga kaklase ko lang sila at nakilala ko lang naman sila sa buhay ko. Hindi ko sila matatawag na kaibigan dahil hindi naman tunay at permanente. Pinagtatawanan pa ako at hindi man lang masuportahan sa kasiyahan ko.
+
+Kakapal ng mukha nilang tawagin din akong baliw, delusional at may schizophrenia dahil wala naman daw akong boyfriend. The fuck!
+
+@petewrites2026
+
+Hindi ko na lang sila pinapakinggan at pinapansin, basta masaya ako sa boyfriend ko na nasa tabi ko ngayon.
+
+“Huwag mo na silang pansinin, Oper ko. Mas maigi pang low-key tayo, sabi ko naman sa ‘yo eh. Hindi sila importante, tayong dalawa lang ay sapat na,” advise sa akin ng boyfriend ko nung ni-rant ko na sa kanya ‘yan.
+
+Ang tagal ko na ring hindi sinasabi ang dinadala kong nararamdaman dahil nahihiya ako sa kanya.
+
+Napasandal ako sa hubad at matipuno niyang katawan.
+
+“Ewan ko ba, Azul ko… hindi ko na alam,” naiiyak kong sabi sa kanya.
+
+Inakbayan niya naman ako sa aking balikat.
+
+“Emotional ka lang masyado, mahal ko, Oper ko. Gusto mo kiss kita?”
+
+Automatic akong napangiti kasi kinilig din ako bigla.
+
+Nang makita niya ang reaksyon ko ay hinalikan niya ako sa pisngi at labi ko.
+
+“Teka, hindi pa ako nakakapaglinis ng pwet ko, Azul ko,” natatawa kong sabi.
+
+“Hala. Hindi ko naman iniisip na mag-sex tayo, mahal.”
+
+“Ako naiisip ko kaya mag-wait ka d’yan!” biro kong sabi sa kanya at tumayo. “Wait lang ah! Linis lang ako!”
+
+Pumunta na akong CR para maglinis ng sarili ko hanggang sa after almost one hour, feeling ko okay na ako kaya lumabas na ako.
+
+Paglabas ko ay nakahanda na siya sa higaan. Nagpunta na ako sa kanya sabay nakipag-cuddle sa kanya para ma-increase lalo ang init para sa isa’t isa.
+
+Cuddle muna, halikan, romansahan, oral hanggang sa may contact na.
+
+“Ugh! Fuck! Bilisan mo pa! Ugh!”
+
+Nandito ako’t nakapatong ibabaw niya at nagtataas baba sa tigas na tigas niyang kargada. Sobrang nababaliw ako habang nagra-rides nito.
+
+“Ugh! The best pa sa rollercoaster ito!”
+
+“Ang hot mo, mahal ko.”
+
+Napatingin ako sa cellphone ko na nakasandal sa may cabinet para magpaakit at magpasarap. Naka-video kasi kami at plano ko rin iyong ipakita sa mga bashers ko.
+
+“Ugh! Fuck sobrang sarap, mahal!” nadedeliryo ko nang sabi nang bumayo siya habang nakasakay ako sa kanya.
+
+“Ugh! Gago! Ang Sarap! Ang sikip mo!” hot na hot na ungol ng boyfriend ko. Deep voice pa kaya sobra rin akong nalilibugan.
+
+“Ugh! Please, adore me! Hold me and explore me too! I’m so fucking horny!”
+
+Kinuha niya ako para makasandal sa kanyang buong katawan at muscles niya. Sobrang sarap na sakupin at ikulong niya ako sa bisig niya. Ugh! Ang sarap!
+
+@petewrites2026
+
+Naka-tatlong rounds din kami hanggang sa nakatulog na kami after niyan.
+
+Pagkapasok ko sa school ay may thesis nang magaganap. Walang nakikigrupo sa akin dahil baliw daw ako at mabilis magalit tapos mapikon kapag inaasar nila ako about sa boyfriend ko.
+
+Well, pinapakyuhan ko rin kasi sila kaya naiintindihan ko ang galit nila.
+
+Pero tangina nila kasi hindi nila ako maintindihan.
+
+Sa inis ko ay s-in-end ko ‘yung video namin ng boyfriend ko na nagse-sex. Sa group chat namin iyon ng mga dati kong kaibigan.
+
+Oper (Me):
+
+Ayan! Proud akong ipakita na may boyfriend ako at nagsesex kami. Mga gago. Tigilan niyo na ang pang-aasar sa akin, tangina ninyong lahat!
+
+At saka na ako nag-left doon. Gusto ko lang ipamukhang may boyfriend ako at matigil na rin ang araw-araw na pang-aasar sa akin.
+
+But suddenly… mas lumala lang ang nangyayari.
+
+Viral na ang s-in-end kong video sa kanila kasama pa roon ang last message ko rin sa kanila.
+
+Natawa ako kasi imbes na kabahan ako ay nag-viral pa… Ibig sabihin, napatunayan ko nang may boyfriend talaga ako at hindi ako delulu! So I must read the comments.
+
+Maria Kinavacuum: gago ang lupit ng viral ngayon HAHAHAHAHHAHAHAHAH napanood ko, ako yung nahihiya
+
+Velro mali kasi: HAHAHHAHAHAHAHHAHAHHAHAHAHAHA BAT GANYAN! NAPANOOD KO NA DIN
+
+Kerala Walangdilig: HAHAHAHHAHAHHAHAHAHAHHAHAHAHHA ANONG KLASE ITONG NAKITA KO 😭😭😭
+
+Adik Ako Sa Roblox: SHTTTTTT PARANG MAY SOMETHING SA KANYA. BALIW BA SIYA?
+
+George D’Jinabol: nakainom na ba siya ng gamot? Btw galing niya ah, acting na acting sha jan
+
+Dede Na Parang Bundok: baliw ba yan?
+
+Xer Galitsagobyernongpilipinas: pasend po
+
+Marami pa akong nakitang comments tapos memes pa.
+
+Kung saan-saan ko pa nakita ang video namin ni Azul sa iba’t ibang websites. Pare-pareho lang din ng comment kaya nagtataka ako at sumasakit ang ulo ko.
+
+Lahat kasi sila ayan ang sinasabi. Na para rin daw akong tanga na nagba-bounce sa kama ko.
+
+Imagination ko raw tapos baliw daw ako.
+
+Hindi ako naniniwala, pero hindi ko maiwasang mapaisip kung bakit ganiyan. Totoo bang imagination lang kita Azul?
+
+“Mahal… hayaan mo na ‘yon sila, sarap na sarap lang ‘yon sila sa video natin,” aniya at saka niya kinuha ang cellphone ko. “Tara, mag-date na lang tayo. Treat kita.”
+
+“Sige, mahal… Nasi-stress lang ako.”
+
+Lumabas kami ni Azul ng bahay at naglalakad. Nagkukwentuhan lang kami habang naglalakad at tumatawa pa ako kasi nagpapatawa siya.
+
+Hanggang sa may mga taong lumapit sa aming dalawa.
+
+“Diba ikaw ‘yung viral na baliw na baklang mapupunta sa impyerno?”
+
+“Bakla ka na nga, delulu ka pa!”
+
+Nilagpasan lang namin sila ng boyfriend ko subalit kahit saan ay ayan ang mga sinasabi sa akin ng mga tao.
+
+Natakot ako at naiiyak. Niyakap ako ng boyfriend ko pero hindi nagwo-work ang pagpigil ko sa emosyon ko.
+
+“Hayaan na natin sila, mahal. Umuwi na tayo.”
+
+Hindi na natuloy ang date namin ni Azul dahil kahit saan kami mapunta ay ayan ang sinasabi sa akin ng mga tao.
+
+Sinasabi pa nilang baliw talaga ako at wala naman akong kasama kapag kinakausap ko si Azul sa daan.
+
+“Ang importante ay tayong dalawa lang, mahal… huwag mo na silang pansinin. Ako nang bahala sa ‘yo,” sabi sa akin ng boyfriend ko matapos naming mag-sex na naka-lights off pa.
+
+“Oo, mahal… ayoko nang lumabas. Feeling ko sa kanila ako mababaliw dahil sinisira nila ako.”
+
+“Huwag na natin silang pansinin, mahal ko.”
+
+Sa tuwing nado-down ako ay nandiyan lang ang boyfriend ko. Kahit sinasabi nilang imagination daw ay hindi ko na lang pinapansin.
+
+Lumipat na rin ako ng bahay na lang simula nung may biglang nagpupunta na lang sa aking mga taga mental hospital.
+
+Doon na lang din ako palagi sa bagong bahay namin ng boyfriend ko at kung lumalabas ay may jacket na lang ako at naka-mask para hindi ako makilala ng iba.
+
+Wala na akong pake sa sinasabi ng iba. Masaya ako sa boyfriend ko na palagi lang na nasa tabi ko.
+
+Sino ba ang iba para pakinggan ko sila? Gagawin lang naman nila akong mag-isa pa rin sa huli kahit piliin kong makinig sa kanila.
+
+Eh ang boyfriend ko na si Azul, kasama ko sa lahat. Kaya siya ang pipiliin ko kaysa sa kanila.
+
+Kaysa rin sa ibang sinasabi ng utak ko.`
     },
 
-                                                        {
+                    {
         title: "SOON",
         date: "",
         status: "Ongoing",
