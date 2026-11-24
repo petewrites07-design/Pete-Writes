@@ -3847,9 +3847,153 @@ Kaysa rin sa ibang sinasabi ng utak ko.`
     },
 
                     {
-        title: "SOON",
-        date: "",
-        status: "Ongoing",
-        content: ``
+        title: "Vercelli",
+        date: "June 13, 2025",
+        status: "Completed",
+        content: `Ako si Vercelli at may crush ako na roommate best friend ko, si Rome. Mag-best friend kami nito mula pa noong elementary kami kasi Ninang ko ang Mama niya at Ninang niya naman ang Mama ko.
+
+Nung nagka-girlfriend siya ay pinilit kong alisin ang feelings ko sa kanya ngunit nung nagkahiwalay sila ay bumalik na naman feelings ko para sa kanya, tila nagkapag-asa ako nung pakiramdam ko na ‘yon hanggang sa lalo ako nakaramdam ng pag-asa sa kanya nung umamin siya sa aking bisexual siya at may nililigawan daw siyang cute boy. 
+
+Akala ko ayon na talaga ang pag-asa ko dahil katulad ko ay bisexual rin siya ngunit wala, tumagal sila ng tatlong taon kaya wala talaga akong pag-asa.
+
+Hanggang sa isang araw, umuwi si Rome nang malungkot. Agad siyang yumakap sa akin tapos umiyak.
+
+“Oh, bakit ka umiiyak, Rome?”
+
+“Break na kami ni Sioren, pre,” tukoy ni Rome sa boyfriend niya habang umiiyak.
+
+“Hindi ba ‘yun nagseselos sa akin?”
+
+“Hindi… Basta nakipaghiwalay siya kasi na-fell out of love siya.”
+
+At dito na nga siya nagkwento sa akin. Malungkot naman ako para sa kanya kasi raw nitong mga nakaraan pa raw niya napapansing nagbago si Sioren at panay siya intindi roon tapos pilit niyang sinasalba ang relasyon nila kahit na mukhang malabo na.
+
+Kinomfort ko na lang siya hanggang sa napagdesisyunan na niyang kumain at hanggang sa matutulog na kami.
+
+“Pre…”
+
+Napatingin naman ako sa kabilang kama. Tinatawag ako ni Rome kaya naman bumangon ako at umupo ako sa tabi niya. Patay na ang ilaw at patulog na sana ako kaso inistorbo nito ni Rome ang pagtulog ko. Hindi ko naman siya matiis tignan kasi matagal na akong may care sa kanya.
+
+“Pilit ko namang iniintindi siya, pero bakit sa akin ang unfair?” umiiyak na naman niyang rant.
+
+Nag-alala ako sa kanya kung kaya’t nilapitan ko siya at hinaplos-haplos ko ang buhok niya para ma-comfort siya.
+
+“Tumabi ka nga muna rito, pre… Ang lungkot ko talaga.”
+
+“Huh? Huwag na! Doon na lang ako sa kama ko, pumarito lang naman ako saglit.”
+
+“Sige na!” pagpupumilit niya na parang bata. “Walang malisya, promise… Tabi lang, please? Ginagawa naman natin ‘yon noon pa ah?”
+
+“Okay, fine!” sabi ko na lang at saka ako humiga sa tabi niya.
+
+Nakatingin lamang ako sa kisame habang nakikinig ng kwento ay rant niya hanggang sa mapatingin na lang ako sa kanya dahil may ginawa siya sa akin! Bigla niya akong niyakap!
+
+@petewrites2025
+
+“Miss ko na si Sioren, Ver…”
+
+Hindi ko naman siya matulak kasi nagugustuhan ko ito.
+
+“Ano’ng gagawin ko?” tanong ko nga.
+
+“Wala…” Niyakap niya ako nang mahigpit. “Alam mo ba. Iniisip ko nga ngayon na ikaw siya eh.”
+
+“Gagi ka, pre!” nasabi ko na lang kunwari. Ngunit natawa na lang siya.
+
+Bigla akong nanlambot kaya hinayaan ko na lamang siyang yakap niya ako. Magka-cuddle na kami ni Rome! Hindi ako makapaniwala!
+
+Hanggang sa hindi inaasahan ay bigla kong na-touch ‘yung dapat hindi ko mahawakan pero nahawakan ko!
+
+“Hawakan mo na kung gusto mong hawakan,” bulong niya nga. 
+
+@petewrites2025
+
+“Huh? Ang alin?”
+
+“Sige na, hawakan mo na… Single naman na ako, pre.”
+
+Para lang akong naestatwa na nakayakap sa kanya, hindi talaga ako makagalaw ngunit nagulat na lang ako nang hawakan niya ang kamay ko at ipinunta niya ito sa naninigas na niyang unexpected na ayaw kong banggitin!
+
+“Himasin mo…” bulong niya.
+
+“Sure ka?”
+
+“Yes, please…”
+
+Hindi ko siya maintindihan at nahihiya ako sa kanya ngunit ginawa ko ‘yung gusto niya! Hinimas ko ito at ang init lang nito hawakan. Hindi ko maintindihan ang feeling pero gusto ko itong hawakan! Ngayon lang ako nakahawak nito! 
+
+Habang tumitigas nga ito ay nalalaman kong malaki pala ang tinatago ni Rome!
+
+“Vercelli, hawakan mo, please… Naho-horny na ako.”
+
+“Sure ka, pre?” tanong ko sa kanyang may respeto pero sana ituloy na lang namin ito.
+
+“Oo, please…”
+
+Tinignan ko nga siya at kitang-kita sa mukha niya ang sarap habang hinihimas-himas ko pa rin ito.
+
+Hanggang sa ito na nga. Hinubad ko na ‘yung short at boxer niya tapos pumwesto na ako sa may binti at paanan niya. Umupo nga siya sa sandalan ng kama at pinanood akong itaas-baba ang rome junior niya na big nang paulit-ulit.
+
+“Ganiyan nga! Ang galing mo!” ungol niya.
+
+Hindi ko na nga napigilang lapitan ito at saka ko sinimulan nang dilaan ito.
+
+“Ugh! Damn! Ituloy mo na, pre… Please…”
+
+Sinunod ko nga siya, sinubo ko na ‘yung head of his junior! Hanggang sa palalim na ‘to nang palalim at paulit-ulit nang pumapasok sa bunganga ko! Sarap na sarap na ako sa pagsubo nito taas-baba sa bunganga ko.
+
+“Please ituloy mo pa, Ver… Please! Sobrang sarap!”
+
+Ang haba nga nito at ang laki kaya hindi ko ito masagad hanggang sa lalamunan ko. Hanggang lagpas kahalati nga lang nito ang nakakayanan ko kasi nabubulunan kaagad ako at naduduwal. Naubo nga ako nang iluwa ko ito.
+
+“Dahan-dahan lang po, Ver…” sabi niya. “Subo mo na ulit. Sarap kasi eh!” dagdag niya pa.
+
+“Opo,” sagot ko nga at inulit ko lang ang ginagawa ko kanina.
+
+Umalis nga kami rito sa kama at saka namin itinuloy iyon sa sahig. Nakatayo siya’t hubo’t hubad habang ako ay nakaluhod na hubad na rin ang lahat. Tumutunog nga ang bawat pagsubo ko nito.
+
+Punong-puno na ng laway itong junior niya at sobrang satisfying lang nitong tignan at isubo kasi sa bawat subo ko nito ay kusa lang itong pumapasok sa bunganga ko. Binayo niya pa nga nang mabilis ‘yung bunganga ko kaya lalong dumarami ang laway ko rito sa junior niya. Ang dulas nito at sarap na sarap ako sa pagsubo. Hindi kasi nauubos ito kaya grabe talaga!
+
+“Ang sarap mo, pre!”
+
+Tinigil niya nga ang pagbayo ng junior niya sa bunganga ko at hinampas-hampas niya ito sa buong mukha ko at dila ko. Pinadulas niya pa ito sa lahat ng parte ng mukha ko. Napapapikit ako at dinadamdam ko ito. Sobrang tigas niya!
+
+Nung bitawan na nga niya ang junior niya at ipinaubaya muli sa akin ay hinalik-halikan ko ito. Kiss, kiss at kiss lang ang ginagawa ko kasi gusto kong pahalagahan ito dahil nagpapasalamat ako na matitikman ko pala ito nang hindi ko inaasahan! Kaya sinusulit ko! Sobra-sobra ko itong ike-keep sa puso ko.
+
+“Lalabasan na ako!” malakas niyang ungol at saka na niya tinaas-baba ito gamit ang kamay niya.
+
+Nagulat na nga lamang ako nang bigla na niyang maiputok ang gatas ng junior niya sa mukha ko pagkadilat ko. Ang init nito at may lasa nung natikman ko.
+
+Umupo na nga kaming dalawa sa kama niya pagkatapos. Nag-usap na nga kaming dalawa.
+
+-petesarap’s random stories 🔞-
+
+“Sarap?” tanong nga niya.
+
+“Oo, Rome,” sagot ko. “Thank you.”
+
+“No, ako dapat ang mag-thank you… Nag-enjoy ako. Ganito ka pala kagaling, sana noon pa natin ito ginawa.”
+
+Natawa ako. “Hindi ko naman inakalang mangyayari ito…”
+
+Kumuha nga ako ng tissue at saka ko ito ipinunas sa buong mukha ko. Ipinunas ko nga rin ito sa junior niya para maging malinis. 
+
+“Yakap na ulit, good job, pre.”
+
+“Dito na lang ako sa higaan mo matutulog?” tanong ko.
+
+“Oo… Sleep na tayo para makapagpahinga tayo lalo na ‘yung bunganga mo,” natatawa niya pang sabi.
+
+Kung kaya naman nagpunta na ako sa kanya at saka ko na siya niyakap. Dito nga ako sa katawan niya nakatulog at hinding-hindi ko ito makakalimutan.
+
+Nagawa pa nga namin ito straight one week hanggang sa magtapat siya sa akin na nagkabalikan na sila ni Sioren nung hapon kaya nalungkot ako ngunit nag-sorry siya sa akin hanggang sa ito na lang din ang huling gabi na may nangyari sa amin. Nagpatira pa nga ako sa kanya upang maging sulit ang lahat.
+
+Kinabukasan nga no’n ay umalis na si Rome at nagpaalam na siya sa akin na i-end na lang namin lahat ng namamagitan sa amin dahil mahal niya raw talaga si Sioren kaya kahit ako raw mangyari ay mahal na mahal pa rin niya ‘yon. Hindi niya rin daw kasi kaya na maging patago lang kami dahil masasaktan lang daw niya ako lalo.
+
+Ayon nga’t para makalimutan ko siya, nagpunta na lang ako sa Italy pagka-graduate para roon na lang manirahan. Nakakilala na rin ako rito sa Italy ng babaeng aking minahal na si Florence at dito na rin kami nakabuo ng pamilya.
+
+Hanggang dito lang ang aking kwento. Maraming salamat. Thank you rin, petesarap’s random stories.
+
+End.`
     },
 );

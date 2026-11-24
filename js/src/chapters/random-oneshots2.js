@@ -3,140 +3,6 @@ window.oneShotDatabase['petewrites_random'] = window.oneShotDatabase['petewrites
 
 // Gamitin ang .push() imbes na = [ ... ]
 window.oneShotDatabase['petewrites_random'].push(
-    {
-        title: "Teddy Bear",
-        date: "January 20, 2025",
-        status: "Completed",
-        content: `Warning: Violence
-        
-        Naniniwala ba kayo sa three months rule?
-
-'Yung after three months ay puwede ka na muling umibig after mo masaktan.
-
-Ako kasi naniniwala eh... Kaya hinintay ko 'yung nagugustuhan ko na nasaktan bago ako nagkalakas ng loob na umamin sa kanya after three months.
-
-"Gusto mo 'ko?" hindi makapaniwalang tanong ni Neon sa akin dahil sa pag-amin ko.
-
-"Oo, gusto talaga kita, Neon," sinserong aniko sa kanya.
-
-"Ewan ko, Oric. Hindi ko pa rin alam kung iibig ba muli ako after mamatay ng pinsan mo," aniya na siyang malungkot.
-
-"But three months na ang lumipas, Neon. Handa naman kitang hintayin."
-
-"Three months, yeah. Pero parang kahapon pa rin 'yung nangyari eh."
-
-Hinalikan ko nga si Neon sa noo niya. "Hihintayin kita, don't worry. Hayaan mo lang akong gawin sa 'yo 'to. Please?"
-
-Flat nga siyang napangiti sa akin at saka siya tumango-tango.
-
-Abot-langit naman ang saya ko nang ayan ang naging reaksyon niya... Means pinapayagan niya ako? Yes!
-
-Simula kasi namatay ang pinsan ko na boyfriend ni Neon ay palagi lang akong nasa tabi niya, karamay niya. Hanggang sa ayon, nagkausap na kami palagi ni Neon until dumating nga itong panahon na ito na magtapat ako ng feelings ko sa kanya.
-
-Ewan ko ba! Nagkagusto ako sa cute guy na 'tong si Neon. Hays! Sa dinami-rami ng mga naging girlfriend ko at sa ilang beses ko nang nasaktan ay parang napatanong na lang din ako sa sarili ko na baka sa kapwa ko lalaki ay mag-work na. Kaya heto, nang makita ko noon si Neon ay nagustuhan ko na siya, like I'm so crazy in love with this cute boy.
-
-Masasabi ko nang hindi na ako straight dahil sa kanya na lang ako nag-focus at hindi na sa mga babae.
-
-I made all the effort with him until I could make him fall in love with me too at tila nagagawa ko na nga 'yon makalipas ang halos kalahating taon. Napapangiti na nga lang ako nang palihim kasi kinikilig siya sa akin.
-
-Nakuha ko na nga siya. Oo na lang niya ang kulang.
-
-[Puwede ba tayong magkita after ng duty mo, Oric? May gusto lang din akong sabihin sa 'yo,] aniya sa kabilang linya.
-
-Napangiti naman ako sa sinabi niya. Kaya niya naman pala ako tinawagan para rito.
-
-"Sige sige, Neon! Saan ba tayo magkikita? Ano ba 'yang sasabihin mo?"
-
-[Basta! Sige na, bye, Oric! See you! Sa bahay ko na lang tayo magkita.]
-
-"Okay. See you, cute boy!"
-
-At binaba na nga niya ang tawagan namin at dito nga sa office ay puro siya lang ang iniisip ko lalo na 'yung kung ano ba ang sasabihin niya. Ano kaya 'yon? Kinakabahan naman ako! Sana naman ay hindi niya basted-in.
-
-Sayang ang lahat ng mga pinaghirapan ko at nagawa ko kapag hindi ko pa siya makukuha nito.
-
-Matapos ang duty ko. Kinuha ko na nga 'yung karton bag na may lamang teddy bear na medyo malaki sa ilalim ng table ko. Binili ko kasi para sa kanya ito kaninang umaga at balak kong ibigay ito sa kanya talaga ngayon at nagkataon lang na gusto niya rin pala akong makita.
-
-At ito na nga, pagkarating ko sa bahay niya ay nagulat ako nang makita ko si Neon sa loob na tila may hinandang dinner na mukhang in-effort-an niya.
-
-"This is your surprise?" tanong ko sa kanya at umupo ako sa sofa.
-
-"Yes! And I just want to tell you na— Ah basta! Mawawala ang thrill at surprise kapag sinabi ko eh."
-
-"Ano ba 'yung sasabihin mo? Ang bitin naman po niyan."
-
-"Ano kasi! Uhm, mamaya na, please?"
-
-Ngumiti ako sa kanya. "Ano nga? Para ibigay ko na sa 'yo ito," aniko at ipinakita ko sa kanya ang dala kong karton bag.
-
-"What's that?"
-
-"Kunin mo na lang po."
-
-Kinuha naman niya itong karton bag sa akin at saka niya nga kinuha sa loob nito ang isang brown teddy bear. Natuwa nga siya rito at kitang-kita sa mukha niya ang saya.
-
-"Omg! Thank you, Oric! Thank you!"
-
-"Syempre... Para sa 'yo 'yan! Pero ano ba kasi 'yung sasabihin mo?"
-
-Tumabi na nga siya sa akin sa sofa at saka siya nag-pout.
-
-"Uhm..." kunwari pa siyang nag-iisip. "Okay! Sasabihin ko na," aniya na tinignan na ako.
-
-"Ano?"
-
-"Uhm... Sinasagot na kita!"
-
-Napanganga naman ako at nanlaki ang mata ko sa sinabi ni Neon! M-in-ake sure ko pa nga ito at talagang sinasagot na niya nga ako. Sa sobrang saya ko ay niyakap ko nga siya at hinalikan ko na siya sa labi niya. Hinayaan niya naman akong gawin ito sa kanya.
-
-"Don't worry, mamamahalin kita lalo at hindi-hinding kita sasaktan! Thank you, Neon! Thank you! I love you!" masayang sabi ko sa kanya.
-
-"Yieee kakilig naman! I love you, Oric! Thank you ulit sa teddy bear na 'to! Hays! Naalala ko tuloy si Eson. Hays!" tukoy niya sa aking pinsan na naalala niya.
-
-"Alam ko namang mahilig ka sa teddy bear," bulong ko nga.
-
-"Ano 'yung sabi mo? Alam mo pala?"
-
-Umubo nga ako kunwari at saka ako mahinang natawa then niyakap ko siya. "I mean, kaya binilhan kita kasi mukhang mahilig ka nga sabi ko."
-
-"Ah okay! Pinapakilig mo na naman ako! Lalo ka tuloy pumopogi sa paningin ko, Oric! Oh siya! Tara na nga at kumain na tayo. Pero wait, cr muna ako ah! Hintayin mo 'ko."
-
-Pagkaalis nga ni Neon sa harapan ko ay napatingin ako sa teddy bear na binigay ko para sa kanya.
-
-At may naalala ako...
-
-"Teddy bear, huh?" banggit ko habang hawak itong isang brown na teddy bear.
-
-Tumingin ako sa pinsan kong natutulog dito sa kwarto niya. Himbing na himbing ang tulog niya kasi nagpapahinga siya dahil may mataas siyang lagnat.
-
-"Dito pala mahilig ang mahal ko, ano?" pagkausap ko sa pinsan ko at ngumiti ako.
-
-Hanggang sa ginawa ko na nga ang matagal ko nang plano.
-
-Tinakpan ko ng hawak kong teddy bear ang mukha ng pinsan ko.
-
-Oo, ako ang dahilan kung bakit namatay ang pinsan ko. Akala pa ng lahat, binangungot lang siya gawa ng mataas niyang lagnat. Dahil pa sa pagkamatay niya ay nasaktan ang taong mahal ko.
-
-Galit na galit talaga ako sa kanya!
-
-Deserve lang nitong mayabang na pinsan ko ang mamatay. Inagaw niya lang naman ang lahat sa akin lalo na ang atensyon ng pamilya namin tapos pati na rin si Neon ay inagaw niya sa akin.
-
-Nandoon na ako eh, malapit na! Kaso nagulat na lang ako na sila na pala nung graduation namin.
-
-Minsan lang ako magkagusto nang ganito kalala, inagaw pa ng ungas! Ako ang mas nauna kay Neon. Ako!
-
-Kaya ngayong napagtagumpayan ko nang makuha si Neon after ng pinaghirapan ko sa loob ng four years ay akin na talaga siya.
-
-Nakuha ko na si Neon.
-
-Nakangisi tuloy ako rito sa teddy bear na hawak ko na para sa mahal ko. Nakakatuwa na gusto niya palang bigyan ko siya nito.
-
-Edi bibigyan ko pa siya nang marami nito.
-
-Lalo pa't kami nang dalawa. Hehe!`,
-
-            },
-
             {
         title: "Tunay Na Babae",
         date: "February 1, 2025",
@@ -464,5 +330,8 @@ Kahit papaano ay panatag na ako. Kung gugustuhin ko man ulit magsulat ay madali 
 Kaya talagang totoong may pag-asa. Dahil balang araw ay magiging published author din ako. At dahil diyan, mas mapapatunayan kong akin lahat ng mga gawa ko.`,
 
     },
+
+
+    
 
 );
