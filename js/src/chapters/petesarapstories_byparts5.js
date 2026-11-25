@@ -37,7 +37,7 @@ Nainis ako. Kumulo ang dugo ko. Wala pa rin siyang pagbabago kasi mapang-asar pa
 
 Ewan ko ba kung bakit ko naging boyfriend ito dati tapos ewan ko ba kung bakit nagkaroon kami ng anak nito! Naalala ko, nag-stop ako ng one year sa pag-aaral kaya na-delay ako dahil nabuntis ako.
 
-Nabuntis ako ng lalaking ito dati! Batang Ina at Ama kami nito ni Blaster at naghiwalay kami dalawang taon na ang nakararaan. After six years na relasyon namin ay naghiwalay kami dahil may ibang babae siya na naka-s*x dati. Niloko niya ako!
+Nabuntis ako ng lalaking ito dati! Batang Ina at Ama kami nito ni Blaster at naghiwalay kami dalawang taon na ang nakararaan. After six years na relasyon namin ay naghiwalay kami dahil may ibang babae siya na naka-sex dati. Niloko niya ako!
 
 "Narinig ko 'yung kaibigan mo, sinabi na nagpunta lang ako rito para putukan kita," sabi niya tapos tumawa pa siya.
 
@@ -233,7 +233,7 @@ Napanganga na nga ako at saka ko sinunggab ‘yung mainit at malaki niyang karga
 
 Hindi ko alam ngunit may biglang sumapi sa akin kasi nung nagtagal-tagal na pinaglalaruan ko ito sa bibig ko ay tuluyan ko nang subo-subo na puno ng laway. Napaupo na nga siya sa isang upuan habang ako ay nakaluhod pa rin.
 
-“Mouthf*ck kita, puwede?” tanong niya.
+“Mouthfuck kita, puwede?” tanong niya.
 
 Tumigil nga ako sa pagsubo ng kargada niya upang sagutin siya nang biglang ibalik niya ‘yung kargada niya sa bunganga ko’t kinasta-kasta ito! Grabe! Ganito pala feeling ng mabulunan!
 
@@ -299,8 +299,6 @@ Nang matapos ang practice, agad na lumapit sa akin si Perlyn.
 
 “Hindi na ako magpapaligoy-ligoy, Jyriel. May feelings na ako sa’yo. Gusto kita. Puwede ba kitang maging boyfriend?”
 
-@petewrites2025
-
 Nanlaki ang aking mga mata sa sinabi niya!
 
 “Ah, Perlyn—”
@@ -322,8 +320,6 @@ Nagkatinginan lamang kami ni Arklerh sa pagkakataong ito.
 “Ah, ganun ba? Mabuti naman, Beshie. Kayo talaga ang para sa isa’t isa, ‘no!” sabi ko at pilit na ngumiti sa kanila. Hindi ko nga makayanan ang tingin sa akin ni Arklerh kaya umiiwas ako ng tingin. “Ah, Perlyn, balik lang ako ah. CR muna ako.”
 
 Hindi ko na nga sila inantay pang magsalita bagkus ay umalis na ako sa harapan nila. Dumiretso ako sa CR, at dito ako umiyak dahil masakit din pala ito sa damdamin.
-
-@petewrites
 
 Sa totoo lang, natagalan ako sa pag-move on dahil talagang masakit. Ngunit matapos ang pageant namin, na kami ang nanalo, ay tuluyan ko na ngang kinalimutan si Arklerh. Hindi ko na dapat siya pagsayangan ng panahon dahil sa lungkot sapagkat wala naman kaming pag-asa.
 
@@ -362,8 +358,6 @@ Nanlambot ako sa sinasabi niya! Parang nadadala ako!
 “Halika na, miss na kita, miss ka na namin nito. Isubo mo na!”
 
 Napalunok naman ako roon dahil nga may nararamdaman akong namimiss ko si Arklerh. Nakakotse nga siya ngayon kaya rito namin sa kotse niya ginawa ang unexpected na naman na pangyayari. Pinaandar at tinigil niya ang kotse niya malayo sa palengke kanina.
-
-@petewrites2025
 
 “Damn, na-miss ko bunganga mo!”
 
@@ -421,19 +415,278 @@ Kaya bago ako mawala sa mundo, gusto ko lang sabihin na mabuti akong tao dahil g
 };
 
 window.storyDatabase["petesarapstories_byparts7"] = {
-    title: "SOON",
+    title: "Roadi",
     category: "petesarap",
+    date: "June 2025",
     genre: "",
     description: "",
     status: "Completed",
     parts: {
-        "Soon": {
-            date: "",
-            content: `SOON`
+        "1st part": {
+            date: "June 19, 2025",
+            content: `Hi guys! Ako nga pala si Roadi at bisexual ako or hindi ko alam baka bading na talaga ako then I’m here lang because I just want to share my masarap but nakakalokang sexperience with my ex online boyfriend that named Joshmin.
+
+Dalawang buwan ko na siyang ka-chat and one week na kaming mag-boyfriend. Nakilala ko lang siya sa facebook dating app. Ang harot nga niya at ang libog, but it’s okay kasi ganoon din naman ako! Taga Taguig siya habang ako naman ay taga Makati. Second year college na ako at BS Economics ako habang si Joshmin ay third year college, AB Sociology.
+
+And now this is our time to meet up! Malakas ang loob niya kasi malapit lang kami sa isa’t isa, pero ako kahit na alam kong malapit kami sa isa’t isa is it feels so slightly LDR pa rin kami kasi hindi naman kami nakatira sa iisang bahay. At isa pa, kinakabahan ako kasi nga first meet namin ito at parang nag-e-expect pa nga ako ng kabastusan sa kanya! Hui!
+
+“Nasaan ka na po, love love?” tanong ko sa call habang naghihintay ako sa waiting shed ng school namin.
+
+[Malapit na po, love love ko.]
+
+Naka-move it nga raw siya ngayon at mukhang paparating na nga siya. Pinatay ko na nga ‘yung tawag at nanatili na lang ako sa paghihintay rito. Feel na feel ko na ang excitement at kaba ko and at the same time ay libog! Sana may mangyari sa amin, charot! Sobrang bading na bading ko naman masyado rito!
+
+And now ito na, may natatanaw na akong isang lalaking gwapo na matangkad na parang papalapit sa akin. Nang makita ko ang itsura ng lalaki ay na-shock ako kasi ito na nga ‘yung boyfriend ko!
+
+“Roadi? Love love, ikaw na ba ‘yan? Ang aking daan?” masayang tanong sa akin ng lalaking ito nang tuluyan siyang makalapit sa akin.
+
+“Yes, love love, ako ito! Si Roadi,” masayang sagot ko sa kanya at saka ko siya niyakap sa nape niya. “Finally, nag-meet na rin tayo, Joshmin love love ko,”
+
+Niyakap niya naman ako sa baywang ko. “Ako rin, masaya ako, love love!” aniya at saka na nga kami nagkaalisan sa pagyakap. “By the way, nasaan bahay ninyo?”
+
+“Why?” nakangiti kong tanong.
+
+“Kasi ‘di ba… Sa place mo? Sa kwarto mo?”
+
+“Huh? Ano’ng sa kwarto ko?” nagtataka kong tanong sa kanya but nag-e-expect ako ng something na huy alam n’yo na ‘to!
+
+“Wala pa akong pera pang-date natin tapos ikaw rin hindi ba ay wala?”
+
+“What do you mean? Doon tayo sa kwarto ko mag-date?” tanong ko nga at tinignan ko siya sa mata niya nang makahulugan. “You mean ay agad-agad?!”
+
+Tumango-tango siya habang nakangiti na nakakaloko. “Yeah… Ayaw mo ba? Biruan natin ‘yon sa chats, so what if totohanin natin?”
+
+“Sure ka? Seryoso?” mga tanong ko na hindi makapaniwala. “Nandoon sina Mama sa bahay…”
+
+“Weh? So paano ‘yan? Saan na lang tayo?”
+
+“Hindi ko alam eh, magpalamig na lang tayo sa mall ganoon? Or gawan na lang natin ng paraan.”
+
+“Sa bahay mo na lang po, love love, gawan mo po ng paraan,” aniya at ngumiti.
+
+So sinunod ko nga siya, nag-tricycle lang kami hanggang sa makarating na kami sa bahay namin and shocks! Nandoon sina Mama at Papa sa loob ng bahay pati ‘yung dalawa kong kapatid! Hindi ko pa kayang magpakilala ng boyfriend sa kanila kahit alam nilang ganito ako!
+
+“Paano na ‘to?” tanong ko nga sa kanya. Nagkatinginan nga kaming dalawa hanggang sa may naisip ako! “Tara sa likod. Doon tayo dumaan.”
+
+“May daan pala kayo roon?”
+
+“Oo, dalawa pinto namin,” natatawa kong sagot.
+
+Nagpunta nga kami ni Joshmin sa likod at ang pinto na pinasukan namin ay patungo sa CR namin at lababo na malapit sa kwarto ko rin! Suspense pa nga ang pagpuslit ko kay Joshmin dito hanggang sa tuluyan na kaming makapasok sa kwarto ko! Mabuti na lang at nandoon silang lahat sa sala! Shet!
+
+Isinandal nga ako ni Joshmin sa pintuan at naghalikan nga kaming dalawa hanggang sa dumiin at bumilis ito nang may tunog! Sabik na sabik ako sa kanya kaya sobrang higop ng paghalik ko rin sa kanya. Our banatan and jokes make come true! Totoo na nga talaga ‘to!
+
+“You’re so wild,” aniya.
+
+“Ayaw ko na kasi magpaligoy-ligoy,” sabi ko. “Damn, sarap ng lips mo, love love!”
+
+Napangiti siya. “Really? Masarap?”
+
+“Yes, ‘yung halik ko ba? Masarap?”
+
+Hindi nga niya ako sinagot bagkus ay hinalikan niya lang ako ulit hanggang sa hubarin na niya ang suot niyang uniform. Nang mapansin kong nahihirapan siya habang naghahalikan kami ay tinulungan ko siyang hubarin ito until na-feel ko ang chest at abs niya! Hinawakan ko tuloy ito at kumapit pa ako sa shoulder niya.
+
+Sarap na sarap ang halikan namin na ‘yon hanggang sa nagkatitigan kami pareho nang hingal na hingal.
+
+“What’s next?”
+
+Sa tanong niya ay alam ko ang tinutukoy niya, but I feel so kinakabahan! Parang umaatras ako sa ngayon!
+
+“I think I’m not ready sa ano… Sa fuck,” sabi ko nga sa kanya na natatakot.
+
+“It’s okay,” aniya at saka niya ako hinalikan sa labi ko sabay tingin ulit sa akin. “Halikan na lang tayo magdamag?”
+
+“Sure ka?”
+
+“Yeah… Ayaw mo naman magpa-fuck kasi eh,” sabi niya sabay kamot sa kanyang ulo.
+
+“Sa susunod na lang, promise, hindi kasi ako ready and akala ko date lang gagawin natin tapos ito pala ang gagawin pala natin” sabi ko nga.
+
+Tumango-tango siya. “Hmmm.”
+
+So ang ginawa na nga namin ay kumapit ako sa batok niya at saka kami muling nagkahalikan nang mariin hanggang sa makarating kami sa kama ko, kumalong ako sa hita niya habang nagkakahalikan kaming dalawa.
+
+“Sarap ng halik mo, love love,” sabi ko.
+
+“Yeah… You too,” aniya at saka niya muli ako hinalikan.
+
+30 minutes pa yata namin ginawa ang halikan namin na ‘to na sinamahan na rin namin ng yakapan hanggang sa matapos na namin ito at nagkakuwentuhan na lang kami tapos mayamaya nga rin ay napagdesisyunan na rin niyang umuwi.
+
+Nag-book siya ng ride kung kaya’t nung naroon na raw iyon sa may kanto namin ay pinuslit ko nga ulit siya palabas sa bahay hanggang sa magkapaalamanan na kami’t umalis na siya.
+
+So ang nangyari, nagkunwari na lang akong pumasok sa bahay na parang walang nangyari. Kunwari kakauwi ko lang.
+
+Tas ayon, nag-usap na lang ulit kami ni Joshmin sa chat na gawin na lang namin iyon sa susunod nang planado na.
+
+So hanggang dito na lang muna at sa part 2 na lang po, salamat! Wait n’yo na lang po lahat, may twist pa!`
         },
         "2nd part": {
-            date: "",
-            content: ``,
+            date: "June 20, 2025",
+            content: `Hi, love! May surprise ako sa ‘yo!” sabi sa akin ni Joshmin nang magkita kami ulit sa labas ng school ko.
+
+“Ano iyon?” nagtatakang tanong ko. “Surprise ba ‘yan para sa first monthsary natin?” tanong ko ulit.
+
+“Secret!” sabi niya. “Wait lang, kukunin ko lang sa bag ko,” aniya, at may kinukuha na nga siya sa bag niya. Gusto ko mang tingnan iyon, ngunit mas ginusto ko rin sa sarili ko na huwag na lang tingnan at ma-surprise na lang ako. Hanggang noong may nilabas nga siya—isang bulaklak, isang rosas.
+
+“Charan! Surprise!” masayang sabi niya sa akin at saka niya iniabot sa akin ang rosas.
+
+Ito ang aming first monthsary, at masaya naman ang relasyon namin. Napakasimple lang ng bigay niya sa akin ngayong first monthsary namin, pero pakiramdam ko ay flattered ako, happy, glad, joy, at lahat ng kahulugan ng kasiyahan ay nararamdaman ko ngayon. Papahalagahan ko itong bulaklak na ‘to.
+
+At dito nga’y napagdesisyunan na namin na magpunta sa bahay kasi nagkataong walang tao roon. May meeting daw ‘yung mga kapatid ko; dahil dalawa ang kapatid ko, dalawa rin sila nagpunta ni Mama at Papa sa school nila. Actually, ang mga kapatid ko ay high school pa.
+
+Pagkarating namin dito sa bahay, kaagad niya akong hinalikan nang kay sarap. Ilang beses na naming nagawa ito, at binigyan ko na rin siya ng oral intercourse. Ang sarap lang isubo ng kargada niya, kaya na-miss ko talaga! Totodohin ko nga ngayon kasi first monthsary namin ‘di ba.
+
+And now handa na nga akong magpasakop to the max sa kanya! Napag-usapan na rin naminnn at sinakto talaga ng panahon na walang tao rito sa bahay!
+
+“Ugh, love love, nakagat mo!” reklamo ko nang maramdaman kong kinagat niya ang labi ko.
+
+“Sorry, pakagat lang naman po sa iyong labi, love love,” natatawa niyang sabi.
+
+“Sakit lang po eh.”
+
+So ito na nga, hinalikan na naman niya ako at pinisil niya ang aking pwet! Grabe nga’t pinalo pa niya! Napabitaw tuloy ako sa paghalik sa kanya.
+
+“Are you ready?” he asked matapos ang kiss namin sa isa’t isa.
+
+“Oo, ready na ako… Wait mo lang ako sa kwarto ko, linis lang ako.”
+
+Well, napag-aralan ko na ang paglinis and this is it! Gagawin ko na! Hindi nga ako kumain simula kaninang umaga and now I will clean my inside na!
+
+Nang matapos ko gawin lahat ‘yan sa cr ay pumasok na nga ako sa kwarto and nakita ko na nga siyang handang-handa na! Nakahubad siya ng damit tapos naka-boxer lang siya! Napatingin pa ako sa kwintas niya na krus and he looked so hot lang!
+
+Lumapit na nga ako sa kanya at saka nga ‘ko lumuhod.
+
+Hindi lang basta subo ang ginawa ko sa joshy niya. Oh yes! Joshy ang tawag niya sa kanyang malaki na pinkish na hotdog niya na nakakabit sa gitna ng magkabilang hita niya! Ugh!
+
+Sinipsip ko rin ang joshy eggs niya kaya super sarap ng ungol niya, he can ungol na malakas nga kasi wala namang tao rito.
+
+“Ugh! Fuck! Sobrang sarap!” ungol niya ngang malakas nang isubo-subo ko naman ang ulo ng joshy niya. “Ayan talaga ang favorite mong subuin, ano? Sarap!”
+
+Sinubo-subo ko lang ang joshy head niya tapos minsan ay nilalaliman ko ang pagchupa rito. Deepthroat, chupa hanggang sa subo ko na lang ang ulo niya nang paulit-ulit, paulit-ulit at ulit-ulit! Ulo kasi ang favorite kong subuin at dilaan, parang ice cream at lollipop lang!
+
+May sound effects pa nga ang pagsamba ko rito sa joshy niya kaya ungol na ungol siya. Ganado nga ako lalo na subuin talaga ito dahil sa pag-ungol niya nang super hot!
+
+“Doon tayo sa sala ninyo, love love.”
+
+“Sige,” sagot ko at saka ako tumayo.
+
+Ngunit hinawakan niya bigla ang aking braso. “Wait…” salita niya. “Ganito gawin mo.”
+
+Tumayo nga siya at inilapit niya si joshy niya sa bunganga ko! Wala akong idea sa gagawin namin at nang magsimula siyang naglakad paatras ay na-gets ko ang ibig niyang sabihin!
+
+Gusto niyang maglakad ako nang paluhod habang subo-subo ko ang joshy niya tapos ipataas-baba ko sa bunganga ko na para akong gutom na naghahabol at hapit upang makain ko ang favorite pagkain ko!
+
+“Ugh sarap!” ungol niya nung naglalakad na nga ako habang nakaluhod. “Subo mo!”
+
+Ginalaw-galaw ko ‘yung ulo ko hanggang sa nanlaki ang mata ko nang kanyang diniin ang ulo ko sa joshy niya kaya sagad na sagad ang joshy niya sa bunganga ko! Naluha nga ako rito at napapikit, tiniis ko lang ito kahit medyo hindi ako makahinga!
+
+Nung makarating kami rito sa sofa ay saka niya tinanggal sa bunganga ko ang joshy niya kaya umubo-ubo ako! Bumawi ako ng hininga.
+
+“Sorry, love love, nasarapan lang.”
+
+Ngumiti lang ako sa kanya at saka ko na muling sinubo-subo ang joshy niyang sobrang basa ng laway ko habang hawak-hawak ko ito at tinataas-baba gamit ang dalawa kong kamay.
+
+“Okay na ‘yan, let’s fuck na.”
+
+Ngumiti nga ako sa kanya at saka ako nag-ready. Nagsuot muna siya ng condom sabay pahid ng lube rito maging sa holey roadi ko. Ito naman ang tawag niya sa butas ko: holey roadi.
+
+“Okay na po?” tanong ko.
+
+“Yes, sakay ka na.”
+
+Huminga muna ako nang malalim at saka ko tinignan ang tayong-tayo at tigas na tigas niyang joshy! Kinabahan ako at nanginig kasi nga papasok iyan sa holey roadi ko! My god! Kakayanin ko ba?
+
+“Bakit hindi ka pa po sumakay? Aalalayan kita, love love, sobrang linis mo pa naman at ang sarap na po tirahin ikaw,” aniya na nakapagpagaan sa akin.
+
+So ito na nga, kumandong na nga ako sa kanya at siya na ‘yung pumasok ng kanyang joshy sa holey roadi ko! Napasigaw nga ako sa sakit at hapdi!
+
+“Ugh! Dahan-dahan lang!” sabi ko.
+
+“Ulo pa lang po ‘yan, but wait, lagyan ko pa lube po,” aniya.
+
+Dinagdagan niya nga ng lube ang holey roadi ko kaya naisagad niya ang joshy niya rito at impit akong napasigaw. Yumakap lang ako sa kanya at nagtago ako sa leeg niya kasi naiiyak ako sa sakit at hapdi! Hinalik-halikan niya naman ang leeg ko at pisngi ko kaya natitiis ko.
+
+“Sa una lang ‘to,” aniya.
+
+“Opo… Ugh! Sakit po…”
+
+Gusto ko ngang tanggalin ito, pero pinigilan niya ako.
+
+“Huwag mo nang tanggalin, nandito na ‘to.”
+
+Tiniis ko na lamang ‘yung nararamdamang sakit at hapdi. Hinalikan nga ako ni Joshmin sa labi ko, pisngi ko at leeg ko sabay ini-squeeze niya ‘yung dibdib ko at nilalaro niya pa ‘yung nipples ko kaya nakakaramdam ako ng pagkasarap sa pakiramdam. Oh tila nakakabawas sa sakit at hapdi! Damn it! Nakakaulol sa sarap!
+
+Hanggang sa ito na nga’t bumayo na siya at nakaramdam na ako ng pleasure roon kaya umuungol na lang ako habang niyayakap ko siya nang mahigpit.
+
+Iniisip ko na lang na ang hot ni Joshmin kasi may abs siya, biceps at ‘yung balikat niya ay matigas kaya nababawasan ‘yung sakit.
+
+“Ugh!” ungol ko. “Sarap na po…”
+
+“Sarap na po? Hmm?”
+
+“Hmmm… Ugh! Sobrang sarap…” sagot ko.
+
+Nagulat ako nang kanyang bilisan ang pagbayo sa akin kaya napasigaw na ako sa naghahalong sarap, hapdi at pleasure! Ganito pala ‘yung feeling at uungol ka talaga sa sarap!
+
+Na-realize ko na… Uungol ka talaga nang malakas kapag tinitira ka nang mabilis, pero mababaliw ka naman sa pag-ungol kapag yung tumitira sa’yo ay mahal mo at mahal ka tapos mabilis pa.
+
+-petesarap’s random stories 🔞-
+
+Nararamdaman ko ‘yung pangalawang nasabi ko kaya nung nagtagal-tagal ay para na akong nababaliw talaga sa pagtira niya sa akin. Ungol lang ako nang ungol nang malakas no’n kasi sobrang bilis din ng pagtira niya sa akin! Turbo talaga! Pawis na pawis nga kami sa tagpong ito!
+
+“Ugh! Fuck! You’re so big, love love! Nararamdaman ko… Ugh!”
+
+“Sshhh…”
+
+Mariin niyang idiniin ang kamay niya sa bibig ko at mas binilisan pa niya ang pagtira niya sa akin! Shit! Sobrang sarap!
+
+“Lalabasan na ako…” namamaos niyang sabi. “Shit! Roadi…”
+
+Tinanggal na niya ‘yung joshy niya sa holey roadi ko at saka niya rin mabilis tinanggal ‘yung condom niya. Pinanood ko na lamang siyang magtaas-baba ng kanyang joshy gamit ang kamay niya at nang pumutok ito sa tiyan ko ay ngumiti siya sa akin.
+
+“Mas nauna ka na pala labasan sa akin, love love,” nakangiti niyang sabi. “Nagsama tuloy sa tiyan natin…”
+
+“Weh?” hindi ko makapaniwalang sabi. “Hindi ko po naramdaman, love love.”
+
+“It’s okay, sarap na sarap ka po eh.”
+
+Nangiti ako at saka nahiya. “Sobrang sarap po.”
+
+“Next time ulit?”
+
+“Opo.”
+
+Tumango-tango ako saka ko siya niyakap tapos hinalikan ko siya sa cheeks niya nang marami.
+
+“Mamaya na tayo maglambingan, linis muna tayo. Lagkit.”
+
+After niyang sabihin ‘yan ay sabay na kaming nagpunta sa cr upang magbanlaw na at maglinis.
+
+Nakakatawa nga eh kasi pinasubo niya pa sa ‘kin ‘yung joshy niya rito sa cr, edi sinubo ko na lang kasi feeling ko gutom pa rin ako tapos after niyan ay pinutukan niya na lang ako sa mukha ko.
+
+Ganito lang naman kami not until after three months, I found out na nagche-cheat pala si Joshmin sa akin! Inamin niya sa akin na nakikipag-sex siya sa iba habang kami pa dahil sa hinahanap-hanap niya raw ang init at sarap daw ng pakiramdam na ‘yon, kaya sobrang hate na hate ko siya. May nabuntis pa nga siyang isang babae na tinira niya kaya talagang hiniwalayan ko na siya.
+
+Grabe ang trauma na inabot ko sa kanya, sobrang sakit kasi nagche-cheat pala siya sa akin nang patago. Kaya hanggang sa nagka-edad ako ay wala akong naging kasintahan dahil bukod sa natatakot ako ay nakaka-down sa pagkatao ko. Pinamukha niya sa akin na hindi ako sapat at wala akong kwenta samantalang ako ay mahal na mahal ko siya at ginawa ko pang iwan ang lahat para sa kanya.
+
+Ako muli si Roadi, ito lang naman ang kuwento ko. Maraming salamat.
+
+End.`,
         }
     }
+};
+
+window.storyDatabase["petesarapstories_byparts8"] = {
+ title: "",
+    date: "",
+    category: "",
+    genre: "",
+    status: "",
+    description: "",
+    parts: {
+        "": {
+            date: "",
+            content: ``,
+
+        }
+    }   
 };

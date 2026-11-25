@@ -56,7 +56,7 @@ Palagi nga siyang ganoon, puro cold hanggang sa hindi na nga siya nag-chat sa ak
 
 Sobrang dami na ng chats and calls ko sa kanya at ang sakit-sakit lang dahil tila ghinost na niya ako.
 
-O baka ayaw na niya sa akin? Ayaw na niya ako siguro kausap, tila lahat-lahat na'y ayaw niya na sa akin. F*ck!
+O baka ayaw na niya sa akin? Ayaw na niya ako siguro kausap, tila lahat-lahat na'y ayaw niya na sa akin. Fuck!
 
 Kinumusta ko siya sa pamilya niya nung hindi na ako nakatiis na puntahan sila para itanong si Von. Kaso nakakagulat dahil sila rin daw ay hindi na ma-contact ang kanilang anak.
 
@@ -78,11 +78,11 @@ Sumama nga ako sa pamilya ni Enzo paluwas ng Cebu at para makita nga namin siya.
 
 "Ganoon na lang 'yon, Dok?!" galit na tanong ni Tito.
 
-Ako na nga ang nagtanong. "Paanong aksidente po, Dok?! Aksidente ba talaga o pinat*y?"
+Ako na nga ang nagtanong. "Paanong aksidente po, Dok?! Aksidente ba talaga o pinatay?"
 
 "Ayon po ang imbestiga nila at pinapabilin sa amin na sabihin na lang sa inyo, but kung hindi kayo naniniwala. Kayo na lang magpunta sa police station para mapaliwanag. Excuse me," huling sabi ng Doktor sa amin bago siya umalis.
 
-Kung kaya't umiyak na lang ako nang umiyak nung nalaman namin na totoo pala 'yon. Sabi ng mga pulis sa amin ay walang galos at kung ano raw na pinat*y si Von or what nung t-in-est nila ang katawan ni Von kahapon lamang daw, basta raw ay nakita na lang daw nila 'yon nung nakaraang dalawang araw sa isang malayong bangin na patay na dahil daw nangangamoy na at may bike pa raw roon sa tabi niya pa.
+Kung kaya't umiyak na lang ako nang umiyak nung nalaman namin na totoo pala 'yon. Sabi ng mga pulis sa amin ay walang galos at kung ano raw na pinatay si Von or what nung t-in-est nila ang katawan ni Von kahapon lamang daw, basta raw ay nakita na lang daw nila 'yon nung nakaraang dalawang araw sa isang malayong bangin na patay na dahil daw nangangamoy na at may bike pa raw roon sa tabi niya pa.
 
 Ang hirap. Ang sakit kasi walang nakakaalam na naaksidente't namatay na pala siya.
 

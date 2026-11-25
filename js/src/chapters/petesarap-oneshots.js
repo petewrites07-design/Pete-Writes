@@ -3644,7 +3644,7 @@ Hanggang sa after ng four months is nagkabalikan na us ng boyfriend ko kasi maru
     },
 
                     {
-        title: "Oper's Boyfriend",
+        title: "Oper's Boyfriend (bxb)",
         date: "May 23, 2026",
         status: "Completed",
         content: `Trigger Warning: Sensitive and heavy story. Read at your own risk.
@@ -3705,8 +3705,6 @@ Hindi bale na. Mga kaklase ko lang sila at nakilala ko lang naman sila sa buhay 
 
 Kakapal ng mukha nilang tawagin din akong baliw, delusional at may schizophrenia dahil wala naman daw akong boyfriend. The fuck!
 
-@petewrites2026
-
 Hindi ko na lang sila pinapakinggan at pinapansin, basta masaya ako sa boyfriend ko na nasa tabi ko ngayon.
 
 “Huwag mo na silang pansinin, Oper ko. Mas maigi pang low-key tayo, sabi ko naman sa ‘yo eh. Hindi sila importante, tayong dalawa lang ay sapat na,” advise sa akin ng boyfriend ko nung ni-rant ko na sa kanya ‘yan.
@@ -3754,8 +3752,6 @@ Napatingin ako sa cellphone ko na nakasandal sa may cabinet para magpaakit at ma
 “Ugh! Please, adore me! Hold me and explore me too! I’m so fucking horny!”
 
 Kinuha niya ako para makasandal sa kanyang buong katawan at muscles niya. Sobrang sarap na sakupin at ikulong niya ako sa bisig niya. Ugh! Ang sarap!
-
-@petewrites2026
 
 Naka-tatlong rounds din kami hanggang sa nakatulog na kami after niyan.
 
@@ -3847,7 +3843,7 @@ Kaysa rin sa ibang sinasabi ng utak ko.`
     },
 
                     {
-        title: "Vercelli",
+        title: "Vercelli (bxb)",
         date: "June 13, 2025",
         status: "Completed",
         content: `Ako si Vercelli at may crush ako na roommate best friend ko, si Rome. Mag-best friend kami nito mula pa noong elementary kami kasi Ninang ko ang Mama niya at Ninang niya naman ang Mama ko.
@@ -3888,8 +3884,6 @@ Nag-alala ako sa kanya kung kaya’t nilapitan ko siya at hinaplos-haplos ko ang
 
 Nakatingin lamang ako sa kisame habang nakikinig ng kwento ay rant niya hanggang sa mapatingin na lang ako sa kanya dahil may ginawa siya sa akin! Bigla niya akong niyakap!
 
-@petewrites2025
-
 “Miss ko na si Sioren, Ver…”
 
 Hindi ko naman siya matulak kasi nagugustuhan ko ito.
@@ -3905,8 +3899,6 @@ Bigla akong nanlambot kaya hinayaan ko na lamang siyang yakap niya ako. Magka-cu
 Hanggang sa hindi inaasahan ay bigla kong na-touch ‘yung dapat hindi ko mahawakan pero nahawakan ko!
 
 “Hawakan mo na kung gusto mong hawakan,” bulong niya nga. 
-
-@petewrites2025
 
 “Huh? Ang alin?”
 
@@ -3966,8 +3958,6 @@ Nagulat na nga lamang ako nang bigla na niyang maiputok ang gatas ng junior niya
 
 Umupo na nga kaming dalawa sa kama niya pagkatapos. Nag-usap na nga kaming dalawa.
 
--petesarap’s random stories 🔞-
-
 “Sarap?” tanong nga niya.
 
 “Oo, Rome,” sagot ko. “Thank you.”
@@ -3995,5 +3985,1885 @@ Ayon nga’t para makalimutan ko siya, nagpunta na lang ako sa Italy pagka-gradu
 Hanggang dito lang ang aking kwento. Maraming salamat. Thank you rin, petesarap’s random stories.
 
 End.`
+    },
+
+                        {
+        title: "Ralph x Allene (Straight)",
+        date: "June 12, 2025",
+        status: "Completed",
+        content: `Pagkatapos kong iputok ang tamod ko sa kanyang mukha ay binuhat ko siya papunta sa kama. Humiga siya sa dibdib ko.
+
+“Ang sarap talaga, Ralph.” Sinipsip niya pa ‘yung daliri niya.
+
+Napangisi ako sa kanya.
+
+“Buhay pa din oh,” tukoy ko sa etits kong tayo na tayo pa rin.
+
+“Gusto mo pa ba?” tanong niya nga at tumango ako.
+
+Nagpunta siya sa aking kargada at gulat ako nung kanyang isubo ito nang kay bilis at kay sagad! Napatingala ako sa sobrang sarap!
+
+“Baby, bilisan mo… Gusto na kitang yakapin,” nasasarapang sabi ko pero pinagpatuloy lang niya ito.
+
+Fuckbuddies kami ni Allene. Mga ilang buwan na rin subalit unti-unti ko na siyang minamahal.
+
+Bumalik na siya rito sa dibdib ko at niyakap ako pagkatapos niya akong chupain. Hinalikan ko siya sa noo niya.
+
+“Allene,” tawag ko sa kanya.
+
+“Yes?”
+
+“I love you.”
+
+Nasabi ko rin ang gusto kong sabihin.
+
+“Why did you say that? Hindi ba ang sabi ko no love and attach? Hindi tayo mag-e-expect sa isa’t isa ah!”
+
+“I love you and I’m sure with it.”
+
+Umirap siya. “Libog lang ‘yan!”
+
+“Mahal kita!” lakas loob ko nang sabi kasi ayaw ko na siya mawala.
+
+“Sorry…” I felt pain when she said that. “I don’t love you. I want to have sex only with you. Katawan at malaki na matabang etits mo lang ang habol ko. Pero dahil sa sinabi mo… Huwag na nating ituloy ‘to.” Bigla siyang tumayo at kinuha ang mga damit niya.
+
+Napaluha ako dahil ito lang pala ang habol niya—ang kargada ko! Ang sakit din pala kasi ito lang ang gusto niya sa akin.
+
+“Wait.”
+
+“Bakit?”
+
+“Kapag naging tayo. Habang buhay na sa ‘yo itong katawan at etits ko.” Hindi ko alam bakit ito ang sinabi ko.
+
+Hinawakan ko ang kargada ko at saka ako lumapit sa kanya tapos pinasok ko kaagad itong etits ko sa kanya nang walang warning.
+
+“Ah, fuck!” daing niya.
+
+Gumalaw ako nang kaunti. “At habang buhay natin magagawa ‘to,” sabi ko pa at saka ko nilakasan ko ang pagbayo sa kanya nang may gigil. “Will you be my girl?” tanong ko sa kanya habang binabayo ko siya.
+
+“P-pero a-ayoko… Ahh! Ugh!” Mas nilakasan ko. “Masasaktan ka lang sa akin… Ugh… a-ayokong magmahal dahil ito lang naman ang habol ko. Holy shit!”
+
+Mas nanggigil ako sa kanya kaya nilakasan ko ang pagbayo ko sa kanya kaya sobra rin ang ungol niya! Sobrang lakas! Ang landi pa ng pagkakakapit niya sa akin tapos dikit na dikit ang dede niya sa matipuno kong katawan.
+
+“Lalabasan na ako,” nahihirapang ungol na sambit ko.
+
+Lumuhod siya at kanya niyang sinubo ang kargada ko. Halata sa kanyang hapit siya rito at ito lang talaga ang gusto niya. Ang husay niyang chumupa!
+
+Kaya heto. Pumayag ako na ito lang ang habol niya sa akin kaya after many years ay ginagawa pa rin namin ito. May anak na nga kami eh dahil sa walang hanggan naming totnakan eh! Kasi nabuntis ko siya. Hehe!
+
+“Mahal na rin kita, Ralph. Na-realize kong gusto kita kasama habang buhay at ‘yong anak natin,” sabi nga ni Allene sa akin habang magka-cuddle kami nang nakahubad.
+
+“Weh? Baka ito lang habol mo ah! Tss! Bakit ngayon mo lang ako minahal? Kung kailan pang nagka-anak tayo.”
+
+Natawa siya. “Baliw. Yes ayang etits mo lang ang habol ko kasi malaki at mataba tapos stress reliever ko ‘yan noon, pero ngayon mahal ko na lahat sa ‘yo, Ralph! Saka oo, we are 19 pa naman noon and now 28 na tayo pareho, matured na ako at swerte na ako sa ‘yo kasi kahit winawasak mo itong epep ko, hindi mo naman winawasak ang puso ko.”
+
+“Oo na! Mahal na mahal din kita.”
+
+Niyakap ko nga siya nang mahigpit.
+
+“Mahal din kita pero mas mahal ko ‘to…”
+
+Dinakot niya nga ‘yung kargada ko kaya natawa ako.
+
+“Ayos lang, at least alam kong mahal mo na rin ako.” Ngumiti ako sa kanya at hinalikan siya sa kanyang labi.
+
+Mabuti na rin na pogi, macho at malaki itong etits ko at least nagawa niyang mag-stay sa akin at natutuhan niya na rin akong mahalin hindi lang dahil sa etits ko.`
+    },
+                        {
+        title: "Radel (bxb)",
+        date: "June 28, 2025",
+        status: "Completed",
+        content: `Kaka-break lang namin ng boyfriend ko kaya naisipan kong magpunta sa bahay ng kaibigan kong lalaki, hindi lang siya basta kaibigan kundi kalandian ko rin dati but it didn’t work lang kaya hindi naging kami.
+
+“Sa akin ka pa rin pala babalik, Radel,” natatawa niyang sabi.
+
+“Kaya nga eh… Bakit kasi hindi na lang maging tayo, Elpri?” asar ko sabay inom ng alak na nilibre niya sa’kin.
+
+“Babae nga gusto ko maging jowa or asawa, lalaki ka rin eh kaya hindi ko talaga kaya.”
+
+“Alam ko naman ‘yan!” natatawang sabi ko. “What if ano…”
+
+“Ano?”
+
+“Mag-kiss na lang tayo, pagbibigyan mo ba ako?” malanding tanong ko.
+
+Bigla ngang nagbago ang reaksyon ng mukha niya, tumingin nga siya saglit sa akin hanggang sa tumango na lang siya habang kagat-kagat ang sariling labi.
+
+So I grab the opportunity kaya naman ako na ang lumapit sa kanya then kissed him until it gets torridly. Napayakap nga ako sa nape niya at malandi akong dumikit sa kanya.
+
+“Wait, do you want sex ba?” tanong niya pagkabitaw niya sa kiss namin.
+
+“You want? Ready naman ako magpa-fuck and that’s great idea para naman mabawasan ang sakit sa puso ko.”
+
+“I’m your last option, ano?” natatawang tanong niya.
+
+Nginisian ko siya at saka nga ako bumalik sa labi niya. Nag-kiss na naman kami hanggang sa maging mariin, mabilis at malalim. Napapaungol ako sa gitna ng halikan namin.
+
+“Uhm… Sarap ng lips mo talaga, Elpri.”
+
+“You too, love,” halos pabulong niyang sabi.
+
+“Love?” taka kong tanong sa kanya.
+
+“Why? Ayaw mo ba?”
+
+“Love rin kasi tawag sa akin ng ex ko eh,” sabi ko at umiwas ako ng tingin sa kanya.
+
+“Well he’s not your love anymore at nandito ako sa harapan mo, ako na lang ang tawagin mong love.”
+
+“Akala mo naman papanindigan mo ‘ko talaga!” natatawang asar ko sa kanya.
+
+“What if kaya ko?”
+
+“Sus!” Marahan ko nga siyang tinulak sa dibdib niya.
+
+“Ito lang kasi ang kaya ko, love,” bulong niyang sabi sa akin at bumalik siya muli sa labi ko kaya nag-kiss na naman kami.
+
+Nag-kiss din kami sa neck namin ng isa’t isa hanggang sa buong katawan nung naghubad na kaming dalawa ng damit. I grabbed his dick on his short at matigas na nga ito. Ang tagal na nung huli namin ni Elpri dahil nga nagka-boyfriend ako and now kami na naman ulit.
+
+“Ugh! Ang sarap!” bulong kong ungol nung hinahalik-halikan niya ang leeg ko.
+
+And now we get fuck to each other na. Ako pa rin ang bottom at siya pa rin ang top. Mabilis nga siya umulos at malakas nga siyang tumira sa akin kaya puro moan lang ako at malanding kapit tapos yakap sa kanya. Naging malakas nga ang moan ko dahil sa galing niya kaya tinakpan niya ang bibig ko gamit ang kanyang kamay.
+
+Ngunit hindi pa rin naging sapat ang pagtakip niya sa bibig ko kung kaya’t mariin niya akong hinalikan sa labi.
+
+“Sshhh..”
+
+“Sobrang sarap po!”
+
+“Sobrang sarap, love?” tanong nga niyang pabulong habang nakatingin sa mata ko.
+
+“Yes, love…” ungol kong sagot. “Sobrang sarap! Sobrang sarap! Ugh!” nababaliw kong ungol.
+
+Bigla nga akong nilabasan habang binabayo niya ako at mayamaya nga ay lalong bumilis ang pagbayo niya sa akin.
+
+“Lalabasan na ako…” bulong niyang sabi.
+
+“Ilalabas mo na po?” malanding tanong ko.
+
+“Yeah… I love our raw sex, pero ayaw ko namang iputok sa loob, love,” aniya sabay tingala.
+
+“Sige sige, ilabas mo na po.”
+
+Saglit niya pang binilisan ang pagbayo sa akin bago niya tinanggal ang mahaba at mataba niyang kargada na isa sa pinakagusto kong bagay sa buong mundo.
+
+Pinanood ko ngang labasan siya and that’s so satisfying lang!
+
+Nagsiksikan nga kami rito sa sofa kung saan niya ako tinira. Nakahiga ako sa balikat niya habang ako ay nakasandal sa chest niya.
+
+“I’m so guilty,” agad na sabi niya kaya taka ko siyang tinignan.
+
+“Why?”
+
+“I’m so sorry, Radel… May girlfriend na ako and we’re lowkey lang because she’s religious.”
+
+“What?” nanghihina kong tanong. “Kilala niya ba ako?”
+
+“No… Never kitang kinwento sa kanya,” aniya at saka niya hinalikan ang noo at labi ko. “Secret lang natin ‘to ha? Honestly, I miss you so damn much, Radel. Ang tagal kong walang na-fuck.”
+
+“But this is so wrong, Elpri…”
+
+“This is my choice at nasarapan ako and you don’t have to worry about it kasi hindi mo naman alam na taken ako.”
+
+Napapikit na nga lang ako hanggang sa namalayan kong nakatulog na ako sa bisig niya.
+
+Pagkagising ko nga, wala na siya sa tabi ko ngunit nang makita ko siya ay nginitian niya pa ako.
+
+“Kumusta tulog?”
+
+“Okay lang,” sagot ko. “Uuwi na ako, Elpri ah?”
+
+“Uuwi ka na kaagad? Nagluto pa naman ako.”
+
+“Need ko na umuwi kasi may nakalimutan akong work ko,” pagdadahilan ko ngunit ang totoo ay gusto ko na talagang umalis.
+
+“Hatid na kita?”
+
+“No, kaya ko na…”
+
+“Sunod ulit?”
+
+Ngumiti ako at tumango-tango. “Yeah… Uuwi na ako.”
+
+Simula nang nakalabas ako sa bahay ni Elpri ay iyon din ang paglabas ko na rin sa buhay niya. Nakaka-guilty kasi kahit na nasarapan ako sa masamang ginawa niya ay ayaw ko naman na maging sikreto lang sa kanya! My god!`
+    },
+
+                {
+        title: "Ranzel's Straight Roommate (bxb)",
+        date: "July 27, 2025",
+        status: "Completed",
+        content: `“Ranzel?”
+
+Nagtungo nga ako sa kwarto ng roommate ko kasi may tumatawag sa cellphone niyang naiwan sa lamesa. Mama niya ang tumatawag kaya baka importante.
+
+“Ranzel!” tawag ko nang nasa pintuan na ako ng kwarto niya, kumatok ako nang ilang beses.
+
+Kaya naman napagdesisyunan ko ngang buksan ang pintuan at sakto ngang namatay ang tawag nung pagkapasok ko sa kwarto niya ngunit nagulat ako nang madatnan ko siyang nakahiga sa kama niya’t tulog, topless tapos naka-boxer siya!
+
+Mas nagulat ako nang makita kong may sumilip sa gilid ng boxer niya! Ang lovey dicky niya! Oh my god! Ang laki, pink pa ang ulo!
+
+Dahil nga roon ay lumapit ako sa kanya at saka ko tinignan maigi ang lovey dicky niya sa boxer niya! Damn! Nakakasabik! Tulog naman siya eh, what if hawakan ko kaya? Matagal ko na gustong hawakan ‘yang lovey dicky niya kasi matagal ko na nakikitang bakat ‘yan sa tuwalya niya kapag nakatapis siya minsan kaya talagang pinapantasya ko ‘tong roommate ko.
+
+Ranzel is graduating student while ako ay second year college, pero maalam na ako sa mga R18 scenes! May experience na ako because of play and fun eh. Kaso nung first year pa ako no’n! Si Ranzel na lang ang pinapangarap ko ngayon…kahit straight.
+
+Pero ang hot kasi ni Ranzel eh!
+
+Nakita ko na lang ang sarili kong hinihimas ko na pala ang lovey dicky niya tapos hawak-hawak ko na rin pala! Ang init nga hawakan! Wala na akong choice kung hindi sunggaban na ito at isinubo-subo ko na sa bunganga ko! Wala na akong pakealam kung magising na siya o kung ano man mangyari kasi mahirap kalabanin ang init ng laman!
+
+Nung dry pa ang lovey dicky niya sa bunganga ko ay ulo pa lang nito ang sinusubo ko na parang lollipop hanggang sa laliman ko na ito sa bunganga ko at hanggang sa maisagad ko na. Shet! Naduwal ako! Sarap! Laki! Basang-basa pa ng laway ko!
+
+“What the fuck! Kharlie!”
+
+Nailuwa ko kaagad ang lovey dicky niyang matigas at mahaba sa bunganga ko nang magising siya! Napaupo siya at gulat na gulat tapos magkasalubong ang kilay niya. Ipinunas ko nga ang bibig kong basang-basa gamit ang palad ko tapos nahihiya akong tumingin-tingin sa kanya.
+
+“Ano’ng ginagawa mong bakla ka?! Pinagsasamantalahan mo ako ah!”
+
+Nag-panic ako. “Sorry, natukso lang ako! Nakita ko kasing nakasilip ‘yung ulo sa boxer mo…kaya bigla na lang…”
+
+“Bigla na lang umiral ang kabaklaan mo?! Gago! Straight ako!”
+
+“Pasensya na… Sorry.”
+
+Tumayo na nga ako at may planong aalis na nang biglang tinawag niya ako.
+
+“Aalis ka na? Sinimulan mo na, hindi mo tatapusin?”
+
+“Wait, hindi ba’t ayaw mo?”
+
+“I don’t know pero aaminin kong masarap pala talagang chumupa ang bakla. Tama nga ‘yung sinasabi nila.”
+
+“So?” nasabi ko na lang.
+
+Nagulat na lamang ako nang kinuha niya ‘yung ulo ko at sa bilis ng pangyayari ay nakasalpak na ‘yung lovey dicky niya sa bunganga ko! Binabayo na nga niya ang bunganga ko at gigil na gigil!
+
+“Ito ang gusto mong bakla ka ah! Magpakasawa ka!” gigil na gigil niyang sabi habang binabayo niya ang bunganga ko!
+
+Imbes na magreklamo ako rito ay natutuwa pa ako! Ang sarap kaya ng ganito! Ugh!
+
+“Init ng bunganga mo! Sarap!”
+
+At tinanggal na nga niya sa bunganga ko ‘yung lovey dicky niya at saka niya sinabing isubo ko ‘yon at ginawa ko nga.
+
+“Tangina! Mas masarap pa pala ‘to kaysa sa babae! Vacuum gago!”
+
+Tinuloy ko lang ang pagsamba rito hanggang sa bayuhin niya na naman ito kaya hindi ako gumalaw habang ginagawa niya sa akin ito.
+
+Tip: kapag binabayo ang bunganga mo ay huwag kang gagalaw para hindi ka maduwal o masuka! Relax lang!
+
+“Bakla ka ah! Hapit ka! Sige! Tiisin mo!”
+
+Talagang matitiis ko! Ako pa!
+
+At saka ang hot nung sinasabi niyang ‘bakla ka’ kahit na pangit pakinggan technically. Basta ayon! Sarap pakinggan for me!
+
+“Bakla ka ah!” mas nanggigil pa siya sa pagbayo sa bunganga ko hanggang sa iluwa na niya ito. “Hindi ka tinatablan? Baka rito tablahin ka! Tumalikod ka!”
+
+Tumalikod nga ako at saka ako ngumisi sa kanya.
+
+“Wait pala, Kharlie, baka may sumabit… Hindi ba sasabit ito?” tanong niya nga habang nagsusuot siya ng condom at pinahiran niya ng lube ito.
+
+“Hindi naman. Naglinis ako eh.”
+
+“Naglinis? Ano ‘yun?”
+
+“Para walang dumi! Ganoon!” sagot ko sa kanya habang napapa-lipbite.
+
+“Okay ba ‘tong gagawin ko? Straight ako eh!”
+
+“Daming sinasabi! Sige na! Ipasok mo na—Ah fuck!” daing ko nang biglang ipasok niya nga ang lovey dicky niya sa lovely holey ko!
+
+“Ano? Masakit ba bakla ka?”
+
+Aaminin kong masakit kasi binigla niya! Pero tiniis ko kasi ginusto ko ‘to! Bumayo na nga siya nang mabilis at hinayaan ko lang ito!
+
+May pleasure na nga akong nararamdaman kahit papaano at tama nga sila, masarap ang pakiramdam kapag sa straight!
+
+“Ahhhh! Shit!” daing ko nga.
+
+“Tangina mong bakla ka! Mas masikip ka pa pala kaysa sa mga nagiging babae ko!”
+
+“Ahh! Wait, may girlfriend—Ah…ka? Ah!” tanong ko sa kanya habang dumadaing ako, nasasakitan at nasasarapan.
+
+“Wala akong girlfriend,” sagot niya sabay bayo kaya napasigaw ako. “Ano ako? Cheater? Gusto mo may girlfriend ako habang ginaganito kita para ano? Mas nakakalibog? Gago!”
+
+“No… Ah! Hindi ayan—Ah…ang ibig kong—Ah…sabihin!”
+
+“Bakla ka!” bulong niya sa tainga ko. “Straight ako pero ang sarap pala nito.”
+
+“Kahit—Ah…naman straight ka ay—Ahhhh!” naputol nga ang sinasabi ko nang mas lakasan at bilisan niya pa ito.
+
+Hindi na nga kami nag-usap at panay lang siya bayo sa akin at panay lang din ako ungol sa bawat bayo niya! Feeling ko ay babaeng-babae ako sa kanya kasi sa totoo lang ay first time lang din akong matira ng straight! Nakayakap pa siya sa akin kaya ang sarap maging malandi!
+
+Nang matapos na nga ang pangyayaring ito ay pareho na nga kaming nakaupo sa kama niya, magkatabi. Tinignan niya nga ako.
+
+“Okay ka lang, Kharlie?” tanong niya nga habang nakatingin ako sa sahig.
+
+Tinignan ko nga siya. “Okay lang naman ako. Masarap nga eh.”
+
+“May tumawag ba sa akin kaya ka pumasok dito?”
+
+“Oo, ‘yung Mama mo.”
+
+“Ah ganoon ba,” tanging sagot niya.
+
+Natahimik nga muli sa pagitan namin.
+
+“So ano na?” tanong ko.
+
+“Ano’ng ano na?”
+
+“Gagawin natin,” napapalunok kong sagot.
+
+“Gusto mo pa ba ulit?” tanong nga niya bigla na ikinanlaki ng mata ko.
+
+“Huh?”
+
+“Gusto mo pa ba kako ulit? Ako kasi gusto ko pa,” aniya na talagang desidido at straightforward nga.
+
+“Sure ka?”
+
+“Oo… Sure ako.”
+
+“Straight ka kaya!”
+
+Natawa siya. “Ano naman?”
+
+Ngumisi na nga ako. “Okay!”
+
+Matapos ko ngang sagutin ‘yan ay inihiga na niya ako and the rest is history!`,
+    },
+
+                          {
+        title: "Outdoor Suyo (bxb)",
+        date: "April 24, 2026",
+        status: "Completed",
+        content: `I’m so down…really really down.
+
+Like hindi ko talaga alam ang gagawin ko sa buhay. Paano ako babalik sa mga gusto kong gawin dati? O kung hindi ko man magawa ‘yan—isa ko pang tanong eh paano naman ako magpapatuloy sa buhay ko ngayon?
+
+Internship season ko na now at hindi ko alam if magkaka-oras pa ako sa jowa ko. I’m graduating and this internship is my only requirement para makapagtapos na ako ng college. Nag-o-overthink ako because I am a pro overthinker person so much.
+
+Kaya para mawala ang mga iniisip ko na ‘to, ako’y nakipagkita sa kanya sa isang daan. Naka-motor siya at tuwang-tuwa na sinalubong ako.
+
+Subalit hindi niya alam na wawakasan ko na ang pagsasama namin para na rin hindi na rin siya mahirapan pa sa mga paghihirap ko sa buhay ko.
+
+“Hey, babe! Hatinggabi na ah? Why do you suddenly want to meet me at this time? Is there any problem? O miss mo ako? Wanna late night rides?” mga tanong ng jowa ko na alalang-alala.
+
+“Wala. Nakipagkita lang ako sa ‘yo kasi ano…”
+
+“Hmm?”
+
+“Makikipag-break na ako,” agarang sagot ko na agaran ding ikinagulat niya.
+
+“Huh? Bakit naman, babe? Why?”
+
+“Kasi matagal ko nang plano ito!” napalakas na ang boses ko at napaiyak na ako. “Sorry, pero desidido na ako. Aalis na ako.”
+
+Tumalikod na ako sa kanya ngunit hinigit niya ang braso ko.
+
+“Ayan ka na naman. Nag-o-overthink ka lang eh!”
+
+Matapang ko siyang hinarap diyan. Pinunasan ko ang luha ko bago ako nagsalita.
+
+“Hindi na talaga. Nandito tayo sa Bataan at aalis na ako next week for my internship sa Metro Manila! Kaya hindi na ako magkakaroon pa ng oras sa ‘yo. Ayoko nang magpanggap. Hindi na tayo magwo-work dahil mawawalan na ako ng oras sa ‘yo.”
+
+Napa-face palm siya at napahinga nang malalim. Nakatingin lamang ako sa kanya nang ilang segundo at wala pa rin siyang sinagot sa sinabi ko bagkus eh hinawakan niya bigla ang braso ko nang mahigpit kaya nag-react agad ako.
+
+“Ano ba! Ang sakit!”
+
+“Let’s late night rides, babe… Hindi mo alam ang sinasabi mo.”
+
+“Alam ko ang sinasabi ko! Bitawan mo na ako at tapos na tayo!”
+
+Ngunit nagmatigas ang jowa ko. Hinila niya ako palakad hanggang sa makarating na kami sa naka-park na motor niya.
+
+“Saan mo ba ako dalahen?!” tanong ko sa kanya habang pinapaharurot niya iyong motor niya.
+
+Hindi na ako nagsalita pa nung hindi siya magsalita. Hanggang sa tumigil na lang ang motor niya nang hindi ko namamalayan dito sa madilim na lugar na ‘to.
+
+“Come here!” deep voice niyang sabi sa akin.
+
+Syempre sumunod naman ako.
+
+“Bak—?”
+
+Nanlaki bigla ang mata ko nang nakadikit na ang mukha niya sa mukha ko kasabay ng pagdikit ng labi niya sa labi ko! Ohmygod! Ohmygod! Goodness gracious!
+
+Tinutulak ko siya ngunit sa lakas niya at sa sobrang dikit ng labi niya sa labi ko ay hindi ko magawang matulak siya.
+
+Nanghina ako hanggang sa madala na lang sa kanya. Nanghihina ang tuhod ko at namamasa na ako!
+
+“Don’t leave me,” namamaos niyang pakiusap.
+
+Ngunit bago pa ako makasagot ay bigla niyang isiniil muli ako ng halik hanggang sa lumaban na ako sa kanya ng halik.
+
+“Ugh! Fuck!” ungol ko makalipas ang 20 minutes.
+
+Nakahubad kami pareho ng jowa ko habang tinitira niya ako ng malaki niyang pagkalalaki. Nakasuot pa nga kaming dalawa ng helmet. Black helmet sa kanya at sa akin at pink helmet.
+
+Protektado sa ulo namin, pero sa isang ulo niya hindi protektado kasi hindi siya nakasuot ng condom for the first time!
+
+Ngunit heto nga’t hindi ko alam sa trip niya kung bakit naka-helmet kami habang ginagawa ‘to, pero hindi ko made-deny na ang hot lang tignan tapos kakaiba pa, at dahil parang may sound proof ang helmet ay napapaungol ako nang malakas.
+
+“You’re so tight! Hindi ako magsasawa rito,” aniya habang bumabayo sa akin.
+
+Nasa ganoon lang kaming posisyon. Nakahiga ako sa upuan ng motor niya tapos hawak-hawak naman niya ang legs ko!
+
+Grabe! Sobrang sarap! Sa lahat ng pinaggawan namin nito ay ito ang pinaka-hot!
+
+Outdoor. Motor. Helmet.
+
+Mabuti na lang at walang tao rito kaya bayo lang siya nang bayo sa lagusan ko habang ungol naman ako nang ungol.
+
+“Ha!” singhal ko nang matapos kami.
+
+Tinanggal ko ‘yung helmet na pink na sa akin naman din talaga at saka ko ipinulot ‘yung mga damit ko’t nagbihis sabay hinarap siya.
+
+Nakita ko ang sumisingkit niyang mata. Umiiyak ba siya?
+
+Umiiyak siya nang nakahubo’t hubad, gano’n?
+
+“Huwag mo ‘kong iwan, please…” kawawa niyang pakiusap.
+
+Oh tila nawala na rin sa isip ko na hihiwalayan ko nga pala siya. Parang nabuhayan ulit ako.
+
+Dahil ba ito sa ginawa namin? Kaya parang nagbabago na ang isip ko?
+
+“Tsk!” naiinis kong palatak.
+
+“Bakit? Iiwan mo na ba ako?”
+
+Naiinis ako sa kanya. Kasi tuwing gumaganito ako’t nakikipaghiwalay sa kanya ay bigla niya akong hahalikan at titirahin. Ngunit ito ang pinaka-kakaiba! Wala pang condom ang wala!
+
+“Ano? Please, babe…sagutin mo naman ako. Please…please.”
+
+Umiwas ako ng tingin sa kanya hanggang sa ang naging sagot ko sa kanya ay…
+
+“Yes, babe! Thank you…I love you too!”
+
+“Okay. Good luck sa internship mo d’yan ah. Minsan eh pupuntahan kita para makita ka.”
+
+Umirap ako habang nakangiti. “Oo na! Sige. Masyado mo na akong miss! Bye na!”
+
+Ako na ang nag-end call sa tawagan namin at saka ko na inilagay ang cellphone ko sa bag ko’t pumasok na ako sa building na pag-i-internship-nan ko.
+
+Hindi pa rin kami naghiwalay ng jowa ko kahit na nandito na ako sa Metro Manila’t mag-i-internship.
+
+Sadyang ang babaw ko lang pala nung time na ‘yon, na-realize ko…dapat talagang mag-usap kaming dalawa. Communication is the key always.
+
+Talagang hanggang ngayon din kasi eh iniisip ko pa rin iyon…’yung ginawa namin sa motor niya tapos ang dilim pa no’n.
+
+Dahil doon na-realize kong mahal ko pala talaga ang jowa ko. Babawi ako sa kanya after ko ng internship o kaya kaming dalawa na lang ang babawi sa isa’t isa.
+
+Hihi.`,
+    },
+                      {
+        title: "Si Top 1 Na Slow Rin Pala (bxb)",
+        date: "April 26, 2026",
+        status: "Completed",
+        content: `“Ewan ko sa ‘yo, beh! Hindi ka makaintindi! Be active listening, huh! Bahala ka nga d’yan!” Umirap ‘tong kaibigan ko na si Robby sabay tumayo at umalis dahil kukuha na yata ng pagkain namin.
+
+Kukuha ba siya ng pagkain namin o galit sa akin? Nandito kasi kami sa isang maluwag na karinderya eh and break time ngayon. Ayaw kasi namin sa cafeteria ng school kumain eh.
+
+Hinayaan ko na lamang siya at nag-cellphone na lang. Nag-scroll ako sa Facebook news feed ko hanggang mayamaya nga’y bumalik na ang kaibigan ko.
+
+“Oh, Perry. Pagkain mo.”
+
+“Ano ‘to? Bakit may stick? Parang barbeque naman ‘to eh! Akala ko ba bistek?”
+
+Umirap na naman siya. “Hindi ka kasi nakikinig sa akin eh! Umo-oo ka lang! Puro oo, pero hindi naman naiintindihan!”
+
+“Kainis naman! Hindi ko naman narinig at malay ko ba? Nagke-crave pa naman ako sa bistek!” Suminghal ako.
+
+“Eh ayan nga gusto ko eh. Tinanong kita if okay lang ba kung ‘yung may stick kainin natin… Stick ha! Stick! Hindi bistek! Bingi. Saka sabi ko pa eh ako na bahala sa pagkain, tapos sabi mo, oo. Ayon pala eh hindi mo pala naintindihan.”
+
+Natawa ako habang nakangiwi.
+
+Grabe naman magpamukha ng pagkakamali ko! Ang sakit din magsalita ng kaibigan ko na ‘to minsan eh. Sumimangot tuloy ako at kinain na lang itong barbeque stick na binili niya.
+
+Pero hindi na pala dapat ako magka-sama ng loob sa kanya… libre niya ‘to, kaya hahayaan ko na lang.
+
+Masarap naman pala ito nung kinain ko. Nawala na ‘yung cravings kong bistek sa akin.
+
+“Nand’yan crush mo oh!” sabi bigla ni Robby habang may tinuturo sa likod niya kung kaya’t napalingon ako.
+
+“Wala naman ah?”
+
+Humalakhak siya. “Naniwala agad! Bak is la ka!”
+
+Ako naman ang umirap. “Nakakainis ka!”
+
+“Umamin ka na kaya sa crush mo? O kaya magpakantot ka roon para naman mahawaan ka niya ng talino niya at magkaroon ka pa ng fast pick-up! Slow mo kasi eh!”
+
+“Bunganga mo!” natatawa kong saway sa gaga kong kaibigan. “Parang imposible naman ‘yon. Pogi kasi ‘yon tapos top one pa natin. Eh ako bobo, hindi ako bagay roon. Isa pa, straight ‘yon!”
+
+Aaminin kong slow akong tao, pero pagdating sa ganito ay alam ko na kaagad ang sagot. Wala akong chance sa crush ko na ‘yon.
+
+Ngayon, sa dami ng sinabi ko ay hindi ako sinagot nito ni Robby. Nakatingin siya sa likod ko at tila nakakita yata ng multo?
+
+“Perry, ‘yung crush mong si Roger! Papunta rito!”
+
+Natawa ako sa kanya. Nagbibiro na naman. “Huh?! Huwag mo na akong biruin, please!”
+
+“Nandiyan nga!”
+
+“Pabili po, Ate. Take out lang.”
+
+Napalingon bigla ako sa pamilyar na boses ng nagsalitang lalaki na ‘yon and confirmed! Siya nga ‘yung crush ko! Si Roger!
+
+Natameme ako. Tangina! Lumingon pa siya sa akin! Feeling ko nag-slow motion kaya umiwas ako ng tingin.
+
+Hindi na ako nakapagsalita hanggang sa umalis siya. Ito namang si Robby ay mabuti na lang ay hindi na rin nagsalita subalit may tingin siyang nakakaasar! Kumain na lang kami tuloy hanggang sa umuwi kami sa dorm namin.
+
+Ganoon lang ang atake ko sa tuwing nakikita ko si Roger. Lalo na sa classroom kapag may klase kami. Grade 12 STEM na nga pala kami at malapit na kami gr-um-aduate. He’s tall, mestizo and handsome. Top one pa namin ‘yan and running for valedictorian all over the strands.
+
+Nalungkot tuloy akong naglalakad papunta sa CR ng mga lalaki kasi naiisip ko ‘yan. After namin gr-um-aduate ay hindi ko na siya makikita.
+
+“Ugh! Fuck! Bilisan mo pa ang pagsubo… sige pa!”
+
+Nagulat ako sa narinig ko na ‘yon. Isang lalaking hot kung umungol! Kilala ko na kung kaninong boses ‘yon at nakaka-shock lang!
+
+Dahil sa gulat ko sa pangyayari ay may natapakan na pala akong kalat na tumunog tapos ang malas ko pa’t naisara pa ng likod ko ‘yung pintuan nang malakas.
+
+“Who’s that?”
+
+Boses niya nga talaga ‘yon!
+
+Nag-panic ako! Nataranta’t hindi mapakali! Bago ko pa mahawakan ang doorknob ng pintuan para lumabas nang biglang may humawak sa braso ko’t iniharap ako sa kanya!
+
+“Perry?!”
+
+Napatitig ako sa lalaking ito…kay Roger. Kita ko nang malapitan ang mukha niya. Ang pogi niya talaga. Napaiwas tuloy ako ng tingin nung tinignan niya rin ako sa aking mata.
+
+“Roger! Nandito ka rin pala? Umihi lang ako. Bye!”
+
+Tumalikod ako sa kanya at hinawakan ko ulit ‘tong doorknob.
+
+“Wait! Kanina ka pa ba? May narinig ka ba?”
+
+“Ah wala!” hindi ko makatinging sagot sa kanya. “Sige na, t-tapusin mo na ‘yang ginagawa mo. Sa girls na lang ako iihi kasi bading naman ako eh. Pwede ako roon. Bye na!”
+
+“Tulungan mo ‘ko, Perry…” bulong niya bigla.
+
+“Huh? Ano’ng tutulungan?” hindi ko gets na tanong sa kanya.
+
+“Dito.”
+
+Bigla niyang hinawakan ang kamay ko hanggang sa maramdaman ko na lang na may nahawakan akong matigas na ano ‘to? Bote?!
+
+“Gago!” sambit ko kasi nakaramdam ako ng kuryente doon sa bote!
+
+“Sorry… libog lang,” nakangiting aniya. “Gusto mo ba? Nandito na rin tayo eh.”
+
+“Masyadong mabilis naman ‘tong nangyayari sa atin, Roger. Uhm, wait. Ano ba’ng ibig mong sabihin na nandito na rin lang tayo?”
+
+“Help me with this… secret lang. Crush mo naman ako, ‘di ba?”
+
+Nanlaki ‘yung mata ko!
+
+“Huh? Crush kita?” tanong kong maang-maangan
+
+“Yeah… bakit hindi ba?”
+
+Masyadong awkward ‘tong nangyayari sa amin at mas humaba pa ang usapan namin bago ko nakita at na-realize ang sarili ko na sinusubo-subo ko na ang tite niya!
+
+Ungol siya nang ungol sa ginagawa ko kaya mas ginalingan ko.
+
+“Ugh! Ang galing mong magpalaway, Perry!”
+
+I’m so innocent for this lalo na nung una! Hindi pa nga ako marunong gumanito hanggang sa natutuhan ko na lang.
+
+Basta subo lang ako nang subo sa kanyang ari na akala ko’y bote kanina nung pinahawak niya ‘to sa akin!
+
+Sabi ko kanina eh bote ito, but I realized na mali pala. Ano pala ‘yon, ‘yung “bo” is bobo iyon means ako and ‘yung “Te” is tite pala! Ni Roger! Tangina, joke lang. Ang bastos ko pala masyado!
+
+“Ugh! Ang sarap, Perry! Sana hindi na matapos ‘to!”
+
+Almost one hour ko nang ginagawa ito at parang walang nangyayari! Hindi nga talaga matapos itong ginagawa namin. Para kasing walang lumalabas? Bakit ganoon? Ako nga eh nililikot ko rin ang tite ko tapos tinaas baba ko pa at nilabasan naman ako ah?
+
+“Nangangalay na pala ako,” sabi ko at binitawan ko na ‘tong bote niyang dalawang itlog na nasa pagitan ng dalawang hita niya na siyang sobrang tigas pa rin.
+
+“Bakit naman? Pahinga ka na lang muna saglit, Perry tapos ituloy mo lang. Lalabasan din ako.”
+
+“Parang ang tagal kasi, Roger,” sabi ko habang ini-stretch stretch ko ang bunganga ko.
+
+“Sorry… matagal kasi ako malabasan. I’m so slow for this at ang dami na ring sumuko rito.”
+
+“Ang dami nang sumuko so means naranasan mo na ‘to dati?! May mga sumubo na nitong bote mo?!” gulat kong tanong sa kanya.
+
+“Bote ko?” nagtataka niyang tanong.
+
+“Tite mo, I mean!”
+
+Natawa siya nang mahina or he chuckled? Tama ba?
+
+“Yeah… sorry. Sige, if ayaw mo na, puwede ka nang lumabas. Thank you sa pagtulong.”
+
+Ano?! Pinapaalis niya ba ako? Na para bang balewala lang ako sa kanya? No! Hindi ako papayag!
+
+“Ayoko!”
+
+Saka ko muling sinunggab ng ito nang mahigit pa ng dalawa o tatlong oras! Nagpapahinga lang ako saglit tapos trabaho ulit dito.
+
+Hindi na nga kami nakapasok ni Roger sa klase ngayong araw kasi nanatili lang kaming nandito sa CR na mukha namang walang nakakahalata.
+
+At ang awkward lang ng mga sumunod na nangyari.
+
+Hindi ko siya magawang tignan hanggang sa hindi na kami nagkausap pang muli.
+
+Naging valedictorian nga talaga siya sa kabila ng lahat. Top one overall ng strands pa sa school namin. Pinalakpakan siya ng lahat pati ako. Napatingin pa nga siya sa akin habang nagsi-speech. Ngumingiti na lang ako sa kanya.
+
+Wala nang sumunod pa na nangyari sa amin ni Roger matapos din ang graduation. Basta alam ko lang eh naka-graduate ako ng senior high school kahit puro line of 7 ang grades ko.
+
+Slow ko kasi eh kaya pati grades ko damay.
+
+Pero mas slow si top one. Speechless ako sa kalagayan niyang ilang oras siya nilalabasan. Nakakagulat kasi at nakakatameme kaya wala na rin akong makwento sa mga sumunod na nangyari sa aming dalawa hanggang mag-college ako kasi wala namang nangyari ulit eh.
+
+Hanggang dito na lang pala ako. Ang dami ko nang nakwento eh wala naman nang mangyayari ulit sa amin ni Roger, parang imposible na. Ay tama na nga! Na para bang ayaw kong matapos itong kwento ko? Ganoon.
+
+Pero sige tapusin ko na pala kahit hindi pa rin ako maka-move on doon.
+
+Tapos na nga ba? Ay sige tapos na pala.`,
+    },
+                      {
+        title: "The Two Of Us, Forever Private (bxb)",
+        date: "May 3, 2026",
+        status: "Completed",
+        content: `May tanong ako.
+
+Mayroon ba kayong specific friend na free n’yong maka-sex kapag stress or broken ka?
+
+‘Yung tatawagin mo lang siya tapos ready kayong may mangyari sa inyo sa isa’t isa.
+
+Then after that, everything’s normal ulit.
+
+Ako kasi kahit bading ako, meron akong ganoon eh.
+
+Mahirap i-explain ‘yung ganitong klase ng kaibigan natin, pero kasi ganoon ang type of friendship namin ni Jaruel eh. Walang nakakaalam nito ni isa sa mga kaparehong kaibigan namin at kakilala kundi kami lang dalawa.
+
+Nakaka-excite lang sa feeling ng ganitong friend.
+
+Nung na-broken ako sa crush ko ay nandiyan siya para sa akin. Nakaka-hurt din ‘yon kasi hindi kasi ako crush ng crush ko dahil straight iyon at nalaman ko sa iba na iniiwasan niya raw ako kasi uncomfortable siya.
+
+Sayang nga ‘yon kasi akala ko puwede ko na siya maging boyfriend. May moment pa naman kami nung nakaraan na kaming dalawa lang, sabay kami umuwi kasi sabay kaming nagpa-print.
+
+Nang malaman naman ito ni Jaruel ay nagpa-comfort ako sa kanya. Nagpunta siya sa bahay no’n tapos sinamahan ako manood ng Netflix.
+
+“Jauro,” tawag ni Jaruel sa akin.
+
+“Bakit?”
+
+“Akin na kamay mo,” aniya at alam ko na agad ang ibig sabihin no’n.
+
+Natawa ako habang nakatutok pa rin ang mata ko sa pinapanood. “Wala ako sa mood eh. Hindi ko naiisip ‘yan.”
+
+Umiling-iling lang siya sa akin habang nakatikom ang bibig. Kahit na sinabi kong wala ako sa mood ay kinuha niya pa rin ang kamay ko at inilagay iyon sa naninigas niyang kahabaan.
+
+Damn. Ang init nito ah. Sobrang tigas! Nanigas din tuloy ako, auto effect lang.
+
+“Kahit hawak-hawakan at paglaruan mo lang,” sabi pa niya sabay pasok ng kamay ko sa loob ng short niya.
+
+Naramdaman ko bigla ‘yung kinis ng ulo ng kahabaan niya sa kamay ko at ang pagkasobrang tigas nito na tila handang-handa.
+
+“He’s ready to comfort you too, inaantay ka lang niya,” mapang-akit niyang sabi with a deep voice.
+
+Tumutok lang ako sa pinapanood kahit nakakaramdam ako ng init. Fuck! Iginala niya pa ‘yung isang kamay ko sa kanyang buong katawan na sobrang tigas at medyo pawis!
+
+Nang-iinit talaga ako! Kahit na wala ako sa mood at kahit masakit ang puso ko ngayon ay iba ang tama niya sa akin.
+
+“Jaruel,” ungol ko nang halikan niya na ang neck ko.
+
+“Tama ‘yan, moan my name.”
+
+Napunta na sa kanya ang buong atensyon ko. Nawala na ‘yung curious ko sa pangyayari sa movie kasi rito na ako sa nangyayari sa amin nagpatuloy.
+
+Ang sarap pa niyang mag-romansa. Kaya nabaliw ako sa pang-ungol habang nakakapit at nakayakap ako sa batok niya at sa hubad niyang katawan.
+
+Ginagawa man naming dalawa ito, but we’re still friends.
+
+Ewan ko rin kung paano kami nagsimulang dalawa. Baka dahil magkalapit ang pangalan namin tapos nagkalandian na lang kaming dalawa bigla? Basta, it happened until ito na nga.
+
+Marami pang nangyari sa amin nitong mga sumunod na araw lalo na talaga kung stress ako dahil sa thesis maging siya man. Effective talaga na may ka-ganito ka tuwing down na down ka sa buhay mo.
+
+At tila never ako nagsasawa kay Jaruel tuwing nangyayari sa amin ito.
+
+Salit-salitan ang place namin. Madalas sa apartment niya at kung minsan ay sa bahay namin kapag wala sina Mama.
+
+“Oh, Jauro, baka gusto mo pa? Sa ‘yo na lang ‘tong isang chicken,” sabi ni Jaruel sa akin habang kumakain kami sa restaurant kasama ang mga kaklase namin.
+
+Nilagay niya ‘yung isang chicken sa pinggan ko at pinaglagyan niya pa ako ng kanin.
+
+“Ayieee!” asar nila.
+
+“Alam n’yo, Jauro, Jaruel. Para kayong magjowa diyan sa lagay na ‘yan! My BL heart is attacking in my pakiramdam kasi!” sabi ‘to ni Brea, our classmate and friend.
+
+“Oh, sa ‘yo na lang din ‘tong ulam ko pala, Brea,” sabi ni Gianna na naki-asar pa.
+
+“Oh my! Thank you, Gi!”
+
+Nagkatinginan naman kami roon ni Jaruel at pareho kaming dalawa.
+
+“We’re just friends, guys!” natatawang sabi ko. “Straight ‘yan oh!” mahinang sinuntok ko pa si Jaruel na para bang walang nangyayari sa amin off-cam. “Kain na lang tayo as we celebrate our thesis defended!”
+
+Ganito lang kami ka-discreet ni Jaruel. Saka varsity na manly kasi itong si Jaruel kaya hindi mo mahahalata na may kabadingan din siya tapos ako naman na halata ay part ng isang organization as a Vice President, ang palusot ko naman ay busy ako kasi matrabaho naman talaga maging VP tapos may iba akong crush.
+
+Ewan ko lang kung bakit inaasar kami ni Jaruel ng mga kaklase namin na ‘to.
+
+“Wala ba talaga?” mapang-asar na tanong ni Rhoanne habang kumakain.
+
+Ewan ko rin kung bakit kinakabahan ako kahit alam kong inaasar lang naman nila kami. Baka halata kami?
+
+“Oo… gano’n nga kami ni Jauro, guys,” sambit naman ni Jaruel.
+
+“Joke lang! Ang seseryoso n’yo!” natatawang sabi pa ni Rhoanne.
+
+Thank, God. Biro nga lang talaga.
+
+Naki-asar na tuloy ‘yung ibang mga kaklase namin sa kabilang table kaya natawa na lang tuloy ako.
+
+“Ay oo nga pala, may something pala kayo ni Raca, ano, Jaruel?” sambit bigla ni Stannie.
+
+“My gosh! Don’t tell us na nililigawan mo ‘yon?!” gulat na tanong ni Brea.
+
+“Grabe ka, p’re! Crush ko ‘yon ah, pero bigay ko na sa ‘yo!” sabi naman ‘yan ni Tarric.
+
+“Seriously ba?” ako na ang nagtanong kay Jaruel niyan.
+
+Tinignan naman ako ni Jaruel na parang napatigil, pero nagsalita pa rin for his sagot.
+
+“Wala pa naman, baka magka-meron since nagkaka-chat din naman kami,” nakangiti niyang sagot sabay tingin sa akin.
+
+Napaiwas tuloy ako ng tingin kay Jaruel. Ewan ko kung bakit parang may bigat, ayoko ng ganitong nararamdaman.
+
+“Ikaw, Jauro? What about your update sa crush mo? Kay Roldan, ‘di ba?” tanong naman ni Rhoanne iyon kaya nanlaki ang mata ko dahil ako na ang bunot nila.
+
+“He knows na crush ka niya, ‘di ba?” tanong ‘yan ni Stannie.
+
+“For sure, lumayag ‘yan! Kwento ka naman diyan!” asar din ni Brea.
+
+“Kwento! Kwento!” cheer pa ng mga ibang kaklase namin at kay Tarric ang pumapaibabaw.
+
+Ngumiti ako at natawa kunwari. “Ano ba kayo, guys! Straight ‘yon kaya imposible. Hindi nga ako pinapansin no’n kasi hindi komportable sa akin!”
+
+“Awww!” Bigla silang naging malungkot.
+
+“But still crush mo pa rin siya or may iba na?” tanong ni Brea.
+
+“Secret!” natatawa kong asar na sagot sa kanila kaya bigla nila akong pinilit na magkwento pa.
+
+Sa pagkakataon na ‘to ay nagkatinginan kami ni Jaruel. Ito na ‘yung araw na huling nakita ko siya dahil naging busy na rin kami sa kakahanap for internship next semester.
+
+Willing pa naman ako na may mangyari ulit sa amin ni Jaruel, hinihintay ko lang naman siya eh. Pero hayaan ko na. Baka busy rin ‘yon kay Raca. Balita ko nililigawan na niya raw ‘yon.
+
+And nakumpirma ko lang iyon nung makita ko silang magkasama tapos hinalikan pa ni Jaruel si Raca sa noo nito.
+
+Kaya umiwas na lang ako sa kanya.
+
+Normal na sa amin ito ni Jaruel kasi dati ay may ilang buwan kaming hindi nag-uusap lalo pa nung kakakilala lang naming dalawa nung since high school.
+
+Yeah. Since high school ay may nangyayari nang dalawa sa amin ni Jaruel. Tapos hindi kami bigla mag-uusap ng ilang buwan dahil may nakakausap na iba tapos babalik ulit sa isa’t isa kapag wala na kaming mahanap na iba.
+
+Naalala ko tuloy lahat ng alaala namin ni Jaruel. Lalo na nung ang lakas ng tawa namin kasi para kaming magkapangalan.
+
+Hayst! Relapse yarn! Tigil nga Jauro!
+
+Ngayon, naulit na naman nga talaga ito dahil sa tingin ko ay magseseryoso na siya roon kay Raca. Ang daming nakakaalam ng nangyayari sa kanila eh tapos nababalitaan ko, ganoon.
+
+Avien Jaruel Repeco:
+
+Hey, Jauro? Kumusta ka?
+
+Oh? Ngayon na lang ulit siya nag-chat. Four months ang nakalipas.
+
+Tinigil ko muna ‘yung ginagawa ko rito sa office para makapag-reply sa kanya.
+
+Jauro Akel Savista:
+
+Ayos lang naman, bakit?
+
+Busy sa internship ko
+
+Jaruel:
+
+Let’s meet up? Alam mo na hahahahaha
+
+Punta ka sa bahay after shift mo, hintayin kita
+
+Jauro:
+
+Huh? Bakit pa tayo magme-meet?
+
+‘Di ba, may girlfriend ka na?
+
+Wala ka bang duty now?
+
+Pagka-send ko ng mga niyan ay para kong pinagsisihan ‘yung second message ko. Parang may bitterness na ewan?
+
+Pinag-isipan ko pa kung i-u-unsent ko iyon kasi lumipas na ang isang oras ay hindi pa rin siya nagre-reply.
+
+Hindi naman siya usually ganito ah? Na matagal mag-reply, ganoon?
+
+Ay, bahala na! Puntahan ko na nga lang siya mamaya.
+
+Miss ko na rin ‘yon eh.
+
+Kaso may mangyayari ba sa amin? Paano naman? Gagawin niya ba akong parausan kahit sila na ni Raca?
+
+Ay no, mali, hindi kami ganiyan. Kapag may ine-entertain kaming iba o kahit nung sa mga ex namin ay mas hindi kami mas mag-uusap ni Jaruel kasi hindi naman kami cheater dalawa. Wala na ring nangyayari sa amin kapag nagkakaroon kami ng kasintahan.
+
+Ah baka naman broken siya?
+
+“Knock, knock!” salita ko rin habang kumakatok ako ngayon sa pintuan ng apartment niya.
+
+Nagulat na lang ako nang bigla akong hilahin ni Jaruel nang mabuksan itong pinto at saka niya ako mariin na hinalikan.
+
+“W-Wait… kalma… hindi pa ako nagto-toothbrush and medyo pawis ako. Dapat muna akong maligo, ‘di ba.”
+
+“Sa shower tayo. Doon mo na rin gawin ‘yan.”
+
+Ang bilis ng pangyayari kasi nasa CR na kaming dalawa na naghahalikan habang tumutulo ang tubig sa amin mula sa shower. Pareho pa kaming nagsasabon sa isa’t isa habang naghahalikan.
+
+“Bakit parang gutom na gutom ka?” tanong ko sa kanya. “May problema ka ba?”
+
+“Meron… kaya kita chinat at pinapunta rito eh,” sagot niya habang nakatingin sa mata ko.
+
+“Bakit?” tanong ko at halos matunaw na ako.
+
+Hinalikan niya ako sa labi ko bago sagutin.
+
+“Binasted ako ni Raca… sorry hindi kita nakausap nitong mga nakaraan.”
+
+Ngumisi ako sa kanya saka ko rin siya hinalikan sa labi niya.
+
+“Ayos lang, nandito naman ako eh… para i-heal ka.”
+
+Hinalikan niya muli ang labi ko.
+
+“Thank you, what if tayo na lang kaya? Sa ‘yo lang ako bumabalik kapag masakit ang puso ko eh.”
+
+Hinalikan ko ulit siya sa kanyang labi nang dalawang beses.
+
+“Ganoon din ako eh… pero okay na ‘tong nangyayari sa atin,” nakangiti kong sabi habang tinititigan ko siya. “Pogi mo, Jaruel.”
+
+“Cute mo, Jauro,” natatawang aniya sabay halik muli sa labi ko.
+
+And with that, the cycle repeats. Kapag tuwing nagkakaproblema kami sa mga sarili namin. Kami lang dalawa ang nagkakabalikan ng ganito para gawin namin ito.
+
+Nasanay na lang kami na gawin ang mga ito para maibsan lahat ng sakit.
+
+“Huwag mo ‘kong iiwan ah,” salita na naman niya muli habang tinitira na niya ako.
+
+“Ugh… oo… uhm, hindi kita iiwan.”
+
+“Good. So with us, forever privately?”
+
+Natawa ako habang umuungol dahil sa sinabi niya.
+
+“Wrong grammar ka naman, Jaruel… ugh, fuck!”
+
+“Ano ba dapat, my Jauro?” tanong niya tapos binibilisan niya ang pagtira sa aking loob kaya lalo ako napaungol nang malakas.
+
+“Just… the two, uhm… of us… forever private. Ugh, my Jaruel!”
+
+END.`,
+    },
+                      {
+        title: "Have A Safe Ride (Straight)",
+        date: "May 9, 2026",
+        status: "Completed",
+        content: `“Ano ba! Huwag mo masyadong bilisan!” kinakabahan kong sabi sa boyfriend ko.
+
+“Hayaan mo na ako, mas maganda kasi kapag binibilisan. Mas may thrill.”
+
+“Eh paano kung mamatay tayo? Ang bilis mo magpatakbo ng motor mo! Have a safe ride, okay!”
+
+Natawa siya sa sinabi ko. “And have a safe ride with me, later.”
+
+“Loko! Kailangan pa nating makapuntang Taiwan next week!”
+
+“Edi have a safe skies naman next tapos sa langit natin gagawin ulit, sa airplane.”
+
+Napairap naman ako habang nakangiti. Yumakap na lamang ako sa tiyan niyang may six pack abs para makakapit. Ang bilis niya kasi patakbuhin ‘yung motor tapos ang dilim-dilim pa rito!
+
+Atat sa bembangan eh! First Anniversary kasi namin tapos pinuntahan niya ako sa Quezon City. Mula sa trabaho ko roon ay heto, tinatahak naming dalawa ang daan pauwi sa Quezon Province!
+
+Kasalanan ko rin naman, pabiro ko siyang nilandi kanina nung nandoon pa kami. Sabi ko, what if magbembangan ulit kami kasi anniversary naman namin, kaya heto, binibilisan niya ang takbo para makauwi agad kami sa bahay nila.
+
+“Ano ba, lalong bumilis! Umaalog na tayo eh.”
+
+“Sorry, babi. Tigas na tigas na ako eh.”
+
+Napalunok ako sa sinabi niya at nag-init. Ano’ng sabi niya? Tigas na tigas na siya?
+
+Ako naman ay namamasa bigla!
+
+“Hawakan mo,” pahabol niya pang sabi hanggang sa kunin niya ang kamay ko at inilagay sa bumubukol niyang pants na nasa gitna.
+
+Bumubukol niyang pants na nasa gitna!
+
+Oh my god! Ang sarap mahawakan shet!
+
+“Tigas na tigas nga,” sambit ko sabay himas nito.
+
+Sa pagkakataon na ‘yon ay biglang mas bumilis ang pagmamaneho niya hanggang sa hindi na lang namin namamalayan ay sumemplang na pala kami!
+
+Ang bilis ng pangyayari. Ang sakit ng katawan ko. Magkapatong pala kami at natalsik kaming dalawa rito sa may pabangin na!
+
+“May masakit ba sa ‘yo, babi?!” nag-aalalang tanong niya.
+
+“Sabi ko sa ‘yo dahan-dahanin mo lang pagmaneho eh!” inis kong sabi sa kanya habang hawak ko ang katawan ko.
+
+“Hindi na kasi ako makaantay.”
+
+“Wala na, sumemplang na tayo! Buti na lang hindi tayo namatay!” galit kong sabi sa kanya. “Na-e-excite din naman ako kaso inaalala ko ‘yung safety natin. Kulang na lang gawin natin sa mismong byahe ang bembangan eh o kaya dito,” naiinis ko pa ring salita.
+
+“Pwede natin dito gawin?”
+
+“Sira ka ba?! Tumayo na tayo. Wala akong galos at mukhang ikaw rin naman para makauwi na rin tayo.”
+
+Pagkasabi ko niyan ay napatitig siya sa akin hanggang sa sunggaban niya ako ng halik!
+
+Nakakainis ang sarili ko, kasi hindi man lang ako pumalag! Dala na rin siguro ito ng init na aking nararamdaman.
+
+Hanggang sa halikan niya ang labi ko.
+
+Hanggang sa nakahubad na pala kaming dalawa at binabayo na niya ang bibig ko.
+
+“Gawk! Gawk! Gawk!”
+
+Na-e-enjoy talaga ako sa pagsubo ng kahabaan niya pati na rin sa pagbayo niya sa bunganga ko.
+
+Na kahit nabubulunan ay gustong-gusto ko ito.
+
+“Ang init ng bunganga mo, babi!”
+
+Ang sarap, babi! Ipalamon mo pa sa akin, please.
+
+Gustong-gusto kong sabihin ‘yan bilang sagot ko sa kanya, pero hindi ko masabi kasi hindi ako makapagsalita. Nasa isip ko na lang ang pagdi-dirty talk din sa kanya habang nagdi-dirty talk siya sa akin.
+
+Paano ba ako makakapagsalita? Sinalpakan ba naman niya ang bibig ko ng kargada niya!
+
+“Parang puke ang bunganga mo! Mamaya kakantutin ko rin ‘yang bahay bata mo!”
+
+Ilang beses niya pang binayo ang bunganga ko bago niya ako patuwarin para bayuhin na niya ang bahay bata ko!
+
+“Ugh! Baon na baon! Sige pa!” nababaliw na ungol ko habang sumasabay ako sa pagbayo niya sa akin nang mabilis.
+
+At sa wakas ay nakakasagot na ako sa kanyang mga dirty talk na sobrang nakakapang-init pa lalo sa pakiramdam ko.
+
+“Ang sarap, babi! Hindi ko na kaya! Sobrang tigas ko pa!”
+
+“Bilisan mo pa, babi, please! Please! Baon na baon sa loob ko! Sobrang sarap!” ungol kong nababaliw.
+
+Na para bang wala na akong pakealam pa kahit may mga dumaraan pa ritong mga sasakyan.
+
+Mayamaya ay nag-change position kami at sumakay ako sa kanya.
+
+“Enjoy your ride, babi. Mas safe ito kaysa nung naaksidente tayo kanina,” sabi niya sa akin habang nakangisi.
+
+“Pero raw fuck ito. Wala kang suot na rubber!” nag-aalala kong sabi habang nagtataas baba pa rin ako sa kahabaan niya.
+
+“Tatanggalin ko agad kapag lalabasan ako, promise.”
+
+“Sige, babi, dapat na gano’n para safe,” sagot ko habang umuungol ako nang nababaliw na.
+
+Nagtaas baba pa ako sa kahabaan niya na nasa loob ko. Grabe! So heaven! Ugh! Ang sarap talagang magtaas baba sa ti is te niya!
+
+“Bilangin mo mga bayo ko. Huwag ka nang magtaas baba, ako nang bahala tirahin ka.”
+
+Tinigil ko naman ang pagtaas baba at saka niya ako binayo nang mabagal.
+
+“One…Ugh! Two! Three… Four. Five. Six, seven, eight, nine! 10! 11! 12! UGH! 13, 14, 15, 16! 17, 18, 19, 20, 21, 22! 23…24…25. 26!”
+
+Hindi ko na natuloy ang pagbilang nung binilisan niya lalo ang pagkaldag niya sa loob ko. Ungol na lang ako nang ungol na parang nauulol.
+
+“Ilan na?”
+
+“Hindi ko na mabilang… Ugh!”
+
+“Hindi puwede ‘yan! Umpisahan mo ulit, babi.”
+
+Inulit na naman niya ang mabagal na pagbayo niya kaya ni-reset ko rin ang pagbilang ko. Nabilang ko iyon at naka-169 ako ngunit nawala rin ang pagbibilang ko nung binilisan niya lalo ang pagbayo sa aking loob.
+
+Hanggang sa labasan na rin siya sa aking… loob. Tangina!
+
+“Tara na, babi. Uwi na tayo. Tayo ka na riyan,” sabi niya matapos naming makapagparaos.
+
+“Bakit mo pinutok sa loob ko? Akala ko ba safe?!” nagpapanic kong tanong sa kanya.
+
+“Sorry, babi. Hindi ko napigilan. Pananagutan naman kita kung sakaling mabuntis ka!”
+
+Lalo akong nainis sa sinabi niya.
+
+Na para bang ang dali-dali lang no’n!
+
+“Nakakainis ka! Disgrasyado ka talaga! Kaya tayo naaaksidente eh! Bahala ka na nga! Bwiset!”
+
+Sa inis ko ay madali akong nagbihis ng damit ko at saka ako naglakad palayo sa kanya tapos sumakay na ako ng taxi nung nakarating ako sa may kalsada na maraming tao at tuluyang iniwan siya kahit hinahabol niya ako.
+
+Hindi ko siya papansinin ngayon! Bahala siya! Nakakahiya pa na nasa public place namin ginawa ‘yon na panigurado’y maraming nakakita! Tapos ang sakit pa ng katawan ko kasi naaksidente kami tapos binayo niya pa ako nang sobrang lakas at bilis!
+
+Kaya manuyo siya hanggang sa mag-negative ako sa pregnancy test ko next two or three months! Bahala talaga siya diyan!`,
+    },
+
+                      {
+        title: "Sasakay Habang Buhay (bxb)",
+        date: "May 28, 2026",
+        status: "Completed",
+        content: `This story of mine is this.
+
+Yes! This!
+
+Bakit nga ba ‘this’? Eh kasi I have a crush here sa work ko na part time and voluntary program na magtuturo sa mga bata na magbasa. 25 days only, but mabibigay lang ang sweldo sa akin kapag may natutunan na ‘yung bata sa akin.
+
+12 days pa naman ako here kaya okay lang na ito, nagce-cellphone ako habang naglalaro ang mga bata. Nandito kasi ako sa garden at ini-scroll ko ‘yung pictures ng pamilya ng crush ko.
+
+“Stalker, huh!”
+
+Nagulat ako bigla at naitago ko ang cellphone ko sa bulsa ko!
+
+Shit! Nahuli ako ni crush!
+
+“Kanina ka pa ba d’yan, Lachran?”
+
+“Yah,” prenteng sagot niya. “Bakit mo sino-stalk ang Lola ko?”
+
+“Wala lang… Uh, napadaan lang? Hehe!” mukhang tanga kong sagot sa tanong niya.
+
+“Wala raw. Sino-stalk mo ‘ko eh! Crush mo siguro ako.”
+
+Oo crush kita! “Yay! Hindi, ano!” acting ko na kunwari nandidiri. May pagkamayabang kasi itong si Lachran tapos para ring naninigaw, pero ayan ang gusto ko sa kanya. Ang hot niya riyan! “Umalis ka nga rito, Lachran! Panggulo ka ng Pilipinas eh!”
+
+“Eh bakit mo muna sino-stalk buong pamilya ko? Nakita kong nakangiti ka sa family picture namin!”
+
+Umirap ako na para bang nasa enemies to lovers trope love story kami.
+
+“Okay, I admit! Kasalanan ko bang naka-public ka at pati pamilya mo sa Facebook? Buti nga hindi kita in-add eh. Baka lumaki ulo mo!”
+
+“Edi wow, Taterl! I-add mo ‘ko, mas marami kang makikita roon na mga pictures ko,” nakangising sabi niya sabay talikod at umalis.
+
+Napairap ako sa sinabi niyang kayabangan, pero nung wala na siya ay napangiti naman ako.
+
+Interaction sa crush ko ‘yon, huwag kayo! Nakakausap ko crush ko, sana kayo rin!
+
+Naging crush ko lang naman din ‘yan si Lachran nung may once na sabay kaming lumalabas kapag uwian, then may once na sabay kami sa jeep no’n. Nalaman ko ngang medyo malapit lang bahay namin sa bahay nila.
+
+Pagkaraan ng ilang araw ay focus naman ako sa pagtuturo sa mga bata rito. Close ko nga ‘tong isang bata, Francine ang pangalan. Tuwing tinuturuan ko kasi siya magbasa ay dikit na dikit sa akin.
+
+“Okay, France, read it. La. Le. Li. Lo. Lu,” sabi ko habang tinuturo ang nasa Abakada book kay Francine. Nasusunod naman niya ako. “Very good!”
+
+Bungisngis naman siyang natuwa. “Hihihi!”
+
+“Taterl! Bading!”
+
+Napalingon naman ako sa tumatakbong kaibigan ko, si Paula.
+
+“Bakit, Paula? Nagmamadali ka?”
+
+“Bhie! ‘Yung crush mo! Nagpapakain sa pantry. Last day na niya rin eh.”
+
+Napatayo ako roon sa gulat. “Weh? Last day na pala niya?”
+
+At hindi ko namamalayan na last day na niya rito? Hindi ko rin namalayang nalungkot na rin ako.
+
+“Oo!” sagot ni Paula sabay lingon sa mga bata. “Tara, kids! Sama kayo sa amin. May foods si Kuya Lachran ninyo!”
+
+“Yehey!” sigaw nila at kay Francine pa ‘yung nangibabaw.
+
+Pumunta nga kami ni Paula sa pantry at nakita kong may mga pagkain sa long table. Nakikain naman ako, kaso hindi ko makita si Lachran!
+
+Nung makita ko naman siya ay may mga kausap siya, ang dami!
+
+Nakakainis na hindi ako makapagpaalam sa kanya nang pormal. Tamang tingin lang ang nagawa ko sa kanya ng araw na ‘to. Hindi ko rin malapitan eh, nanghihina ako.
+
+Napapatingin lang talaga ako sa kanya hanggang sa ayon, uwian na pala. Three and a half hours lang naman din kami rito eh. 3:30 to 7:00 PM ang shift namin.
+
+“Hala! Umuulan pala!” sabi ko sa sarili ko at saka ako nagmadali tumakbo para makatawid doon sa waiting shed. Wala rin akong payong eh. Pero hindi bale na, aantay na lang ako ng jeep.
+
+“Huy!”
+
+Napatigil ako sa pagtakbo. Napalingon kasi ako sa tumawag sa akin amidst the rain!
+
+Wow? Amidst the rain? Binabasa ko lang sa wattpad ‘yan ah! Paano pumasok sa isip ko ‘yan? Ang feeling ko! Feeling Amidst The Rain ang buhay amp!
+
+“Teka, Taterl!”
+
+Hindi ko namamalayan na nakalapit na ang lalaking ito dahil sa titig ko sa kanya. Ni hindi ko nga matandaan na Lachran pala ang pangalan niya kasi nakatitig lang ako sa kanya nung tinawag niya ‘ko
+
+“Payong,” aniya saka niya ako pinayungan. “Baka matunaw ako. Titig ka nang titig.”
+
+Nabalik ako sa ulirat nung sinabi niya ‘yan. Napatalikod tuloy ako at nahihiya. Pero hindi ako umalis sa payong niya. Dinamdam ko lang itong ginagawa niya sa akin.
+
+Ito ‘yung gusto ko! Ganito ‘yung ini-imagine kong scene namin ni Lachlan!
+
+Lumingon ulit ako sa kanya at nung nilingon ko siya ay muntik na akong matumba kasi nauntog ako sa katawan niya! Napahawak din tuloy ako rito!
+
+“Sorry,” sabi ko sabay usog nang unti. “Lakas ng ulan, ano?” parang tanga kong sabi kasi wala akong masabi. “Uh… Last day mo na pala, ano? Congrats, Lachran! Nakuha mo na sweldo mo?” topic topic-an mong sabi at tanong. Haha. Parang gago!
+
+“Oo… By the way, nakakain ka ba ng inihanda ko kanina?”
+
+“Oo,” sagot ko lang sabay lunok.
+
+“Nabasa ako dahil sa ‘yo,” aniya na medyo tumaas ang boses. “Dahil d’yan. Sasamahan mo ako sa bahay namin.”
+
+Biglang tumaas ang dugo ko. “Huh? Bakit naman? Parang kasalanan ko pang nabasa ka. Dapat hindi mo na ako pinayungan.”
+
+“Hinanap kaya kita kasi last day ko. Kaso nawala ka bigla tapos nung umulan bigla, medyo nagmadali kong kuhanin ang payong ko kasi hindi ko makuha. Hanggang sa ayon, nakita kita.”
+
+Natawa ako kasi nag-explain pa talaga siya! Hanggang sa okay, sumama na lang ako sa bahay nila.
+
+Feeling ko tuloy, ile-legal niya ako sa pamilya niya.
+
+Charot!
+
+“Taterl, pasok ka na. Huwag kang mahiya. Wala ang mga kapatid ko rito at si Mama. Umuwi kila Lola eh.”
+
+“Ows?” Ang unang lumabas sa bibig ko lang.
+
+“Ligo muna ako.”
+
+“Okay, ligo well.”
+
+Umupo ako sa sofa nila tapos nag-cellphone. Scroll ng reels sa Instagram tapos sa TikTok.
+
+Hanggang sa mamalayan ko na lang na nakalabas na siya at nakatapis lang ng tuwalya!
+
+Napatitig ako sa katawan niya na kahit payat siya pero matangkad naman ay masarap siya. May abs tapos nag-i-sparkling!
+
+“Matunaw ako niyan, Taterl,” natatawa niyang sabi kaya bumalik ako sa ulirat. “Gusto mo bang hawakan?”
+
+“Hawakan ko? Pwede?” nasabi ko na lang kasi nandito naman na eh. Lalandi na ako!
+
+“Joke lang! Ayoko nga! Baka hindi lang abs ko hawakan mo eh.”
+
+“Ayaw mo ba? Edi wag!”
+
+Bigla naman siyang lumapit sa akin.
+
+“Oh, hawakan mo na!”
+
+Natawa ako at bigla akong nahiya. Nakakainis! Ang landi ko masyado rito.
+
+Umiwas ako ng tingin. “Uwi na pala ako. Nagpasama ka lang naman kasi ‘di ba, kasalanan kong nabasa ka ng ulan?”
+
+“Hindi naman. Gusto lang kita i-invite dito. Hindi talaga kita pinansin kanina.”
+
+Taka ko siyang tinignan. “Hindi mo ako pinansin?”
+
+“Oo. Kaso nung gusto na kita kausapin para magpaalam kasi last day ko. Nawala ka na lang bigla.” Napakamot pa siya sa batok niya kaya nakita ko ‘yung armpit niya na may unting buhok.
+
+Ang bango tignan tapos nakakataas ng ano ako!
+
+Ng ano!
+
+Ayoko sabihin, masyadong bastos eh!
+
+Okay, nalilibugan ako!
+
+Na-distract ako sa kanya kaya hindi ako nakasagot at tila nakalimutan ko ‘yung sinasabi niya. Nagsasalita pa nga siya kaso parang hindi ko na marinig.
+
+Narinig ko lang siya nung ilang beses na niya pala ako tinatawag.
+
+“Taterl. Naririnig mo ba ako? Taterl!”
+
+Imbes na sagutin ko siya ay nagulat na lang ako nang bigla kong hablutin ang batok niya tapos hinalikan ko siya sa kanyang labi!
+
+Akala ko bibitaw siya, pero lumaban din ng halikan sa akin!
+
+Fuck! Ang sarap niyang humalik.
+
+“Pumapatol ka sa bading?” mahinang tanong ko sa kanya nang bitiwan ko ang halikan naming dalawa.
+
+“Sa ‘yo pa lang,” sagot niya. “Halikan ulit tayo, please? Nabitin ako.”
+
+“Shower muna ako, galing din akong ulan eh,” sabi ko sa kanya saka ako tumayo’t ngumisi.
+
+Hindi ko na siya nilingon pa hanggang sa pumasok na ako sa CR nila. Napasandal pa ‘ko saglit sa pintuan pagkasara ko at sobrang bilis ng tibok ng puso ko!
+
+Wala, nandito na ito! Haharvat na ako!
+
+Naglinis na rin ako at hindi shower lang. Nagtagal pa ako ng halos isang oras yata hanggang sa lumabas na ako ng CR, nakasuot ako ng ekstrang tuwalya na nakita ko.
+
+“Ang tagal mo,” sabi niya sabay lumapit kaagad sa akin sabay halik. “Ang hirap umiwas sa ‘yo, Taterl. Sabi ko na, may mangyayari sa atin kapag tayong dalawa lang.”
+
+“Sinabi mo ‘yan?” asar kong tanong sa kanya.
+
+“Oo, sinabi ko sa isip ko.”
+
+Natawa ako sa kanya hanggang sa maghalikan na kaming dalawa.
+
+Tila ba gutom kaming dalawa sa isa’t isa. Lalo na ako kasi crush ko ‘to eh! Nakakagana!
+
+“Ugh!” ungol ko nang halikan niya ako sa leeg ko. “Wait, wala bang magagalit? Single ka naman ‘di ba?”
+
+“Oo, Taterl. Wala akong bebe.”
+
+Gumaan ang loob ko at tinuloy na namin ang halikan. Yakap na yakap ako sa kanya. Halos sabunutan ko na siya sa sarap din ng romansa niya.
+
+Oh god! Nababaliw na ako!
+
+Nababaliw na talaga ako kasi parang baliw ko ring sinubo ang hotdog niya na dream come true ko makikita at matitikman! Pink at reddish siya! Mas lumalamang ‘yan sa pagka-brown din ng hotdog niya.
+
+Higop na higop din ako rito at kada pagbuo ng laway ko ay dinudura ko sa alaga niya saka ko sinusubo ulit ito at dinidilaan nang buong-buo.
+
+“Ugh! Fuck! Ang sarap, Taterl! Sobrang sarap! Ang init ng bibig mo!”
+
+Ginalingan ko pa lalo ang pagsubo nang sinasabi niya ang mga ‘yan.
+
+Sinusubok ako ng pagsubo ko sa alaga niya kaya gagalingan ko at tatatagan ko! Ang laki pa nitong inihain niya sa akin kaya sarap na sarap din ako.
+
+Hanggang sa maya maya’y tinanggal na niya ang bibig ko sa alaga niya. Kinuha niya ang ulo ko at hinalikan niya ako sa labi ko nang sobrang hapit at sabik!
+
+Maya maya’y nag-condom na siya at nag-lube. Inasar ko pa siya na meron pala siya niyan tapos sabi niya naman ay nakuha niya ang mga ‘yan sa mga run niya kasi mahilig daw siyang tumakbo.
+
+“Ugh! Damn! Ang sarap pa rin talaga!” ungol ko nung sixth rounds na kami. “Lachran! Bilisan mo pa! Bibilisan ko rin! Ang sarap mong sakyan habang buhay!”
+
+“Sasakyan mo ‘ko habang buhay?” tanong niya habang binabayo ako nang mabilis.
+
+“Yes! Yes! I do!”
+
+Sa sigaw ko na ‘yan ay mabilis niya pa akong binayo.
+
+Napatingin ako sa orasan habang nakasakay sa kanya at hawak-hawak ko ang katawan niya.
+
+12 AM na pala. Hindi ko namamalayan! Baka hinahanap na ako sa bahay!
+
+Pero dedma kasi ang sarap pa rin ng ginagawa namin!
+
+“Lalabasan na ako!” malakas niyang ungol saka niya tinanggal ang alaga niya sa loob ko.
+
+Pinanood ko nga siyang labasan sa abs niya. Kahit nakapatong pa rin ako sa kanya ay napahiga siya sa sofa at mukhang pagod na.
+
+“Wait lang, Lachran,” sabi ko sabay kumuha ulit ako ng condom na nakapatong sa sofa. “Last na ‘to, seventh round.”
+
+“Bukas na lang ulit, Taterl. Inaantok na ako.”
+
+“Gusto ko sakyan habang buhay ‘yan. Gusto mo rin, ‘di ba?”
+
+“Huwag na ba tayo tumigil, Taterl? May bukas pa naman ulit, pagod na ako ngayon,” aniya sabay kinuha niya ako kaya napahiga ako sa katawan niya.
+
+“Gusto ko pa,” nakasimangot kong sabi.
+
+“Habang buhay mo naman ako masasakyan kasi hindi lang tayo ngayon maggaganito.”
+
+“Hindi lang ngayon?” excited kong tanong sa kanya.
+
+“Oo. Bukas ulit at sa susunod pang bukas. Gusto mo habang buhay na kahit magka-girlfriend at magka-asawa ako eh.”
+
+“Yuck!” disgust kong sabi sabay umalis ako sa kandungan niya. “Ayoko naman no’n! Nakakadiri! Ano tayo, cheater?”
+
+“Nakakalibog kaya ‘yon,” nakangisi niyang sabi sa akin.
+
+“Gagawin mo ‘yon?”
+
+“Joke lang! Hindi, ano! At saka ikaw lang naman gaganituhin ko.”
+
+Ngumisi ako sa kanya habang seductively ko siyang tinignan sa mata niya.
+
+“Okay! Dapat lang!”
+
+At saka ko na siya hinalikan ulit sa labi niya sabay natuloy pa rin ang seventh round namin hanggang sa nakatulog na kami.
+
+Yari ako nito bukas sa pamilya ko, pero okay lang dahil ang kapalit naman nito ay ang pagsakay ko sa crush ko habang-buhay.`,
+    },
+                      {
+        title: "Arvie (bxb)",
+        date: "May 31, 2026",
+        status: "Completed",
+        content: `TW: Sensitive and heavy story. Read at your own risk.
+
+“Ugh! Ugh! Yes! Yes! Fuck!”
+
+Ungol ‘yan ng babae na nababaliw sa bayo ng lalaki na nasa video.
+
+Ewan. Kahit gay ako, mas masarap pa ring manood ng straight. Mas nararamdaman ko ‘yung libog.
+
+At ewan din kasi sa tuwing nanonood ako ng mga palabas na ganito—pornograpiya ay parang nasi-save ang buhay ko.
+
+Suicidal person din kasi ako eh.
+
+Pero malibog.
+
+At ang tanging nakakapag-save lang ng buhay ko ay ang pagiging malibog ko.
+
+Wala na akong Papa at wala ring kapatid. Si Mama lang at ‘yung stepfather ko ang kasama ko rito sa bahay pati ‘yung lalaking Anak ng naging Tatay ko na siyang kasing edad ko.
+
+Sikretong crush ko nga ‘yon eh kaso iniiwasan ko kasi may girlfriend tapos technically ay kapatid ko na rin kasi siya. Ilang taon ko na nga siyang gusto eh tapos ilang taon ko na rin siyang pinapatansya, ang hot niya kasi.
+
+Matapos kong manood ng porn ay nag-scroll naman ako sa reels ng Instagram dump account ko, naghahanap ako ng mga quotes na nakaka-relate sa akin tapos dagdagan pa ng tugtog na nafe-feel ko.
+
+Dito ay nagda-drama ako tapos nagra-rant nang hindi alam ng lahat.
+
+Tangina kasi. Pakiramdam ko wala akong kakampi sa buhay kahit marami akong nakikilalang tao. Social butterfly ako tapos friendly, masiyahing tao kahit uto-uto na napagti-trip-an ng iba.
+
+Pero kahit kasama ko ang mga tao na ‘yon sa saya ay ang nagiging ending, mag-isa pa rin ako. Hinaharap ko na nga lang ang mundo nang mag-isa eh.
+
+Hanggang sa may narinig akong kumakatok. Tumayo ako para buksan ang pintuan ng kwarto ko.
+
+“Oh, bakit?”
+
+“May 300 ka ba d’yan?” tanong ni Kzhoekov, ang stepbrother ko.
+
+“Wala. Kay Papa mo na lang ikaw manghingi.”
+
+Nagulat ako nang bigla niya akong yakapin sa may baywang ko. Magkalayo kami, pero yakap niya ako.
+
+“Sige na… o kaya utang na lang, babayaran naman eh.”
+
+Tinulak ko ang matipuno niyang katawan. “Wala nga sabi! Tsk!”
+
+Sinara ko ‘yung pintuan at saka ako napasandal dito. Napahinga ako nang malalim dahil hindi ko mapigilan ang nararamdaman ko. Fuck! Parang may kuryente!
+
+Bakit kaya niya ginawang yakapin ako nang gano’n? Hay! Sayang at wala akong pera, kahit sobra pa sa 300 ay mabibigay ko roon eh.
+
+Subalit iniwasan ko ulit itong sikretong nararamdaman ko sa stepbrother ko bagkus ay nag-focus na lang ako sa sarili ko.
+
+Sa sarili ko na nilalabanan ang libog at pagpapakamatay.
+
+“’Yung kapatid ko, nasa taas pa eh. Tulog.”
+
+Rinig kong sabi ni Kzhoekov nung isang araw na bababa ako ng hagdan. Kagigising ko lang din kasi at kaka-toothbrush ko lang.
+
+“Oh my, Arvie! I miss you!”
+
+Kaagad na tumakbo sa akin si Olive saka ako niyakap, girlfriend siya ni Kzhoekov at kaibigan ko rin ‘to.
+
+Kaya ang hirap ng buhay ko. Bakit ko ba nararanasan ito? Ang mahulog sa stepbrother ko na may girlfriend pang isa sa mga kaibigan ko rin?
+
+“I miss you too, Olive.”
+
+Niyakap ko rin siya pabalik at palihim kong sinulyapan si Kzhoekov na nakahubad tapos may putting towel sa balikat. Nakatingin lang siya sa aming dalawa na hindi maipinta ang mukha.
+
+“Sixth monthsary namin ng stepbro mo kaya ako nandito,” sabi ni Olive sabay lapit sa tainga ko. “Nagsasawa na nga ko d’yan at gusto ko nang hiwalayan eh,” bulong niya.
+
+“Bakit naman?” bulong din na tanong ko.
+
+“Nakakainis na kasi at parang may gusto siyang iba. Basta. Huwag kang maingay,” natatawa niyang bulong. “By the way, kumusta sex life mo?” mas mahinang bulong niya.
+
+“Wala na. One month ago pa huli ko sa someone na ‘yon,” sagot ko.
+
+Random person lang naman ang nakaka-sex ko. Hook up ang tawag. Ginagawa ko lang ‘yon para makaraos sa sarili ko at kahit papaano’y maibsan ang nararamdaman kong mabigat.
+
+“Ano’ng pinagbubulungan n’yo d’yan?”
+
+“Wala! Hindi ka kasali!” sagot ni Olive sa tanong ni Kzhoekov.
+
+“Nagtatanong lang naman. Nagagalit ka kaagad!”
+
+“Huwag ka kasing mangialam! Mamaya ka na!”
+
+“Tsk! Kainis naman!”
+
+“Ano’ng tsini-tsk mo?”
+
+“Wala!”
+
+Nakaramdam ako bigla ng tensyon sa kanila. Mukhang mag-aaway pa yata ‘tong mga ‘to. Layo na nga ako.
+
+“Excuse me lang ah. Maglilinis muna ako ng kwarto ko. Hehe.”
+
+Umakyat na ako sa taas pagkatapos ko ‘yan sabihin. Para akong nati-trigger sa sagutan nila na ‘yon. Hindi ko kayang pakinggan. Naaalala ko ‘yung away nina Mama at nung tunay kong Ama dati na sumakabilang bahay na.
+
+“Pagod na pagod na rin ako sa ‘yo, Olive! Tangina naman! Oo may gusto akong iba! Masaya ka na?!”
+
+Nagitla ako nang marinig ko ang malakas na sigaw na ‘yan ni Kzhoekov sa baba. Nag-aaway na nga talaga sila.
+
+Makalipas ang ilang minuto nung wala na akong narinig na boses at sigawan. Napagpasya ko nang bumaba na lang para tignan kung ano na’ng nangyayari sa kanila.
+
+“Oh,” sambit ko nang makita si Kzhoekov na nakaupo sa upuang kahoy namin at sinasabunutan ang sariling buhok nito.
+
+“Hiwalay na kami, Arvie,” natatawa niyang salita.
+
+“Biglaan naman,” sabi ko na lang.
+
+“Wala na rin kaming pag-asa eh. Palagi nga kaming nag-aaway no’n. Ayoko nang hindi niya ako sinasali sa mga ganap niya sa buhay. Iniintindi ko naman siya palagi, pero wala! Tangina! Naka-ilang girlfriend na ako, puro na lang palpak!”
+
+Humalukipkip akong tignan siya. Wala rin akong masabi at hindi ko rin alam paano mang-comfort ng ibang tao kahit kapamilya ko pa ‘to.
+
+“Ano na’ng plano mo niyan?” tanong ko makalipas ang ilang segundo.
+
+“Ano’ng plano ‘yang tinatanong mo? Malamang wala! Wala na!”
+
+Tumayo siya at saka halos padabog siyang umakyat sa taas. Napahawak naman ako sa noo ko at hindi ko maiwasang mabigatan sa problema ng iba.
+
+Ganito ako eh. Iniisip ko ‘yung iba palagi at problema ng iba. Na parang dala-dala ko rin ang pinagdaraanan nila hanggang sa i-overthink ko na lang lahat.
+
+Hindi nga ako nagkakamali nung kinagabihan. Ka-chat ko kasi si Olive ngayon at nagra-rant siya. Pagod na daw talaga siya sa kapatid ko at ayaw na niya sa kanya.
+
+Tapos nag-sorry din siya na pati ako ay parang iiwasan na niya. Bilang mabait kahit masakit para sa akin ay naiintindihan ko siya. Para sa peace of mind niya, sige hahayaan ko siya.
+
+Inisip ko na naman ‘yon hanggang sa kung ano-ano na ang iniisip ko. Na para bang gusto ko nang mamatay para lang hindi ko na maisip ang mga ito na naghahalo-halo na sa isipan ko lahat.
+
+Siguro need ko lang magpahangin sa labas. Masyado nang nakukulong ang isipan ko rito sa kwarto ko eh. Tama. Ayon na lang gagawin ko.
+
+Bakasyon din kasi kaya siguro naiinip ako. 4th year college na ako next eh. Hindi ko naman nararamdaman masyado ang mga problema ko kapag nakakalabas kaso minsan nakakatamad din at gusto kong mapag-isa.
+
+Ang gulo ko rin talaga! Wala akong desisyon sa buhay!
+
+“Saan ka pupunta? Sama ako.”
+
+Nagitla naman ako sa boses na ‘yan ni Kzhoekov nung lalabas na sana ako.
+
+“Hala, huwag mo ‘kong isumbong kay Mama at sa Papa mo, gagi.”
+
+Tinakpan bigla ni Kzhoekov ang bibig ko. “Huwag kang maingay. Tulog na sila. Huwag kang mag-alala.”
+
+Ewan ko kung bakit napatitig na lang ako bigla kay Kzhoekov. Magkasing tangkad din kami nito kaya titig na titig ko siya sa mata niya.
+
+Nanatili pang nakatakip ang kamay niya sa bibig ko makalipas ang ilang segundo. Nakatitig din siya sa akin at hindi ko alam dahil para akong nang-iinit.
+
+“Parang tinitigasan ka, Arvie.”
+
+Sa sinabi niya ay tinanggal ko bigla ‘yung kamay niya sa bibig ko para sagutin siya.
+
+“Ano’ng tinitigasan ang pinagsasabi mo?”
+
+“Tinitigasan ka sa ‘kin? Nako, Arvie!” natatawa pa niyang sabi.
+
+“Hindi ah! Baliw!”
+
+Tumalikod na ako sa kanya at saka ako lumabas ng bahay namin ngunit hindi ko namamalayang sumunod pala siya.
+
+“Sabi ko sasama ako, ‘di ba?”
+
+“Pumasok ka na lang sa bahay at magjabol ka na lang sa kwarto mo! Ginugulo mo ‘ko eh. Gusto ko lang magpahangin kasi feeling ko malulunod ako sa mga iniisip ko eh,” sabi ko sa kanya at sinadya ko talagang may masabing bastos para maiba rin ang topic.
+
+Kasi nakakahiya na nakita niyang tinitigasan nga ako!
+
+“May problema ka ba? Malungkot ka? Sabihin mo sa ‘kin,” malambot niyang tanong bigla.
+
+“Wala! Bumalik ka na lang.”
+
+“Sabihin mo sa akin kung ano’ng bumabagabag sa isip mo. Nandito ako para pakinggan ka.”
+
+Marahan ko siyang nilingon.
+
+“Paano mo ako maco-comfort?” panghahamon ko sa kanya.
+
+“Nandito ako pati tite ko kung kailangan mo.”
+
+Natawa ako sa biro niya. “Baliw! Aalis na ako.”
+
+“Saan ka ba talaga pupunta? Makikipag-sex ka ba sa kung sino’ng lalaki kaya aalis ka dis oras ng gabi? Kwento ni Olive sa akin ‘yan eh. Nakekwento niya na may nakaka-sex ka raw para maibsan ang problema mo.”
+
+Nag-panic ako bigla at tinakpan ko ang bibig niya! Medyo malakas ang pagkakasabi niya kasi niyan at baka may makarinig.
+
+“Huwag ka ngang maingay, Kzhoekov!”
+
+Tinanggal niya ‘yung kamay ko sa bibig niya. “Hindi naman ako maingay.”
+
+“Ang ingay mo eh! Ang lakas ng boses mo! Tara nga sa loob. Kainis ka!”
+
+Naisipan kong sabihin sa kanya ang mga problema ko sa sarili ko kasi mapilit siya. Nandito kami ngayon sa kwarto ko at kinwento ko rin sa kanya ‘yung sikreto ko na nakwento ko rin kay Olive. Na nakikipag-sex ako sa iba para maibsan ang mga problema kong nakakalungkot. My insecurities tapos mga pinagtitiisan ko sa buhay ko pati ng mga biro ng mga kakilala ko na nakakasakit na rin. Basta parang lahat nakwento ko na kay Kzhoekov.
+
+“Malaway ka raw talaga?” natatawa niyang tanong bigla sa gitna ng kwentuhan namin.
+
+“Oo, bakit? Ang dami mong tanong! Tama ka na nga! Nasabi ko na mga iniisip ko.”
+
+“Hindi ako naniniwalang malaway ka. Wala sa hitsura mo na makipag-sex sa iba eh. Mukha kang inosente eh.”
+
+“Wala eh… nangyari na ‘yon. Hindi ko na rin uulitin ang mga ‘yon. Magbabago na ako.”
+
+Inakbayan niya naman ako sa balikat ko at pinisil-pisil ‘to.
+
+“Magkapatid tayo, Arvie. Kaya dapat ako ‘yung ituring mong kakampi sa buhay. Huwag kang magpapadala sa lungkot ah. Nandito ako. Mapagsasabihan mo sa problema mo.”
+
+“Okay. Salamat.”
+
+Sandali pang naging tahimik sa pagitan namin hanggang sa magsalita siya.
+
+“Patunayan mo nga sa aking malaway ka.”
+
+“Paano?”
+
+“Subo mo ‘to.”
+
+Nagulat ako sa sinabi niyang ‘yan.
+
+Ngunit bago pa ako makapagsalita ay nilabas na niya ‘yung kanyang alaga na nasa short niya. Napalunok ako dahil may inihahain na siya sa akin. Paano pa ako tatanggi? Lalo pa’t tigas na tigas ang malaki niyang alaga.
+
+Fuck! Bakit ba sa tuwing nakakakita ako ng tite ay tila nakakalimutan ko ang pangalan ko?
+
+Kaya naman sinunggab ko na kaagad ang alaga niya at isinubo ko ito nang walang humpay na para bang nasapian ako sa sitwasyon kong ito.
+
+Subo lang naman ang nangyari. Taas baba lang ako nang taas baba dito sa alaga niya na parang mundo ko ngayon.
+
+Ikaw ba naman mapunta sa sitwasyon na alaga lang ng isang lalaki ang kaharap mo ngayon. Edi magagawa mong mundo ito.
+
+Nilabasan siya sa mukha ko at matapos ng lahat ay tinabihan niya akong matulog at niyakap niya ako patalikod.
+
+Hindi ko maiwasang mag-overthink sa nangyari sa amin pagkatapos. Iniisip ko na malaking kasalanan itong ginawa naming dalawa.
+
+“Huwag kang mag-alala. Wala namang makakaalam nito at hindi naman din tayo magkadugo. Saka wala na kami ni Olive kaya single naman ako.”
+
+“Kaso kakahiwalay mo lang…” salita ko na lang bigla kasi ayan ang bumabagabag sa isip ko.
+
+“Huwag kang mag-alala. Hindi ko na babalikan ‘yon. Saka palagi na rin nating gagawin ‘to tapos yayakapin kita palagi. Sarap mo nga rin sumubo eh.”
+
+“Okay… sige,” nasabi ko na lang.
+
+“Ikaw ‘yung nagugustuhan ko pala, Arvie. Kaya wala ka nang dapat pang ipag-alala. Ako na rin ‘yung magiging kakampi mo sa lahat.”
+
+Natawa ako. “Sure ka? Baka sumuko ka rin sa akin kasi overthinker ako malala, malibog at suicidal pa.”
+
+“Maging malibog ka na lang, Arvie. Huwag na ‘yang dalawang ‘yan,” aniya sabay niyakap niya pa ako nang mas mahigpit.
+
+Hindi ko man masabi na tama ito ngunit alam ko lang na sa ngayon ay pipiliin ko naman ang sarili ko’t kasiyahan ko kahit na maging mali pa para sa iba.
+
+Hahayaan ko na lang na mangyari ito at bahala na ang magiging buhay ko sa mga susunod man kasi nakakapagod na ring problemahin lahat.`,
+    },
+                          {
+        title: "Duldol Sagad (bxb)",
+        date: "June 10, 2026",
+        status: "Completed",
+        content: `TW: Sensitive story. Read at your own risk.
+
+“Gawk! Gawk! Gawk!”
+
+Mas marahas ko pang binayo ang bunganga ng ka-date ko ngayon sa kama ko. Sobrang sarap at napapatirik ako! Ang sarap ng pakiramdam ng bunganga niya, kingina!
+
+Ngunit nawala lang ‘yon nang mawala ang bunganga niya sa alaga ko. Fuck! Bitin!
+
+“Ayoko na! Masyado mong dinuduldol ‘yang titi mo sa bunganga ko! Ang sakit kaya sa panga! Bwisit kanina pa!” galit na sabi nito sa maarteng paraan.
+
+“Hala!” dismaya kong sabi. “Medyo malapit na ako labasan eh. Ibalik mo ‘yang bunganga mo rito.”
+
+“Ayaw ko na! Uuwi na ako,” aniya habang sini-stretch niya ang kanyang bibig.
+
+“Wait lang!”
+
+“Ayaw mo naman ding i-fuck ako eh! Puro na lang bunganga ko. Nakakainis!”
+
+“Mas nakakalibog kasi kapag galing sa bunganga kaysa sa butas eh.”
+
+Umirap lang ito sa sinabi ko. “Ayaw pa! Mas masikip nga sa butas ko.”
+
+“Gusto ko kasi ‘yung maraming laway eh tapos gusto ko kasi ng nangfe-face fuck.”
+
+“Ayoko no’n! Bahala ka!”
+
+Hindi ko na rin siya napigilan kasi kaagad siyang nagbihis at lumabas ng apartment ko. Kainis naman! Magsasarili tuloy ulit ako gamit ang kamay ko o kaya ng toy fleshlight ko.
+
+Palagi na lang ganito! Lahat kasi sila ay ayan ang sinasabi. Kada tao kasi na chumuchupa ng ari ko ay umaatras na lang palagi.
+
+Masyado raw ako agresibo bumayo ng bunganga. Eh ayon ang gusto ko eh! Saka ang sarap kasi sa pakiramdam kaya ang sarap ipalamon nito.
+
+Ako si Wafril at 24 years old na ako. Tingin ko ay heto ang problema ng lahat sa akin. Ewan ko ba, mas masarap kasi talaga kapag sa bunganga. Sarap bayuhin tapos dumudulas pa gawa ng laway nila.
+
+Minsan napapaisip ako kung sakit ko ba ‘to. Basta kasi sobrang satisfied kasi kapag sa bunganga!
+
+Isang linggo ako tumigil sa buhay libog ko na ‘to sa ibang tao na hindi ko naman kilala dahil nakakawala na lang bigla ng gana. Gusto ko na ring magbago at gusto ko nang pigilan ito. Baka masyado na ako nakakasakit din sa ibang bunganga dahil sa kagustuhan ko na ‘yon.
+
+Nagka-girlfriend ako dati tapos Maisa ang pangalan niya, noong ginawa ko sa bunganga niya ‘yon ay hiniwalayan niya ako dahil doon. Nung nag-try naman ako sa gays ay mas masarap pala sa pakiramdam lalo kasi masarap pala ang bunganga nila kaysa sa babae at saka higop na higop pa.
+
+Ang sarap ipalamon sa kanila ng malaki kong ari subalit pakiramdam ko ay may hangganan din ang lahat. Ayon! Palagi na lang ako inaalisan nila dahil grabe naman kasi talaga ako mang-fuck ng bunganga.
+
+Mouthfuck at facefuck kasi ang kink ko eh.
+
+Nung nag-dalawang linggo na ay hindi ko rin napigilan na maghanap ulit sa app na ginagamit ko para maghanap ng date sex.
+
+Naglagay ako ng caption kung ano’ng sadya ko tapos pinindot ko ang ‘yes’ para makahanap na ako ng maima-match sa akin.
+
+ Apakatigas… lf bottom na susubo nito, my place or your place ;>
+
+Bahala na! Babawi ako at hahayaan ko na lang na sila na lang ang gumalaw ng ari ko at hindi ko na babayuhin ang bunganga nila.
+
+Mayamaya ay may nag-match na sa akin kaya cl-in-ick ko na ang magiging conversation namin.
+
+Orgi:
+
+U top?
+
+Napangiti ako sa tanong niya’t automatic na tumigas ang alaga ko. Tinatanong kasi ako kung ‘top’ ba ako eh. Nakakatigas talaga sa feeling ‘yon. Para akong inaakit.
+
+Freel (me):
+
+Yup, u?
+
+Orgi:
+
+Wow! Loveit!
+
+HAHAHAHAHAHAHA ugh
+
+Tara na agad sa place ko
+
+Sent a location.
+
+Sent a photo.
+
+Napanganga ako sa photo na s-in-end niya. This is his butt pic at pink ang butas nito kaso mas gusto ko talaga ‘yung bunganga eh.
+
+Freel:
+
+Sarap ah
+
+Pink
+
+Sumusubo ka?
+
+Orgi:
+
+Oo
+
+Gusto ko talaga sumubo ngayon eh hihihi
+
+Freel:
+
+Pero ayan sinend mo sa akin hahaha
+
+Orgi:
+
+HAHAHAHAHAHAHA pampaakit lang para tumigas ‘yan
+
+Btw tigas na ba? Tingin pls
+
+Freel:
+
+Sent a photo.
+
+7 inches ‘yan
+
+Okay ba?
+
+Orgi:
+
+OMYGODDDD UGH
+
+Okay na okay! Ugh damn!
+
+Grabeng tt ‘yan, ipapasubo mo ba ‘yan sa akin?
+
+Punta ka na sa bahay please
+
+Gusto ko na sumubo
+
+Pink at tigas na tigas tas maugat pa pls give your fckngdck to me please please Freel, please
+
+Freel:
+
+Magaling ka ba sumubo?
+
+Orgi:
+
+Oo kahit ilang oras kaya ko at kahit isagad mo sa lalamunan ko okay lang
+
+Please pumunta ka na
+
+Sent a location.
+
+Punta ka jan 300 meters ka lang pala eh
+
+Please
+
+Freel please gusto ko na sumubo
+
+Nang-init ako sa mga flood chat niya ngunit hindi ko rin maiwasang matakot. Sobrang libog nga nitong Orgi na ‘to kaso baka umatras siya kapag hindi ko mapigilang bayuhin ang bunganga niya.
+
+Nanaig pa nga rin ang libog ko at umalis ako ng bahay para puntahan ang location niya.
+
+Pagkarating ko na rito ay nag-chat ako sa kanya.
+
+Freel:
+
+Nandito na ako
+
+Orgi:
+
+Ano kulay ng suot mo?
+
+Freel:
+
+Sharmaine ang suot ko
+
+Orgi:
+
+Anong sharmaine??
+
+Freel:
+
+Orange
+
+Orgi:
+
+Nakikita na kita, lingon ka sa kaliwa
+
+Lumingon naman ako sa kaliwang bahagi at nakita ko ‘yung lalaki sa pintuang butas butas na siyang nagsesenyas sa ‘kin na lumapit ako roon.
+
+Wait, siya ba talaga ang ka-date ko ngayon? Baka may tinatawag lang. Nakakahiya naman.
+
+Pagkalapit ko ay nakita ko nang malapitan ang hitsura niya. Nanlaki ang mata ko kasi kilala ko siya!
+
+“Lorgon?!”
+
+“Wafril?!”
+
+Sabay naming tawag sa isa’t isa na gulat na gulat!
+
+“Ikaw si Orgi?!” gulat kong tanong muli.
+
+“Pumasok ka nga muna rito at mag-usap tayo,” aniya at saka niya hinila ang neckline ng T-shirt ko para makapasok sa bahay nila.
+
+Sinara niya ang pintuan at saka nagkakakamot sa leeg. Tingala ko siyang tinignan dahil mas matangkad siya sa akin. 5’11 siya na maputi at cute boy habang ako ay 5’8 na manly.
+
+“Bakit ikaw pa?” salita niya sabay hinga nang malalim. “Baka malaman ito ni Ate Maisa,” tukoy niya kay Maisa.
+
+Magkapatid kasi sila ng ex-girlfriend ko.
+
+Napangisi ako. “Wala eh, nandito na… isubo mo na.”
+
+Kinuha ko ‘yung kamay niya at pinahawak ko sa kanya ang naninigas at malaki kong ari.
+
+“Isusubo ko na? Paano kung malaman ni Ate?”
+
+“Wala na kami ng kapatid mo, matagal na at may bagong boyfriend na rin siya. Saka hindi naman natin ito ipapaalam sa kanya.”
+
+Tumango naman si Lorgon sa sinabi ko at lumuhod na siya bigla.
+
+“Okay! Ngayon akin na ang ex boyfriend ng kapatid ko. I am the tall bottom and you’re the small top. Sobrang hot!”
+
+Nalibugan ako sa sinabi niya kaya idininuldol ko sa mukha niya ang matigas kong alaga na nasa short ko. Inihimas-himas niya naman ito gamit ang mukha’t kamay niya hanggang sa inilabas na niya ang alaga kong kanina pa gusto lumabas.
+
+“Init ng kamay mo,” sambit ko nang hawakan na niya ang alaga kong sobrang tigas.
+
+“Mukhang ang sarap nito isubo. Matagal ko na nakikita itong bakat sa gray pants mo nung kayo pa ni Ate. Ngayon, heto at nakaharap ko na. Sarap!”
+
+“Tinitignan mo na ‘to kahit girlfriend ko pa si Maisa dati?”
+
+“Oo, Wafril… bakat kasi dati tapos malaki nga talaga siya, kakayanin ko ba?” nakangiting sabi niya sabay subo ng ulo ng alaga ko!
+
+“Oo nam- ugh! Sarap! Gusto mo ‘yan? Hmm?” tanong ko sa kanya at ungol nang dilaan niya ang ulo ng aking alaga.
+
+Niluwa niya ang alaga ko. “Isampal mo sa akin.”
+
+“Isampal ko sa ‘yo?” tanong ko pabalik.
+
+“Please, isampal mo sa akin.”
+
+Pinatong ko ‘yung napakatigas kong alaga sa mukha niya at sakop na nito ang buong mukha niya dahil sa laki rin ng alaga ko.
+
+Sinampal ko ito sa mukha niya at inilibot ko ang ulo ng alaga ko sa buong pisngi niya.
+
+“Duraan mo,” utos ko.
+
+Sumunod naman siya sa sinabi ko. Hinampas ko naman ‘yung dila niyang nakalabas hanggang sa ipasubo ko na ito nang buo sa kanya.
+
+“Ugh! Fuck! Galing mong mag-deepthroat, Orgi!” ungol ko at tawag ko sa kanyang username.
+
+“Bakit hindi ka makasagot, huh? Gusto mo ‘yan?”
+
+“Uhm-mhm…” sagot niya habang nakasalpak ang alaga ko sa kanyang bunganga.
+
+“Parang masarap kantutin ang bunganga mo, okay lang ba?”
+
+Tumango-tango siya pabilang sagot habang nakasalpak pa rin ang alaga ko sa bunganga niya.
+
+Umupo ako sa sofa nila habang nakasubo pa rin siya sa alaga ko. Dito ko na sinimulang ipalamon sa kanya ang buong alaga ko at binayo ko ito nang pabilis nang pabilis habang unti-unti kong nahuhubad ang short at boxer na suot ko.
+
+Nang mahubad ko ito ay mas lumuwag ang pagbayo ko sa bunganga niya.
+
+“Gawk! Gawk! Gawk! Gawk!”
+
+Mayamaya ay tinanggal niya ang alaga ko sa bunganga niya saka siya umubo-ubo.
+
+“Ano? Kaya mo pa?”
+
+“Yes po…” sagot niya sabay ubo muli. “Ang sarap. Gusto ko no’n, ‘yung parang binababoy ako. Please! Please!”
+
+“Beg.”
+
+“Please, Wafril! Please!”
+
+Sinabunutan ko ang buhok niya at saka ko isinalpak ulit ang alaga ko sa bunganga niya sabay bayo nang mabilis.
+
+Na kahit nabubulunan siya ay hinahayaan niya pa rin akong bayuhin ang bunganga niya.
+
+Ito ang gusto ko! Fuck! Sobrang sarap! Tila nakahanap na pala ako ng katapat ko eh! Hapit na hapit sa alaga ko!
+
+Umubo nga ulit siya nang tanggalin niya ang alaga ko sa bunganga niya.
+
+“Nabubulunan ako.”
+
+“Nabubulunan ka? Edi chupain mo pa! Nganga!”
+
+Ngumanga naman siya kahit naluluha. Sinubo niya ulit ang alaga ko hanggang sa binayo ko ulit ito.
+
+“Ugh! Fuck! Gago! Sarap ng bunganga mo, Lorgon!”
+
+“Gawk! Gawk! Gawk!”
+
+“Ugh! Tangina!” ungol ko pa lalo sabay palamon pa rin sa kanya ng alaga ko.
+
+“Ano, kaya mo pa?” tanong ko after 30 minutes.
+
+“Hubad ka please,” sabi niya.
+
+“Bakit?”
+
+“Gusto ko lang maghubad ka, please!”
+
+“Wala akong abs, flat tummy lang.”
+
+“That’s my type, please.”
+
+Dahil sa pagmamakaawa niya na maghubad ako ng damit pantaas ay inihubad ko na ito.
+
+Kaya bumalik siya sa pagsubo ng alaga ko hanggang sa bayuhin ko ulit ito.
+
+Sobrang sarap as hell! Grabe! Ang sarap talaga kumantot ng bunganga, tangina!
+
+Nang ramdam kong malapit na ako labasan ay mas lalo pa akong nanggigil bayuhin ang bunganga niya.
+
+Talagang duldol sagad ang ginagawa ko rin! Sobrang sarap dahil ngayon ko lang naranasan ito at sa kapatid pa talaga ng ex girlfriend ko na tila matagal na pala akong pinapantasya!
+
+Rinig na rinig ko pa ang tunog ng laway niyang pumuputok kaya lalo akong ginaganahan.
+
+“Ugh! Fuck! Lalabas na!” halos pasigaw kong ungol. “Ang galing mo! Hapit na hapit ka sa alaga ko ah! Lamunin mo!”
+
+Sinabayan niya pa ng mabilis na bj ang pagbayo ko sa bunganga niya kaya sarap na sarap ako!
+
+Heaven! Ngayon ko lang naranasan ito! Sobrang sarap! Sobrang salamat sa buong maykapal na ipinaranas sa akin ito.
+
+Salamat sa bibig ni Lorgon!
+
+Kusa na lang akong nilabasan sa loob ng bibig niya kaya kaagad niya itong inalis kasi mukhang nalunod yata sa katas ko.
+
+Ngumiti ako sa kanya. “Ano? Masarap ba?”
+
+Sinubo niya pa ito kaya nakiliti ako! Mabuti at saglit lang niya ginawa ito kung hindi mababaliw ako lalo!
+
+“Sarap! Mas masarap pa ‘to sa naging boyfriend ko.”
+
+“Nasaan ‘yung naging boyfriend mo na ‘yan?” kaagad na tanong ko.
+
+“Wala. Kahihiwalay lang namin. Kaya nga naghahanap ako ng masusubo kasi broken ako.”
+
+“Kaya pala hapit ka.”
+
+“Sobrang tagal ko na kasi hindi nakasubo eh… buti na lang nandiyan ka. Laki ng alaga mo tapos ang pogi mo pa.”
+
+Ngumisi ako sa kanya. “Salamat din kasi kahit bayuhin ko ang bunganga mo, hindi ka sumusuko.”
+
+“Gusto ko ‘yung pinapalamon sa akin eh. Sobrang sarap. Tawagin mo man akong hapit na bakla, mas gugustuhin ko pa ‘yon marinig palagi.”
+
+“Hapit ka na bakla? Hapit saan?” natatawa kong tanong.
+
+“Dito,” aniya sabay hawak sa alaga ko.
+
+“Gusto mo pa?”
+
+“Yes!” sagot niya sabay dila ng alaga ko.
+
+Napatingala ako dahil isusubo na naman niya ang alaga ko!
+
+Simula mangyari ito sa amin ni Lorgon ay madalas na namin itong ginagawa. Gawa kasi ng broken siya ay sobrang hapit na hapit siya.
+
+Ako naman ay kapag may times na gusto kong may sumubo ng alaga ko dahil libog ako o kaya stress dahil sa trabaho ko at buhay kong walang kwenta ay nandiyan siya’t pumupunta kaagad sa akin.
+
+Natigil nga lang ang ginagawa namin na ‘yon dahil sabi niya ay sumasakit daw ang panga niya dahil sobrang agresibo raw ako mangduldol ng alaga ko na siyang sagad na sagad daw.
+
+Kaso kalaunan ay gawa-gawang dahilan niya lang pala ‘yon dahil nalaman kong nagbalikan na pala sila ng boyfriend niya. Kaya naman pala.
+
+Kaya heto, balik ulit ako sa paghahanap at umaasang may mahanap ako na katulad ni Lorgon na hapit na hapit sa alaga ko kahit sobra akong mang-duldol sagad sa pagbayo sa bunganga.`,
     },
 );
