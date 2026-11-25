@@ -49,8 +49,8 @@ const translations = {
         byOneshotDesc: "Complete standalone stories.",
         backFormats: "← Back to Formats",
         backTitles: "← Back to Titles",
-        selectTitle: "Select Story Title:",
-        selectOneshot: "Select One-Shot Title:",
+        selectTitle: "Select Story Title",
+        selectOneshot: "Select One-Shot Title",
         selectChapter: "Select Chapter / Part",
         novelNotice: "You can read all my novel stories directly on my official Wattpad account!",
         openWattpad: "Open Wattpad Account",
@@ -98,8 +98,8 @@ const translations = {
         byOneshotDesc: "Kumpletong kwento sa isang basahan lamang.",
         backFormats: "← Bumalik sa Uri",
         backTitles: "← Bumalik sa Pamagat",
-        selectTitle: "Piliin ang Pamagat ng Kwento:",
-        selectOneshot: "Piliin ang Pamagat ng One-Shot:",
+        selectTitle: "Piliin ang Pamagat ng Kwento",
+        selectOneshot: "Piliin ang Pamagat ng One-Shot",
         selectChapter: "Piliin ang Kabanata / Bahagi",
         novelNotice: "Maaari mong basahin ang lahat ng aking serye ng nobela nang direkta sa aking opisyal na Wattpad account!",
         openWattpad: "Buksan ang Wattpad Account",
@@ -568,17 +568,6 @@ function renderSubCategoryDirect() {
     const t = translations[currentLang];
 
     if (currentSubCategory === 'by_parts') {
-        let html = `
-            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
-                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
-                    ${t.backFormats}
-                </button>
-                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">${getCategoryLabel(currentCategory)} • Series</span>
-            </div>
-            <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-3">${t.selectTitle}</h3>
-            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
-        `;
-
         let storyKeys = [];
         if (window.storyDatabase) {
             storyKeys = Object.keys(window.storyDatabase).filter((sKey) => {
@@ -593,6 +582,21 @@ function renderSubCategoryDirect() {
                 return parseStoryDate(dateB) - parseStoryDate(dateA);
             });
         }
+
+        const countLabel = currentLang === 'en'
+            ? `${storyKeys.length} ${storyKeys.length === 1 ? 'story' : 'stories'} available`
+            : `${storyKeys.length} ${storyKeys.length === 1 ? 'kwento' : 'na kwento'} ang available`;
+
+        let html = `
+            <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
+                <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
+                    ${t.backFormats}
+                </button>
+                <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">${getCategoryLabel(currentCategory)} • Series</span>
+            </div>
+            <h3 class="text-xs sm:text-sm font-bold text-orange-600 mb-3">${t.selectTitle} (${countLabel}):</h3>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
+        `;
 
         if (storyKeys.length > 0) {
             storyKeys.forEach((sKey) => {
@@ -628,6 +632,17 @@ function renderSubCategoryDirect() {
         html += `</div>`;
         area.innerHTML = html;
     } else {
+        let oneshotsList = [];
+        if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
+            oneshotsList = [...window.oneShotDatabase[currentCategory]].sort((a, b) => {
+                return parseStoryDate(b.date) - parseStoryDate(a.date);
+            });
+        }
+
+        const countLabel = currentLang === 'en'
+            ? `${oneshotsList.length} ${oneshotsList.length === 1 ? 'story' : 'stories'} available`
+            : `${oneshotsList.length} ${oneshotsList.length === 1 ? 'kwento' : 'na kwento'} ang available`;
+
         let html = `
             <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2 pb-4 mb-6 border-b border-slate-200 dark:border-slate-800">
                 <button onclick="proceedToCategory()" class="inline-flex items-center gap-2 px-3 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-800 hover:bg-orange-600 hover:text-white transition-all text-xs font-bold cursor-pointer shadow-sm">
@@ -635,16 +650,9 @@ function renderSubCategoryDirect() {
                 </button>
                 <span class="text-xs sm:text-sm font-bold text-slate-700 dark:text-slate-300 text-left sm:text-right">${getCategoryLabel(currentCategory)} • One-Shots</span>
             </div>
-            <h3 class="text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 mb-3">${t.selectOneshot}</h3>
+            <h3 class="text-xs sm:text-sm font-bold text-orange-600 mb-3">${t.selectOneshot} (${countLabel}):</h3>
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3">
         `;
-
-        let oneshotsList = [];
-        if (window.oneShotDatabase && window.oneShotDatabase[currentCategory]) {
-            oneshotsList = [...window.oneShotDatabase[currentCategory]].sort((a, b) => {
-                return parseStoryDate(b.date) - parseStoryDate(a.date);
-            });
-        }
 
         if (oneshotsList.length > 0) {
             oneshotsList.forEach((os) => {
